@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
 public class CarDataTransformer {
 
     public static void main(String[] args) {
-        String filePath = "/data/orig/550iAT_F11_LCI_HR91.txt"; // Replace with your file path
+        String filePath = "src/main/resources/data/orig/550iAT_F11_LCI_HR91.txt";
         try {
             String jsonData = transformCarData(filePath);
             System.out.println(jsonData);
@@ -27,6 +27,10 @@ public class CarDataTransformer {
         List<Map<String, String>> carDataList = new ArrayList<>();
         Map<String, Map<String, String>> equipmentLookup = new HashMap<>();
         StringBuilder jsonBuilder = new StringBuilder();
+
+        // Find out the current working directory to debug the file path if you get "File not found":
+//        String currentWorkingDirectory = System.getProperty("user.dir");
+//        System.out.println("Current working directory: " + currentWorkingDirectory);
 
         try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
             String line;
