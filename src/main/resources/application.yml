@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: my-rest-app
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: admin
+    password: admin
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+      dialect: org.hibernate.dialect.PostgreSQLDialect
+    show-sql: true # Optional: Logs SQL queries
+    properties:
+      hibernate:
+        format_sql: true # Optional: Formats SQL for better readability

@@ -1,0 +1,13 @@
+package com.nancologist.my_rest_app;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MyRestAppApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MyRestAppApplication.class, args);
+	}
+
+}
