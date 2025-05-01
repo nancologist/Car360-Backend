@@ -3,15 +3,17 @@ spring:
     name: my-rest-app
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/postgres
+    url: jdbc:postgresql://localhost:5432/springular
     username: admin
     password: admin
+    driver-class-name: org.postgresql.Driver
 
   jpa:
-    hibernate:
-      ddl-auto: update
-      dialect: org.hibernate.dialect.PostgreSQLDialect
-    show-sql: true # Optional: Logs SQL queries
     properties:
       hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        default_schema: car360
         format_sql: true # Optional: Formats SQL for better readability
+    hibernate:
+      ddl-auto: update
+    show-sql: true # Optional: Logs SQL queries
