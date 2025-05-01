@@ -1,0 +1,3263 @@
+Individualdata finns!       
+
+  Fordonsuppgifter  
+ 
+ Typ  Wert 
+ Chassinummer  WBAHR92090D000000 
+ Typkod  HR92 
+ Typ  550I (EUR) 
+ E-modellserie  F11 (MUE) 
+ Serie  5 
+ Typ  TOUR 
+ Styrning  RL 
+ Dörrar  5 
+ Motor  N63T 
+ Cylindervolym  4.40 
+ Motoreffekt  330 
+ Motor  HECK 
+ Växellåda  AUT 
+ Färg  ALPINWEISS 3 (300) 
+ Stoldynor  EXC.LED.NA./ELFEN.W. EX.NAHT(SW/SW) (LZET) 
+ Produktionsdatum  2012-10-23 
+ 
+
+
+  Extrautrustning  
+ 
+Kod  Benämning (gränssnitt)  Benämning (EPC) 
+S1CAA  SELEKTION COP RELEVANTER FAHRZEUGE  Urval COP-relevanta fordon 
+S223A  ELEKTRONISCHE DAEMPFER CONTROL(EDC)  EDC 
+S230A  EU SPEZIFISCHE ZUSATZUMFAENGE  Extrapaket specifik för EU 
+S255A  SPORT-LEDERLENKRAD  Sportratt läder 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Däck med nödkörningsegenskaper 
+S2PAA  RADSCHRAUBENSICHERUNG  Hjulbultsäkring 
+S2W1A  18"LM RAEDER VIELSPEICHE 454  BMW LM-fälg multieker 454 
+S320A  MODELLSCHRIFTZUG ENTFALL  Bortfallat, modellbeteckning 
+S322A  KOMFORTZUGANG  Komfortåtkomst 
+S386A  DACHRELING  Takreling 
+S3ACA  ANHAENGERKUPPLUNG  Släpvagnskoppling 
+S3AGA  RUECKFAHRKAMERA  Backkamera 
+S402A  PANORAMA GLASDACH  Panoramatak elektrisk 
+S418A  GEPAECKRAUMPAKET  Bagagerumspaket 
+S423A  FUSSMATTEN IN VELOURS  Inlaeggningsmatta velours 
+Kod  Benämning (gränssnitt)  Benämning (EPC) 
+S428A  WARNDREIECK  Varntriangel och förbandspaket 
+S430A  INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND  In-/utvänd. speglar m. nedbländ.autom 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innerbackspegel automatisk avbländade 
+S441A  RAUCHERPAKET  Rökare-sats 
+S455A  AKTIVSITZ FUER FAHRER/BEIFAHRER  Aktivt stol f förarsida/passagerar 
+S456A  KOMFORTSITZE ELEKTRISCH VERSTELLBAR  Komfortsaete med minne 
+S488A  LORDOSENSTUETZE FAHRER/BEIFAHRER  Svankstöd förare och frams.passagerare 
+S494A  SITZHEIZUNG FUER FAHRER/BEIFAHRER  Stoluppvärmning förarsida/passagerar 
+S4CEA  EDELHOLZAUSF.FINELINE ANTHRAZIT  Ädelträutförande Fineline anthrazit 
+S502A  SCHEINWERFER-WASCHANLAGE  Stralkastarspolare 
+S508A  PARK DISTANCE CONTROL (PDC)  Parkeringsavståndskontroll (PDC) 
+S548A  KILOMETERTACHO  Kilometerräknare 
+S552A  ADAPTIVER LED-SCHEINWERFER  Adaptiv LED-strålkastare 
+S575A  ZUSAETZLICHE 12-V-STECKDOSEN  extra 12V-eluttag 
+S5A1A  LED-NEBELSCHEINWERFER  LED Dimstraalkastare 
+Kod  Benämning (gränssnitt)  Benämning (EPC) 
+S5ACA  FERNLICHTASSISTENT  Helljusassistent 
+S5AGA  SPURWECHSELWARNUNG  Filbytesvarning 
+S5ASA  DRIVING ASSISTANT  DRIVING ASSISTANT 
+S606A  NAVIGATIONSSYSTEM BUSINESS  Navigationssystem Business 
+S610A  HEAD-UP DISPLAY  Head-up display 
+S654A  DAB TUNER  DAB-mottagarmodul 
+S676A  HIFI LAUTSPRECHERSYSTEM  HiFi-Högtalarsystem 
+S698A  AREA-CODE 2  Area-Code 2 för DVD 
+S6AAA  BMW TELESERVICES  BMW TeleServices 
+S6ABA  STEUERUNG TELESERVICES  Styrning TeleService 
+S6VBA  STEUERUNG INFOTAINMENT  Styrning Infotainment 
+S6WBA  MULTIFUNKTIONALES INSTRUMENTENDISPL  Multifunktionell instrumentdisplay 
+P7S2A  LUXURY LINE  Luxury Line 
+L812A  ENGLAND/IRLAND AUSFUEHRUNG  Landsutförande England / Irland 
+S850A  ZUSAETZL. TANKFUELLUNG EXPORT  Extra-Export tankning 
+Kod  Benämning (gränssnitt)  Benämning (EPC) 
+S851A  SPRACHVERSION DEUTSCH  Sprak tyska 
+S879A  DEUTSCH / BORDLITERATUR  Fordonsdokumentation tyska 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatisk låsanordning vid start 
+S8SCA  LAENDERSPEZ. TELESERVICEFREISCH.  Telematics access request,country-spec. 
+S8SDA  UNTERFAHRSCHUTZ LAENDER  Underkörningsskydd i landsvarianter 
+S8SMA  FAHRGESTELLNUMMER,V.AUSSEN SICHTBAR  Chassinumret syns utifrån 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktivt fotgängarskydd 
+S8TGA  DIEBSTAHLSICHERUNG  Stöldsäkring 
+S8V1A  HINWEISSCHILD NCAP  Haenvisningsskylt 
+S909A  ANALYSESTECKER  Dummy-SALAPA 
+S991A  STEUERUNG VORSERIE  Styrning förserie 
+S9ACA  TARNUNG NSG FAHRZEUGE  Dummy-SALAPA 
+S9AEA  ENTWICKLUNGSKONFIGURATION E/E DATEN  Dummy-SALAPA 
+ 
+
+
+  Serieutrustning  
+ 
+Kod  Benämning (gränssnitt)  Benämning (EPC) 
+S1CCA  AUTO START STOP FUNKTION  Automatisk start-/stoppfunktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S205A  AUTOMATIC GETRIEBE  Automatväxel 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimatautomatik med 4-zonreglering 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Adaptive Drive-knapp inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Omgivningsbelysning kupé 
+S6NHA  FREISPRECHEIN. M. USB-SCHNITTSTELLE  Handsfree med USB-gränssnitt 
+ 
+
+
+  Individualfordonsdata  
+ 
+Text 
+ no access - Vehicle data protected  
+ 
+
+  
+Utrustning 
+ 
+ 
+ 
+Individualdata finns!       
+
+  Fordonsuppgifter  
+ 
+ Typ  Wert 
+ Chassinummer  WBAHR92000D000001 
+ Typkod  HR92 
+ Typ  550I (EUR) 
+ E-modellserie  F11 (MUE) 
+ Serie  5 
+ Typ  TOUR 
+ Styrning  RL 
+ Dörrar  5 
+ Motor  N63T 
+ Cylindervolym  4.40 
+ Motoreffekt  330 
+ Motor  HECK 
+ Växellåda  AUT 
+ Färg  ALPINWEISS 3 (300) 
+ Stoldynor  LEDER DAKOTA/SCHWARZ (LCSW) 
+ Produktionsdatum  2013-01-30 
+ 
+
+
+  Extrautrustning  
+ 
+Kod  Benämning (gränssnitt)  Benämning (EPC) 
+S1CAA  SELEKTION COP RELEVANTER FAHRZEUGE  Urval COP-relevanta fordon 
+S212A  AUSSTATTUNG BREMSANLAGE LAENDER  Uitvöring bromssyst. länder-specifik 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Däck med nödkörningsegenskaper 
+S2VAA  ADAPTIVE DRIVE  Chassiversion "Adaptive Drive" 
+S2VHA  INTEGRAL-AKTIVLENKUNG  Integrerad aktiv styrning 
+S316A  AUTOMATISCHE HECKKLAPPENBETAETIGUNG  Koffertluckamekanism automatisk 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innerbackspegel automatisk avbländade 
+S441A  RAUCHERPAKET  Rökare-sats 
+S502A  SCHEINWERFER-WASCHANLAGE  Stralkastarspolare 
+S508A  PARK DISTANCE CONTROL (PDC)  Parkeringsavståndskontroll (PDC) 
+S524A  ADAPTIVES KURVENLICHT  Adaptivt kurvljus 
+S548A  KILOMETERTACHO  Kilometerräknare 
+S571A  STAERKERE STROMVERSORGUNG PLUS  Foerstaerkt stroemfoersoerjning 
+S5ACA  FERNLICHTASSISTENT  Helljusassistent 
+S5ASA  DRIVING ASSISTANT  DRIVING ASSISTANT 
+Kod  Benämning (gränssnitt)  Benämning (EPC) 
+S609A  NAVIGATIONSSYSTEM PROFESSIONAL  Navigationssystem Professional 
+S698A  AREA-CODE 2  Area-Code 2 för DVD 
+L807A  JAPAN-AUSFUEHRUNG  LANDUTFÖRANDE JAPAN 
+S845A  AKUSTISCHE GURTWARNUNG  Akustisk bältesvarning 
+S852A  SPRACHVERSION JAPANISCH  Instrum.beteckningar japanska 
+S876A  FUNKFREQUENZ 315 MHZ  Radiofrekvens 315 MHZ 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S1A  DEKODIERUNG TAGFAHRLEUCHTEN  Avkodning lampor halvljusautomatiks 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatisk låsanordning vid start 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktivt fotgängarskydd 
+S8TMA  TAGFAHRLICHT BEI FAHRZEUGSTART INAK  Dummy-SALAPA 
+S909A  ANALYSESTECKER  Dummy-SALAPA 
+S925A  VERSANDSCHUTZPAKET  Leveransskyddspaket 
+S991A  STEUERUNG VORSERIE  Styrning förserie 
+S992A  STEUERUNG KENNZEICHENBEFESTIGUNG  Styrning nummerskyltsfäste 
+Kod  Benämning (gränssnitt)  Benämning (EPC) 
+S9ACA  TARNUNG NSG FAHRZEUGE  Dummy-SALAPA 
+S9AEA  ENTWICKLUNGSKONFIGURATION E/E DATEN  Dummy-SALAPA 
+ 
+
+
+  Serieutrustning  
+ 
+Kod  Benämning (gränssnitt)  Benämning (EPC) 
+S1CCA  AUTO START STOP FUNKTION  Automatisk start-/stoppfunktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S205A  AUTOMATIC GETRIEBE  Automatväxel 
+S2K2A  LM RAEDER V-SPEICHE 328  BMW LM-fälg V-eker 328 
+S459A  SITZVERSTELLUNG, ELEKTR.MIT MEMORY  Stolsjustering elektrisk med memory 
+S4BNA  EDELHOLZAUSFUEHRUNG ESCHE MASER  Ädelträutförande ask-ved 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimatautomatik med 4-zonreglering 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Adaptive Drive-knapp inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Omgivningsbelysning kupé 
+S6NHA  FREISPRECHEIN. M. USB-SCHNITTSTELLE  Handsfree med USB-gränssnitt 
+ 
+
+
+  Individualfordonsdata  
+ 
+Text 
+ no access - Vehicle data protected 
+
+  
+ 
+Ausstattung 
+ 
+ 
+ 
+
+  
+
+
+
+Zuklappen   Fahrzeugangaben  
+ 
+
+
+
+
+ Art 
+
+
+ Wert 
+
+ Fahrgestellnummer  WBAHR92020D000002 
+ Typ-Code  HR92 
+ Typ  550I (EUR) 
+ E-Baureihe  F11 (MUE) 
+ Baureihe  5 
+ Bauart  TOUR 
+ Lenkung  RL 
+ Türen  5 
+ Motor  N63T 
+ Hubraum  4.40 
+ Leistung  330 
+ Antrieb  HECK 
+ Getriebe  AUT 
+ Farbe  ALPINWEISS 3 (300) 
+ Polsterung  LEDER DAKOTA/SCHWARZ (LCSW) 
+ Prod.-Datum  2013-07-16 
+ 
+
+
+
+
+Zuklappen   Sonderausstattung  
+ 
+
+
+
+
+Code 
+
+
+ Benennung (Schnittstelle) 
+
+
+ Benennung (ETK) 
+
+S1CAA  SELEKTION COP RELEVANTER FAHRZEUGE  Selektion COP relevanter Fahrzeuge 
+S212A  AUSSTATTUNG BREMSANLAGE LAENDER  Ausstattung Bremsanlage Länder 
+S223A  ELEKTRONISCHE DAEMPFER CONTROL(EDC)  Elektronische Dämpfer Control (EDC) 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Bereifung mit Notlaufeigenschaften 
+S2NBA  M LM RAEDER DOPPELSPEICHE 351 M,19"  BMW LM Rad M Doppelspeiche 351 
+S2TBA  SPORT-AUTOMATIK GETRIEBE  Sport-Automatik Getriebe 
+S2VHA  INTEGRAL-AKTIVLENKUNG  Integral-Aktivlenkung 
+S302A  ALARMANLAGE  Alarmanlage 
+S316A  AUTOMATISCHE HECKKLAPPENBETAETIGUNG  Automatische Heckklappenbetätigung 
+S322A  KOMFORTZUGANG  Komfortzugang 
+S323A  SOFT-CLOSE-AUTOMATIK FUER TUEREN  Soft-Close-Automatik Türen 
+P337A  M SPORTPAKET  M Sportpaket 
+S3AGA  RUECKFAHRKAMERA  Rückfahrkamera 
+S3MCA  INDIV.DACHRELING HOCHGL.SHADOW LINE  Individual Dachreling Hochgl Shadow Line 
+S402A  PANORAMA GLASDACH  Panoramadach elektrisch 
+S417A  SONNENSCHUTZROLLO HINTERE TUERSCH.  Sonnenschutzrollo Tür hinten 
+S423A  FUSSMATTEN IN VELOURS  Fussmatten Velours 
+S428A  WARNDREIECK  Warndreieck und Verbandstasche 
+S430A  INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND  Innen-/Aussensp. mit Abblendautomatik 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innenspiegel automatisch abblendend 
+S441A  RAUCHERPAKET  Raucherpaket 
+S481A  SPORTSITZE FUER FAHRER/BEIFAHRER  Sportsitz 
+S488A  LORDOSENSTUETZE FAHRER/BEIFAHRER  Lordosenstütze Fahrer u. Beifahrer 
+S494A  SITZHEIZUNG FUER FAHRER/BEIFAHRER  Sitzheizung Fahrer/Beifahrer 
+S496A  SITZHEIZUNG FUER FONDSITZE  Sitzheizung hinten 
+S4CEA  EDELHOLZAUSF.FINELINE ANTHRAZIT  Edelholzausführung Fineline anthrazit 
+S502A  SCHEINWERFER-WASCHANLAGE  Scheinwerferreinigungsanlage 
+S508A  PARK DISTANCE CONTROL (PDC)  Park Distance Control (PDC) 
+S548A  KILOMETERTACHO  Kilometertacho 
+S552A  ADAPTIVER LED-SCHEINWERFER  Adaptiver LED-Scheinwerfer 
+S5A1A  LED-NEBELSCHEINWERFER  LED Nebelscheinwerfer 
+S5AGA  SPURWECHSELWARNUNG  Spurwechselwarnung 
+S5ALA  ACTIVE PROTECTION  Active Protection 
+S5ATA  DRIVING ASSISTANT PLUS  DRIVING ASSISTANT PLUS 
+S5DLA  SURROUND VIEW  Surround View 
+S601A  TV-FUNKTION  TV-Funktion 
+S609A  NAVIGATIONSSYSTEM PROFESSIONAL  Navigationssystem Professional 
+S610A  HEAD-UP DISPLAY  Head-Up Display 
+S676A  HIFI LAUTSPRECHERSYSTEM  HiFi Lautsprechersystem 
+S698A  AREA-CODE 2  Area-Code 2 für DVD 
+S6ACA  INTELLIGENTER NOTRUF  Intelligenter Notruf 
+S6AEA  TELESERVICES  TELESERVICES 
+S6NSA  KOMFORTTELEFONIE MIT ERW. SMARTPHON  Komforttelefonie mit erw. Smartphone 
+S6WBA  MULTIFUNKTIONALES INSTRUMENTENDISPL  Multifunktionales Instrumentendisplay 
+S710A  M LEDERLENKRAD  M Lederlenkrad 
+S715A  M AERODYNAMIKPAKET  M Aerodynamikpaket 
+S760A  INDIVIDUAL HOCHGLANZ SHADOW LINE  Hochglanz Shadow-Line 
+S775A  INDIVIDUAL DACHHIMMEL ANTHRAZIT  Dachhimmel anthrazit 
+S7CGA  BMW REPAIR INCLUSIVE JP 3/200  Service 
+L807A  JAPAN-AUSFUEHRUNG  Länderausführung Japan 
+S845A  AKUSTISCHE GURTWARNUNG  Akustische Gurtwarnung 
+S852A  SPRACHVERSION JAPANISCH  Sprachversion japanisch 
+S876A  FUNKFREQUENZ 315 MHZ  Funkfrequenz 315 MHz 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S1A  DEKODIERUNG TAGFAHRLEUCHTEN  Decodierung Tagfahrleuchten 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatische Verriegelung beim Anfahren 
+S8SXA  PROVIDERSTEUERUNG TELEMATIK 1  Providersteuerung Telematik 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktiver Fussgängerschutz 
+S8TMA  TAGFAHRLICHT BEI FAHRZEUGSTART INAK  Dummy-SALAPA 
+S925A  VERSANDSCHUTZPAKET  Versandschutzpaket 
+
+
+Code 
+
+
+ Benennung (Schnittstelle) 
+
+
+ Benennung (ETK) 
+
+S992A  STEUERUNG KENNZEICHENBEFESTIGUNG  Steuerung Kennzeichenbefestigung 
+ 
+
+
+
+
+Zuklappen   Serienausstattung  
+ 
+
+
+
+
+Code 
+
+
+ Benennung (Schnittstelle) 
+
+
+ Benennung (ETK) 
+
+S1CCA  AUTO START STOP FUNKTION  Auto Start Stop Funktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S459A  SITZVERSTELLUNG, ELEKTR.MIT MEMORY  Sitzverstellung elektrisch mit Memory 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimaautomatik mit 4-Zonenregelung 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Fahrerlebnisschalter inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Ambientes Innenlicht 
+ 
+
+  
+ 
+Utrustning 
+ 
+ 
+ 
+
+  
+
+
+
+slå igen   Fordonsuppgifter  
+ 
+
+
+
+
+ Typ 
+
+
+ Wert 
+
+ Chassinummer  WBAHR92040D000003 
+ Typkod  HR92 
+ Typ  550I (EUR) 
+ E-modellserie  F11 (MUE) 
+ Serie  5 
+ Typ  TOUR 
+ Styrning  RL 
+ Dörrar  5 
+ Motor  N63T 
+ Cylindervolym  4.40 
+ Motoreffekt  330 
+ Motor  HECK 
+ Växellåda  AUT 
+ Färg  KALLISTOGRAU METALLIC (B64) 
+ Stoldynor  EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW) 
+ Produktionsdatum  2013-07-25 
+ 
+
+
+
+
+slå igen   Extrautrustning  
+ 
+
+
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S1CAA  SELEKTION COP RELEVANTER FAHRZEUGE  Urval COP-relevanta fordon 
+S212A  AUSSTATTUNG BREMSANLAGE LAENDER  Uitvöring bromssyst. länder-specifik 
+S223A  ELEKTRONISCHE DAEMPFER CONTROL(EDC)  EDC 
+S255A  SPORT-LEDERLENKRAD  Sportratt läder 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Däck med nödkörningsegenskaper 
+S2VHA  INTEGRAL-AKTIVLENKUNG  Integrerad aktiv styrning 
+S2W2A  19"LM RAEDER VIELSPEICHE 455  BMW LM-fälg multieker 455 
+S302A  ALARMANLAGE  Stöldskyddsanläggning 
+S316A  AUTOMATISCHE HECKKLAPPENBETAETIGUNG  Koffertluckamekanism automatisk 
+S322A  KOMFORTZUGANG  Komfortåtkomst 
+S323A  SOFT-CLOSE-AUTOMATIK FUER TUEREN  Dörr Soft-Close-Automatic 
+S3AGA  RUECKFAHRKAMERA  Backkamera 
+S3ATA  DACHRELING ALUMINIUM SATINIERT  Takreling aluminium satinerad 
+S402A  PANORAMA GLASDACH  Panoramatak elektrisk 
+S417A  SONNENSCHUTZROLLO HINTERE TUERSCH.  Solskyddsgardin dörr bak 
+S423A  FUSSMATTEN IN VELOURS  Inlaeggningsmatta velours 
+S428A  WARNDREIECK  Varntriangel och förbandspaket 
+S430A  INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND  In-/utvänd. speglar m. nedbländ.autom 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innerbackspegel automatisk avbländade 
+S441A  RAUCHERPAKET  Rökare-sats 
+S488A  LORDOSENSTUETZE FAHRER/BEIFAHRER  Svankstöd förare och frams.passagerare 
+S494A  SITZHEIZUNG FUER FAHRER/BEIFAHRER  Stoluppvärmning förarsida/passagerar 
+S4CEA  EDELHOLZAUSF.FINELINE ANTHRAZIT  Ädelträutförande Fineline anthrazit 
+S502A  SCHEINWERFER-WASCHANLAGE  Stralkastarspolare 
+S508A  PARK DISTANCE CONTROL (PDC)  Parkeringsavståndskontroll (PDC) 
+S548A  KILOMETERTACHO  Kilometerräknare 
+S552A  ADAPTIVER LED-SCHEINWERFER  Adaptiv LED-strålkastare 
+S5A1A  LED-NEBELSCHEINWERFER  LED Dimstraalkastare 
+S5AGA  SPURWECHSELWARNUNG  Filbytesvarning 
+S5ALA  ACTIVE PROTECTION  Active Protection 
+S5ATA  DRIVING ASSISTANT PLUS  Driving Assistant Plus 
+S601A  TV-FUNKTION  TV-funktion 
+S609A  NAVIGATIONSSYSTEM PROFESSIONAL  Navigationssystem Professional 
+S610A  HEAD-UP DISPLAY  Head-up display 
+S698A  AREA-CODE 2  Area-Code 2 för DVD 
+S6ACA  INTELLIGENTER NOTRUF  Intelligent nödanrop 
+S6AEA  TELESERVICES  TELESERVICES 
+S6F2A  BANG&OLUFSEN HIGH END SOUND S. PLUS  Bang&Olufsen High End Sound System Plus 
+S6NSA  KOMFORTTELEFONIE MIT ERW. SMARTPHON  Komforttelefoni med utök. Smartphone 
+S6WBA  MULTIFUNKTIONALES INSTRUMENTENDISPL  Multifunktionell instrumentdisplay 
+S7CGA  BMW REPAIR INCLUSIVE JP 3/200  Service 
+P7S2A  LUXURY LINE  Luxury Line 
+L807A  JAPAN-AUSFUEHRUNG  LANDUTFÖRANDE JAPAN 
+S845A  AKUSTISCHE GURTWARNUNG  Akustisk bältesvarning 
+S852A  SPRACHVERSION JAPANISCH  Instrum.beteckningar japanska 
+S876A  FUNKFREQUENZ 315 MHZ  Radiofrekvens 315 MHZ 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S1A  DEKODIERUNG TAGFAHRLEUCHTEN  Avkodning lampor halvljusautomatiks 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatisk låsanordning vid start 
+S8SXA  PROVIDERSTEUERUNG TELEMATIK 1  Provider-styrning Telematik 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktivt fotgängarskydd 
+S8TMA  TAGFAHRLICHT BEI FAHRZEUGSTART INAK  Dummy-SALAPA 
+S925A  VERSANDSCHUTZPAKET  Leveransskyddspaket 
+S992A  STEUERUNG KENNZEICHENBEFESTIGUNG  Styrning nummerskyltsfäste 
+S9AAA  AUSSENHAUTSCHUTZ  Karossytsskydd 
+ 
+
+
+
+
+slå igen   Serieutrustning  
+ 
+
+
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S1CCA  AUTO START STOP FUNKTION  Automatisk start-/stoppfunktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S205A  AUTOMATIC GETRIEBE  Automatväxel 
+S459A  SITZVERSTELLUNG, ELEKTR.MIT MEMORY  Stolsjustering elektrisk med memory 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimatautomatik med 4-zonreglering 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Adaptive Drive-knapp inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Omgivningsbelysning kupé 
+ 
+  
+ 
+Utrustning 
+ 
+ 
+ 
+
+  
+
+
+
+slå igen   Fordonsuppgifter  
+ 
+
+
+
+
+ Typ 
+
+
+ Wert 
+
+ Chassinummer  WBAHR92060D000004 
+ Typkod  HR92 
+ Typ  550I (EUR) 
+ E-modellserie  F11 (MUE) 
+ Serie  5 
+ Typ  TOUR 
+ Styrning  RL 
+ Dörrar  5 
+ Motor  N63T 
+ Cylindervolym  4.40 
+ Motoreffekt  330 
+ Motor  HECK 
+ Växellåda  AUT 
+ Färg  ALPINWEISS 3 (300) 
+ Stoldynor  LEDER DAKOTA/SCHWARZ (LCSW) 
+ Produktionsdatum  2013-07-25 
+ 
+
+
+
+
+
+S1CAA  SELEKTION COP RELEVANTER FAHRZEUGE  Urval COP-relevanta fordon 
+S212A  AUSSTATTUNG BREMSANLAGE LAENDER  Uitvöring bromssyst. länder-specifik 
+S223A  ELEKTRONISCHE DAEMPFER CONTROL(EDC)  EDC 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Däck med nödkörningsegenskaper 
+S2NBA  M LM RAEDER DOPPELSPEICHE 351 M,19"  BMW LM-fälg M dubbeleker 351 
+S2TBA  SPORT-AUTOMATIK GETRIEBE  Sport automatisk växellåda 
+S2VHA  INTEGRAL-AKTIVLENKUNG  Integrerad aktiv styrning 
+S302A  ALARMANLAGE  Stöldskyddsanläggning 
+S316A  AUTOMATISCHE HECKKLAPPENBETAETIGUNG  Koffertluckamekanism automatisk 
+S322A  KOMFORTZUGANG  Komfortåtkomst 
+S323A  SOFT-CLOSE-AUTOMATIK FUER TUEREN  Dörr Soft-Close-Automatic 
+P337A  M SPORTPAKET  M Sportpaket 
+S3AGA  RUECKFAHRKAMERA  Backkamera 
+S3ATA  DACHRELING ALUMINIUM SATINIERT  Takreling aluminium satinerad 
+S402A  PANORAMA GLASDACH  Panoramatak elektrisk 
+S417A  SONNENSCHUTZROLLO HINTERE TUERSCH.  Solskyddsgardin dörr bak 
+S423A  FUSSMATTEN IN VELOURS  Inlaeggningsmatta velours 
+S428A  WARNDREIECK  Varntriangel och förbandspaket 
+S430A  INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND  In-/utvänd. speglar m. nedbländ.autom 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innerbackspegel automatisk avbländade 
+S441A  RAUCHERPAKET  Rökare-sats 
+S481A  SPORTSITZE FUER FAHRER/BEIFAHRER  Sportstol 
+S488A  LORDOSENSTUETZE FAHRER/BEIFAHRER  Svankstöd förare och frams.passagerare 
+S494A  SITZHEIZUNG FUER FAHRER/BEIFAHRER  Stoluppvärmning förarsida/passagerar 
+S502A  SCHEINWERFER-WASCHANLAGE  Stralkastarspolare 
+S508A  PARK DISTANCE CONTROL (PDC)  Parkeringsavståndskontroll (PDC) 
+S548A  KILOMETERTACHO  Kilometerräknare 
+S552A  ADAPTIVER LED-SCHEINWERFER  Adaptiv LED-strålkastare 
+S5A1A  LED-NEBELSCHEINWERFER  LED Dimstraalkastare 
+S5AGA  SPURWECHSELWARNUNG  Filbytesvarning 
+S5ALA  ACTIVE PROTECTION  Active Protection 
+S5ATA  DRIVING ASSISTANT PLUS  Driving Assistant Plus 
+S601A  TV-FUNKTION  TV-funktion 
+S609A  NAVIGATIONSSYSTEM PROFESSIONAL  Navigationssystem Professional 
+S610A  HEAD-UP DISPLAY  Head-up display 
+S676A  HIFI LAUTSPRECHERSYSTEM  HiFi-Högtalarsystem 
+S698A  AREA-CODE 2  Area-Code 2 för DVD 
+S6ACA  INTELLIGENTER NOTRUF  Intelligent nödanrop 
+S6AEA  TELESERVICES  TELESERVICES 
+S6NSA  KOMFORTTELEFONIE MIT ERW. SMARTPHON  Komforttelefoni med utök. Smartphone 
+S6WBA  MULTIFUNKTIONALES INSTRUMENTENDISPL  Multifunktionell instrumentdisplay 
+S710A  M LEDERLENKRAD  M läderratt 
+S715A  M AERODYNAMIKPAKET  M aerodynamik-paket 
+S760A  INDIVIDUAL HOCHGLANZ SHADOW LINE  Högglans shadow line 
+S775A  INDIVIDUAL DACHHIMMEL ANTHRAZIT  Takhimmel antracit 
+S7CGA  BMW REPAIR INCLUSIVE JP 3/200  Service 
+L807A  JAPAN-AUSFUEHRUNG  LANDUTFÖRANDE JAPAN 
+S845A  AKUSTISCHE GURTWARNUNG  Akustisk bältesvarning 
+S852A  SPRACHVERSION JAPANISCH  Instrum.beteckningar japanska 
+S876A  FUNKFREQUENZ 315 MHZ  Radiofrekvens 315 MHZ 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S1A  DEKODIERUNG TAGFAHRLEUCHTEN  Avkodning lampor halvljusautomatiks 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatisk låsanordning vid start 
+S8SXA  PROVIDERSTEUERUNG TELEMATIK 1  Provider-styrning Telematik 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktivt fotgängarskydd 
+S8TMA  TAGFAHRLICHT BEI FAHRZEUGSTART INAK  Dummy-SALAPA 
+S925A  VERSANDSCHUTZPAKET  Leveransskyddspaket 
+S992A  STEUERUNG KENNZEICHENBEFESTIGUNG  Styrning nummerskyltsfäste 
+ 
+
+ 
+
+S1CCA  AUTO START STOP FUNKTION  Automatisk start-/stoppfunktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S459A  SITZVERSTELLUNG, ELEKTR.MIT MEMORY  Stolsjustering elektrisk med memory 
+S4BNA  EDELHOLZAUSFUEHRUNG ESCHE MASER  Ädelträutförande ask-ved 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimatautomatik med 4-zonreglering 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Adaptive Drive-knapp inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Omgivningsbelysning kupé 
+ 
+  
+ 
+Utrustning 
+ 
+ 
+ 
+
+Individualdata finns!       
+
+
+
+slå igen   Fordonsuppgifter  
+ 
+
+
+
+
+ Typ 
+
+
+ Wert 
+
+ Chassinummer  WBAHR92080D000005 
+ Typkod  HR92 
+ Typ  550I (EUR) 
+ E-modellserie  F11 (MUE) 
+ Serie  5 
+ Typ  TOUR 
+ Styrning  RL 
+ Dörrar  5 
+ Motor  N63T 
+ Cylindervolym  4.40 
+ Motoreffekt  330 
+ Motor  HECK 
+ Växellåda  AUT 
+ Färg  ALPINABLAU II METALLIC (X06) 
+ Stoldynor  EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ) 
+ Produktionsdatum  2013-07-26 
+ 
+
+
+
+
+slå igen   Extrautrustning  
+
+
+S223A  ELEKTRONISCHE DAEMPFER CONTROL(EDC)  EDC 
+S230A  EU SPEZIFISCHE ZUSATZUMFAENGE  Extrapaket specifik för EU 
+S255A  SPORT-LEDERLENKRAD  Sportratt läder 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Däck med nödkörningsegenskaper 
+S2TBA  SPORT-AUTOMATIK GETRIEBE  Sport automatisk växellåda 
+S302A  ALARMANLAGE  Stöldskyddsanläggning 
+S316A  AUTOMATISCHE HECKKLAPPENBETAETIGUNG  Koffertluckamekanism automatisk 
+S320A  MODELLSCHRIFTZUG ENTFALL  Bortfallat, modellbeteckning 
+S3AGA  RUECKFAHRKAMERA  Backkamera 
+S3MBA  INDIVIDUAL EXT LINE ALU SATINIERT  Individ. Exterieur Line alum.satinerad 
+S402A  PANORAMA GLASDACH  Panoramatak elektrisk 
+S423A  FUSSMATTEN IN VELOURS  Inlaeggningsmatta velours 
+S428A  WARNDREIECK  Varntriangel och förbandspaket 
+S430A  INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND  In-/utvänd. speglar m. nedbländ.autom 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innerbackspegel automatisk avbländade 
+S441A  RAUCHERPAKET  Rökare-sats 
+S456A  KOMFORTSITZE ELEKTRISCH VERSTELLBAR  Komfortsaete med minne 
+S488A  LORDOSENSTUETZE FAHRER/BEIFAHRER  Svankstöd förare och frams.passagerare 
+S494A  SITZHEIZUNG FUER FAHRER/BEIFAHRER  Stoluppvärmning förarsida/passagerar 
+S502A  SCHEINWERFER-WASCHANLAGE  Stralkastarspolare 
+S508A  PARK DISTANCE CONTROL (PDC)  Parkeringsavståndskontroll (PDC) 
+S575A  ZUSAETZLICHE 12-V-STECKDOSEN  extra 12V-eluttag 
+S5A1A  LED-NEBELSCHEINWERFER  LED Dimstraalkastare 
+S609A  NAVIGATIONSSYSTEM PROFESSIONAL  Navigationssystem Professional 
+S654A  DAB TUNER  DAB-mottagarmodul 
+S688A  HARMAN/KARDON SURROUND SOUND SYSTEM  HARMAN/KARDON SURROUND SOUND SYSTEM 
+S698A  AREA-CODE 2  Area-Code 2 för DVD 
+S6ACA  INTELLIGENTER NOTRUF  Intelligent nödanrop 
+S6AEA  TELESERVICES  TELESERVICES 
+S6AKA  CONNECTEDDRIVE SERVICES  Connected Drive Services 
+S6AMA  REAL TIME TRAFFIC INFORMATION  Real-Time Traffic Information 
+S6ANA  CONCIERGE SERVICES  Concierge Services 
+S6APA  REMOTE SERVICES  Remote Services 
+S6NRA  APPS  Apps 
+S6NSA  KOMFORTTELEFONIE MIT ERW. SMARTPHON  Komforttelefoni med utök. Smartphone 
+S761A  INDIVIDUAL SONNENSCHUTZVERGLASUNG  Individual glasering solskydd 
+S775A  INDIVIDUAL DACHHIMMEL ANTHRAZIT  Takhimmel antracit 
+L812A  ENGLAND/IRLAND AUSFUEHRUNG  Landsutförande England / Irland 
+S877A  UEBERKREUZBEDIENUNG ENTFALL  Korsvis manövrering utgår 
+S880A  ENGLISCH / BORDLITERATUR  Fordonsdokumentation engelska 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S2A  KODIERUNG ALARMSIGNAL  Kodning larmsignal 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatisk låsanordning vid start 
+S8SMA  FAHRGESTELLNUMMER,V.AUSSEN SICHTBAR  Chassinumret syns utifrån 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktivt fotgängarskydd 
+S8TGA  DIEBSTAHLSICHERUNG  Stöldsäkring 
+S8V1A  HINWEISSCHILD NCAP  Haenvisningsskylt 
+S920A  ALPINA, OHNE BRIEF  Alpina utan brev 
+S940A  SONDERWUNSCH AUSSTATTUNG  Specialönskemål för utrustning 
+S9AAA  AUSSENHAUTSCHUTZ  Karossytsskydd 
+S9XAA  ALPINA PACKAGE  Paket ALPINA 
+SXEZA  ALPINA PIANOLACK  Alpina pianolack 
+ 
+
+
+
+
+slå igen   Serieutrustning  
+ 
+
+
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S1CCA  AUTO START STOP FUNKTION  Automatisk start-/stoppfunktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S2K2A  LM RAEDER V-SPEICHE 328  BMW LM-fälg V-eker 328 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimatautomatik med 4-zonreglering 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Adaptive Drive-knapp inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Omgivningsbelysning kupé 
+S853A  SPRACHVERSION ENGLISCH  Språkversion engelska 
+ 
+
+
+
+
+slå igen   Individualfordonsdata  
+ 
+
+
+
+
+Text 
+
+ ---- Processing Individual  
+  Sign "BMW individual"  
+   
+ 0X06 ALPINA Blue  
+  Paintwork "Alpinablue II-metallic" (FE 60-51G6/BASF), as Code X06.  
+   
+ 0940 Special equipment on demand  
+  F10/F11 Alpina B5  
+  Aggregates or equipment differing from standard:  
+   
+  - Fuel processing - Cooling  
+  - Exhaust system  
+   
+  - Front axle - Steering  
+  - Rear axle - Brake  
+
+
+Text 
+
+  - Wheels/Tires  
+   
+  - Bodywork equipment - Door sill finishers  
+   
+  - Board equipment.  
+   
+ 0XEZ ALPINA piano finish  
+  Interior trim strips in piano finish "black II" (Alpina).  
+   
+ 
+  
+ 
+Utrustning 
+ 
+ 
+ 
+
+  
+
+
+
+slå igen   Fordonsuppgifter  
+ 
+
+
+
+
+ Typ 
+
+
+ Wert 
+
+ Chassinummer  WBAHR920X0D000006 
+ Typkod  HR92 
+ Typ  550I (EUR) 
+ E-modellserie  F11 (MUE) 
+ Serie  5 
+ Typ  TOUR 
+ Styrning  RL 
+ Dörrar  5 
+ Motor  N63T 
+ Cylindervolym  4.40 
+ Motoreffekt  330 
+ Motor  HECK 
+ Växellåda  AUT 
+ Färg  ALPINWEISS 3 (300) 
+ Stoldynor  LEDER DAKOTA/SCHWARZ (LCSW) 
+ Produktionsdatum  2013-07-30 
+ 
+
+
+
+
+slå igen   Extrautrustning  
+ 
+
+
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S1CAA  SELEKTION COP RELEVANTER FAHRZEUGE  Urval COP-relevanta fordon 
+S212A  AUSSTATTUNG BREMSANLAGE LAENDER  Uitvöring bromssyst. länder-specifik 
+S223A  ELEKTRONISCHE DAEMPFER CONTROL(EDC)  EDC 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Däck med nödkörningsegenskaper 
+S2NBA  M LM RAEDER DOPPELSPEICHE 351 M,19"  BMW LM-fälg M dubbeleker 351 
+S2TBA  SPORT-AUTOMATIK GETRIEBE  Sport automatisk växellåda 
+S2VHA  INTEGRAL-AKTIVLENKUNG  Integrerad aktiv styrning 
+S302A  ALARMANLAGE  Stöldskyddsanläggning 
+S316A  AUTOMATISCHE HECKKLAPPENBETAETIGUNG  Koffertluckamekanism automatisk 
+S322A  KOMFORTZUGANG  Komfortåtkomst 
+S323A  SOFT-CLOSE-AUTOMATIK FUER TUEREN  Dörr Soft-Close-Automatic 
+P337A  M SPORTPAKET  M Sportpaket 
+S3AGA  RUECKFAHRKAMERA  Backkamera 
+S3MCA  INDIV.DACHRELING HOCHGL.SHADOW LINE  Individuell takreling höggl.Shadow Line 
+S402A  PANORAMA GLASDACH  Panoramatak elektrisk 
+S417A  SONNENSCHUTZROLLO HINTERE TUERSCH.  Solskyddsgardin dörr bak 
+S423A  FUSSMATTEN IN VELOURS  Inlaeggningsmatta velours 
+S428A  WARNDREIECK  Varntriangel och förbandspaket 
+S430A  INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND  In-/utvänd. speglar m. nedbländ.autom 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innerbackspegel automatisk avbländade 
+S441A  RAUCHERPAKET  Rökare-sats 
+S481A  SPORTSITZE FUER FAHRER/BEIFAHRER  Sportstol 
+S488A  LORDOSENSTUETZE FAHRER/BEIFAHRER  Svankstöd förare och frams.passagerare 
+S494A  SITZHEIZUNG FUER FAHRER/BEIFAHRER  Stoluppvärmning förarsida/passagerar 
+S4CEA  EDELHOLZAUSF.FINELINE ANTHRAZIT  Ädelträutförande Fineline anthrazit 
+S502A  SCHEINWERFER-WASCHANLAGE  Stralkastarspolare 
+S508A  PARK DISTANCE CONTROL (PDC)  Parkeringsavståndskontroll (PDC) 
+S548A  KILOMETERTACHO  Kilometerräknare 
+S552A  ADAPTIVER LED-SCHEINWERFER  Adaptiv LED-strålkastare 
+S5A1A  LED-NEBELSCHEINWERFER  LED Dimstraalkastare 
+S5AGA  SPURWECHSELWARNUNG  Filbytesvarning 
+S5ALA  ACTIVE PROTECTION  Active Protection 
+S5ATA  DRIVING ASSISTANT PLUS  Driving Assistant Plus 
+S601A  TV-FUNKTION  TV-funktion 
+S609A  NAVIGATIONSSYSTEM PROFESSIONAL  Navigationssystem Professional 
+S610A  HEAD-UP DISPLAY  Head-up display 
+S676A  HIFI LAUTSPRECHERSYSTEM  HiFi-Högtalarsystem 
+S698A  AREA-CODE 2  Area-Code 2 för DVD 
+S6ACA  INTELLIGENTER NOTRUF  Intelligent nödanrop 
+S6AEA  TELESERVICES  TELESERVICES 
+S6NSA  KOMFORTTELEFONIE MIT ERW. SMARTPHON  Komforttelefoni med utök. Smartphone 
+S6WBA  MULTIFUNKTIONALES INSTRUMENTENDISPL  Multifunktionell instrumentdisplay 
+S710A  M LEDERLENKRAD  M läderratt 
+S715A  M AERODYNAMIKPAKET  M aerodynamik-paket 
+S760A  INDIVIDUAL HOCHGLANZ SHADOW LINE  Högglans shadow line 
+S775A  INDIVIDUAL DACHHIMMEL ANTHRAZIT  Takhimmel antracit 
+S7CGA  BMW REPAIR INCLUSIVE JP 3/200  Service 
+L807A  JAPAN-AUSFUEHRUNG  LANDUTFÖRANDE JAPAN 
+S845A  AKUSTISCHE GURTWARNUNG  Akustisk bältesvarning 
+S852A  SPRACHVERSION JAPANISCH  Instrum.beteckningar japanska 
+S876A  FUNKFREQUENZ 315 MHZ  Radiofrekvens 315 MHZ 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S1A  DEKODIERUNG TAGFAHRLEUCHTEN  Avkodning lampor halvljusautomatiks 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatisk låsanordning vid start 
+S8SXA  PROVIDERSTEUERUNG TELEMATIK 1  Provider-styrning Telematik 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktivt fotgängarskydd 
+S8TMA  TAGFAHRLICHT BEI FAHRZEUGSTART INAK  Dummy-SALAPA 
+S925A  VERSANDSCHUTZPAKET  Leveransskyddspaket 
+S992A  STEUERUNG KENNZEICHENBEFESTIGUNG  Styrning nummerskyltsfäste 
+ 
+
+
+
+
+slå igen   Serieutrustning  
+ 
+
+
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S1CCA  AUTO START STOP FUNKTION  Automatisk start-/stoppfunktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S459A  SITZVERSTELLUNG, ELEKTR.MIT MEMORY  Stolsjustering elektrisk med memory 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimatautomatik med 4-zonreglering 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Adaptive Drive-knapp inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Omgivningsbelysning kupé 
+ 
+
+  
+ 
+Utrustning 
+ 
+ 
+ 
+
+Individualdata finns!       
+
+
+
+slå igen   Fordonsuppgifter  
+ 
+
+
+
+
+ Typ 
+
+
+ Wert 
+
+ Chassinummer  WBAHR92010D000007 
+ Typkod  HR92 
+ Typ  550I (EUR) 
+ E-modellserie  F11 (MUE) 
+ Serie  5 
+ Typ  TOUR 
+ Styrning  RL 
+ Dörrar  5 
+ Motor  N63T 
+ Cylindervolym  4.40 
+ Motoreffekt  330 
+ Motor  HECK 
+ Växellåda  AUT 
+ Färg  ALPINABLAU II METALLIC (X06) 
+ Stoldynor  LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ) 
+ Produktionsdatum  2013-09-03 
+ 
+
+
+
+
+slå igen   Extrautrustning  
+ 
+
+
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S223A  ELEKTRONISCHE DAEMPFER CONTROL(EDC)  EDC 
+S255A  SPORT-LEDERLENKRAD  Sportratt läder 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Däck med nödkörningsegenskaper 
+S2TBA  SPORT-AUTOMATIK GETRIEBE  Sport automatisk växellåda 
+S302A  ALARMANLAGE  Stöldskyddsanläggning 
+S316A  AUTOMATISCHE HECKKLAPPENBETAETIGUNG  Koffertluckamekanism automatisk 
+S320A  MODELLSCHRIFTZUG ENTFALL  Bortfallat, modellbeteckning 
+S322A  KOMFORTZUGANG  Komfortåtkomst 
+S386A  DACHRELING  Takreling 
+S3AGA  RUECKFAHRKAMERA  Backkamera 
+S402A  PANORAMA GLASDACH  Panoramatak elektrisk 
+S417A  SONNENSCHUTZROLLO HINTERE TUERSCH.  Solskyddsgardin dörr bak 
+S423A  FUSSMATTEN IN VELOURS  Inlaeggningsmatta velours 
+S428A  WARNDREIECK  Varntriangel och förbandspaket 
+S430A  INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND  In-/utvänd. speglar m. nedbländ.autom 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innerbackspegel automatisk avbländade 
+S441A  RAUCHERPAKET  Rökare-sats 
+S456A  KOMFORTSITZE ELEKTRISCH VERSTELLBAR  Komfortsaete med minne 
+S488A  LORDOSENSTUETZE FAHRER/BEIFAHRER  Svankstöd förare och frams.passagerare 
+S494A  SITZHEIZUNG FUER FAHRER/BEIFAHRER  Stoluppvärmning förarsida/passagerar 
+S502A  SCHEINWERFER-WASCHANLAGE  Stralkastarspolare 
+S508A  PARK DISTANCE CONTROL (PDC)  Parkeringsavståndskontroll (PDC) 
+S548A  KILOMETERTACHO  Kilometerräknare 
+S552A  ADAPTIVER LED-SCHEINWERFER  Adaptiv LED-strålkastare 
+S571A  STAERKERE STROMVERSORGUNG PLUS  Foerstaerkt stroemfoersoerjning 
+S575A  ZUSAETZLICHE 12-V-STECKDOSEN  extra 12V-eluttag 
+S5A1A  LED-NEBELSCHEINWERFER  LED Dimstraalkastare 
+S5ATA  DRIVING ASSISTANT PLUS  Driving Assistant Plus 
+S601A  TV-FUNKTION  TV-funktion 
+S609A  NAVIGATIONSSYSTEM PROFESSIONAL  Navigationssystem Professional 
+S610A  HEAD-UP DISPLAY  Head-up display 
+S676A  HIFI LAUTSPRECHERSYSTEM  HiFi-Högtalarsystem 
+S698A  AREA-CODE 2  Area-Code 2 för DVD 
+S6ACA  INTELLIGENTER NOTRUF  Intelligent nödanrop 
+S6AEA  TELESERVICES  TELESERVICES 
+S6NSA  KOMFORTTELEFONIE MIT ERW. SMARTPHON  Komforttelefoni med utök. Smartphone 
+S775A  INDIVIDUAL DACHHIMMEL ANTHRAZIT  Takhimmel antracit 
+L807A  JAPAN-AUSFUEHRUNG  LANDUTFÖRANDE JAPAN 
+S845A  AKUSTISCHE GURTWARNUNG  Akustisk bältesvarning 
+S852A  SPRACHVERSION JAPANISCH  Instrum.beteckningar japanska 
+S876A  FUNKFREQUENZ 315 MHZ  Radiofrekvens 315 MHZ 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S1A  DEKODIERUNG TAGFAHRLEUCHTEN  Avkodning lampor halvljusautomatiks 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatisk låsanordning vid start 
+S8SXA  PROVIDERSTEUERUNG TELEMATIK 1  Provider-styrning Telematik 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktivt fotgängarskydd 
+S8TMA  TAGFAHRLICHT BEI FAHRZEUGSTART INAK  Dummy-SALAPA 
+S920A  ALPINA, OHNE BRIEF  Alpina utan brev 
+S925A  VERSANDSCHUTZPAKET  Leveransskyddspaket 
+S940A  SONDERWUNSCH AUSSTATTUNG  Specialönskemål för utrustning 
+S992A  STEUERUNG KENNZEICHENBEFESTIGUNG  Styrning nummerskyltsfäste 
+S9AAA  AUSSENHAUTSCHUTZ  Karossytsskydd 
+S9XAA  ALPINA PACKAGE  Paket ALPINA 
+SXEYA  ALPINA EDELHOLZ  Alpina ädelträ 
+ 
+
+
+
+
+slå igen   Serieutrustning  
+ 
+
+
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S1CCA  AUTO START STOP FUNKTION  Automatisk start-/stoppfunktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S2K2A  LM RAEDER V-SPEICHE 328  BMW LM-fälg V-eker 328 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimatautomatik med 4-zonreglering 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Adaptive Drive-knapp inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Omgivningsbelysning kupé 
+ 
+
+
+
+
+slå igen   Individualfordonsdata  
+ 
+
+
+
+
+Text 
+
+ ---- Processing Individual  
+  Sign "BMW individual"  
+   
+ 0X06 ALPINA Blue  
+  Paintwork "Alpinablue II-metallic" (FE 60-51G6/BASF), as Code X06.  
+   
+ 0940 Special equipment on demand  
+  F10/F11 Alpina B5  
+  Aggregates or equipment differing from standard:  
+   
+  - Fuel processing - Cooling  
+  - Exhaust system  
+   
+  - Front axle - Steering  
+  - Rear axle - Brake  
+
+
+Text 
+
+  - Wheels/Tires  
+   
+  - Bodywork equipment - Door sill finishers  
+   
+  - Board equipment.  
+   
+ 0XEY ALPINA fine wood  
+  Interior trim strips in Alpina wood "Myrte"  
+  as interior trim strips version.  
+   
+   
+ 
+Utrustning 
+ 
+ 
+ 
+
+  
+
+
+
+slå igen   Fordonsuppgifter  
+ 
+
+
+
+
+ Typ 
+
+
+ Wert 
+
+ Chassinummer  WBAHR92030D000008 
+ Typkod  HR92 
+ Typ  550I (EUR) 
+ E-modellserie  F11 (MUE) 
+ Serie  5 
+ Typ  TOUR 
+ Styrning  RL 
+ Dörrar  5 
+ Motor  N63T 
+ Cylindervolym  4.40 
+ Motoreffekt  330 
+ Motor  HECK 
+ Växellåda  AUT 
+ Färg  ALPINWEISS 3 (300) 
+ Stoldynor  LEDER DAKOTA/SCHWARZ (LCSW) 
+ Produktionsdatum  2013-09-13 
+ 
+
+
+
+
+slå igen   Extrautrustning  
+ 
+
+
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S1CAA  SELEKTION COP RELEVANTER FAHRZEUGE  Urval COP-relevanta fordon 
+S212A  AUSSTATTUNG BREMSANLAGE LAENDER  Uitvöring bromssyst. länder-specifik 
+S223A  ELEKTRONISCHE DAEMPFER CONTROL(EDC)  EDC 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Däck med nödkörningsegenskaper 
+S2NBA  M LM RAEDER DOPPELSPEICHE 351 M,19"  BMW LM-fälg M dubbeleker 351 
+S2TBA  SPORT-AUTOMATIK GETRIEBE  Sport automatisk växellåda 
+S2VHA  INTEGRAL-AKTIVLENKUNG  Integrerad aktiv styrning 
+S302A  ALARMANLAGE  Stöldskyddsanläggning 
+S316A  AUTOMATISCHE HECKKLAPPENBETAETIGUNG  Koffertluckamekanism automatisk 
+S322A  KOMFORTZUGANG  Komfortåtkomst 
+S323A  SOFT-CLOSE-AUTOMATIK FUER TUEREN  Dörr Soft-Close-Automatic 
+P337A  M SPORTPAKET  M Sportpaket 
+S3AGA  RUECKFAHRKAMERA  Backkamera 
+S3MCA  INDIV.DACHRELING HOCHGL.SHADOW LINE  Individuell takreling höggl.Shadow Line 
+S417A  SONNENSCHUTZROLLO HINTERE TUERSCH.  Solskyddsgardin dörr bak 
+S423A  FUSSMATTEN IN VELOURS  Inlaeggningsmatta velours 
+S428A  WARNDREIECK  Varntriangel och förbandspaket 
+S430A  INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND  In-/utvänd. speglar m. nedbländ.autom 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innerbackspegel automatisk avbländade 
+S441A  RAUCHERPAKET  Rökare-sats 
+S481A  SPORTSITZE FUER FAHRER/BEIFAHRER  Sportstol 
+S488A  LORDOSENSTUETZE FAHRER/BEIFAHRER  Svankstöd förare och frams.passagerare 
+S494A  SITZHEIZUNG FUER FAHRER/BEIFAHRER  Stoluppvärmning förarsida/passagerar 
+S502A  SCHEINWERFER-WASCHANLAGE  Stralkastarspolare 
+S508A  PARK DISTANCE CONTROL (PDC)  Parkeringsavståndskontroll (PDC) 
+S548A  KILOMETERTACHO  Kilometerräknare 
+S552A  ADAPTIVER LED-SCHEINWERFER  Adaptiv LED-strålkastare 
+S5A1A  LED-NEBELSCHEINWERFER  LED Dimstraalkastare 
+S5AGA  SPURWECHSELWARNUNG  Filbytesvarning 
+S5ALA  ACTIVE PROTECTION  Active Protection 
+S5ATA  DRIVING ASSISTANT PLUS  Driving Assistant Plus 
+S5DLA  SURROUND VIEW  Surround View 
+S5DPA  PARKASSISTENT  Parkeringsassistent 
+S601A  TV-FUNKTION  TV-funktion 
+S609A  NAVIGATIONSSYSTEM PROFESSIONAL  Navigationssystem Professional 
+S610A  HEAD-UP DISPLAY  Head-up display 
+S676A  HIFI LAUTSPRECHERSYSTEM  HiFi-Högtalarsystem 
+S698A  AREA-CODE 2  Area-Code 2 för DVD 
+S6ACA  INTELLIGENTER NOTRUF  Intelligent nödanrop 
+S6AEA  TELESERVICES  TELESERVICES 
+S6AKA  CONNECTEDDRIVE SERVICES  Connected Drive Services 
+S6ANA  CONCIERGE SERVICES  Concierge Services 
+S6APA  REMOTE SERVICES  Remote Services 
+S6NRA  APPS  Apps 
+S6NSA  KOMFORTTELEFONIE MIT ERW. SMARTPHON  Komforttelefoni med utök. Smartphone 
+S6WBA  MULTIFUNKTIONALES INSTRUMENTENDISPL  Multifunktionell instrumentdisplay 
+S710A  M LEDERLENKRAD  M läderratt 
+S715A  M AERODYNAMIKPAKET  M aerodynamik-paket 
+S760A  INDIVIDUAL HOCHGLANZ SHADOW LINE  Högglans shadow line 
+S775A  INDIVIDUAL DACHHIMMEL ANTHRAZIT  Takhimmel antracit 
+S7CGA  BMW REPAIR INCLUSIVE JP 3/200  Service 
+L807A  JAPAN-AUSFUEHRUNG  LANDUTFÖRANDE JAPAN 
+S845A  AKUSTISCHE GURTWARNUNG  Akustisk bältesvarning 
+S852A  SPRACHVERSION JAPANISCH  Instrum.beteckningar japanska 
+S876A  FUNKFREQUENZ 315 MHZ  Radiofrekvens 315 MHZ 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S1A  DEKODIERUNG TAGFAHRLEUCHTEN  Avkodning lampor halvljusautomatiks 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatisk låsanordning vid start 
+S8SXA  PROVIDERSTEUERUNG TELEMATIK 1  Provider-styrning Telematik 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktivt fotgängarskydd 
+S8TMA  TAGFAHRLICHT BEI FAHRZEUGSTART INAK  Dummy-SALAPA 
+S925A  VERSANDSCHUTZPAKET  Leveransskyddspaket 
+S992A  STEUERUNG KENNZEICHENBEFESTIGUNG  Styrning nummerskyltsfäste 
+ 
+
+  
+ 
+Ausstattung 
+ 
+ 
+ 
+
+  
+
+
+
+Zuklappen   Fahrzeugangaben  
+ 
+
+
+
+
+ Art 
+
+
+ Wert 
+
+ Fahrgestellnummer  WBAHR92050D000009 
+ Typ-Code  HR92 
+ Typ  550I (EUR) 
+ E-Baureihe  F11 (MUE) 
+ Baureihe  5 
+ Bauart  TOUR 
+ Lenkung  RL 
+ Türen  5 
+ Motor  N63T 
+ Hubraum  4.40 
+ Leistung  330 
+ Antrieb  HECK 
+ Getriebe  AUT 
+ Farbe  ALPINWEISS 3 (300) 
+ Polsterung  LEDER DAKOTA/SCHWARZ (LCSW) 
+ Prod.-Datum  2013-09-30 
+ 
+
+
+
+
+Zuklappen   Sonderausstattung  
+ 
+
+
+
+
+Code 
+
+
+ Benennung (Schnittstelle) 
+
+
+ Benennung (ETK) 
+
+S1CAA  SELEKTION COP RELEVANTER FAHRZEUGE  Selektion COP relevanter Fahrzeuge 
+S212A  AUSSTATTUNG BREMSANLAGE LAENDER  Ausstattung Bremsanlage Länder 
+S223A  ELEKTRONISCHE DAEMPFER CONTROL(EDC)  Elektronische Dämpfer Control (EDC) 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Bereifung mit Notlaufeigenschaften 
+S2NBA  M LM RAEDER DOPPELSPEICHE 351 M,19"  BMW LM Rad M Doppelspeiche 351 
+S2TBA  SPORT-AUTOMATIK GETRIEBE  Sport-Automatik Getriebe 
+S2VHA  INTEGRAL-AKTIVLENKUNG  Integral-Aktivlenkung 
+S302A  ALARMANLAGE  Alarmanlage 
+S316A  AUTOMATISCHE HECKKLAPPENBETAETIGUNG  Automatische Heckklappenbetätigung 
+S322A  KOMFORTZUGANG  Komfortzugang 
+S323A  SOFT-CLOSE-AUTOMATIK FUER TUEREN  Soft-Close-Automatik Türen 
+P337A  M SPORTPAKET  M Sportpaket 
+S3AGA  RUECKFAHRKAMERA  Rückfahrkamera 
+S3MCA  INDIV.DACHRELING HOCHGL.SHADOW LINE  Individual Dachreling Hochgl Shadow Line 
+S402A  PANORAMA GLASDACH  Panoramadach elektrisch 
+
+
+Code 
+
+
+ Benennung (Schnittstelle) 
+
+
+ Benennung (ETK) 
+
+S417A  SONNENSCHUTZROLLO HINTERE TUERSCH.  Sonnenschutzrollo Tür hinten 
+S423A  FUSSMATTEN IN VELOURS  Fussmatten Velours 
+S428A  WARNDREIECK  Warndreieck und Verbandstasche 
+S430A  INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND  Innen-/Aussensp. mit Abblendautomatik 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innenspiegel automatisch abblendend 
+S441A  RAUCHERPAKET  Raucherpaket 
+S481A  SPORTSITZE FUER FAHRER/BEIFAHRER  Sportsitz 
+S488A  LORDOSENSTUETZE FAHRER/BEIFAHRER  Lordosenstütze Fahrer u. Beifahrer 
+S494A  SITZHEIZUNG FUER FAHRER/BEIFAHRER  Sitzheizung Fahrer/Beifahrer 
+S4CEA  EDELHOLZAUSF.FINELINE ANTHRAZIT  Edelholzausführung Fineline anthrazit 
+S502A  SCHEINWERFER-WASCHANLAGE  Scheinwerferreinigungsanlage 
+S508A  PARK DISTANCE CONTROL (PDC)  Park Distance Control (PDC) 
+S548A  KILOMETERTACHO  Kilometertacho 
+S552A  ADAPTIVER LED-SCHEINWERFER  Adaptiver LED-Scheinwerfer 
+S5A1A  LED-NEBELSCHEINWERFER  LED Nebelscheinwerfer 
+
+
+Code 
+
+
+ Benennung (Schnittstelle) 
+
+
+ Benennung (ETK) 
+
+S5AGA  SPURWECHSELWARNUNG  Spurwechselwarnung 
+S5ALA  ACTIVE PROTECTION  Active Protection 
+S5ATA  DRIVING ASSISTANT PLUS  Driving Assistant Plus 
+S601A  TV-FUNKTION  TV-Funktion 
+S609A  NAVIGATIONSSYSTEM PROFESSIONAL  Navigationssystem Professional 
+S610A  HEAD-UP DISPLAY  Head-Up Display 
+S676A  HIFI LAUTSPRECHERSYSTEM  HiFi Lautsprechersystem 
+S698A  AREA-CODE 2  Area-Code 2 für DVD 
+S6ACA  INTELLIGENTER NOTRUF  Intelligenter Notruf 
+S6AEA  TELESERVICES  TELESERVICES 
+S6NSA  KOMFORTTELEFONIE MIT ERW. SMARTPHON  Komforttelefonie mit erw. Smartphone 
+S6WBA  MULTIFUNKTIONALES INSTRUMENTENDISPL  Multifunktionales Instrumentendisplay 
+S710A  M LEDERLENKRAD  M Lederlenkrad 
+S715A  M AERODYNAMIKPAKET  M Aerodynamikpaket 
+S760A  INDIVIDUAL HOCHGLANZ SHADOW LINE  Hochglanz Shadow-Line 
+
+
+Code 
+
+
+ Benennung (Schnittstelle) 
+
+
+ Benennung (ETK) 
+
+S775A  INDIVIDUAL DACHHIMMEL ANTHRAZIT  Dachhimmel anthrazit 
+S7CGA  BMW REPAIR INCLUSIVE JP 3/200  Service 
+L807A  JAPAN-AUSFUEHRUNG  Länderausführung Japan 
+S845A  AKUSTISCHE GURTWARNUNG  Akustische Gurtwarnung 
+S852A  SPRACHVERSION JAPANISCH  Sprachversion japanisch 
+S876A  FUNKFREQUENZ 315 MHZ  Funkfrequenz 315 MHz 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S1A  DEKODIERUNG TAGFAHRLEUCHTEN  Decodierung Tagfahrleuchten 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatische Verriegelung beim Anfahren 
+S8SXA  PROVIDERSTEUERUNG TELEMATIK 1  Providersteuerung Telematik 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktiver Fussgängerschutz 
+S8TMA  TAGFAHRLICHT BEI FAHRZEUGSTART INAK  Dummy-SALAPA 
+S925A  VERSANDSCHUTZPAKET  Versandschutzpaket 
+S992A  STEUERUNG KENNZEICHENBEFESTIGUNG  Steuerung Kennzeichenbefestigung 
+ 
+
+
+
+
+Zuklappen   Serienausstattung  
+ 
+
+
+
+
+Code 
+
+
+ Benennung (Schnittstelle) 
+
+
+ Benennung (ETK) 
+
+S1CCA  AUTO START STOP FUNKTION  Auto Start Stop Funktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S459A  SITZVERSTELLUNG, ELEKTR.MIT MEMORY  Sitzverstellung elektrisch mit Memory 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimaautomatik mit 4-Zonenregelung 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Fahrerlebnisschalter inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Ambientes Innenlicht 
+ 
+
+
+
+
+slå igen   Serieutrustning  
+ 
+
+
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S1CCA  AUTO START STOP FUNKTION  Automatisk start-/stoppfunktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S459A  SITZVERSTELLUNG, ELEKTR.MIT MEMORY  Stolsjustering elektrisk med memory 
+S4BNA  EDELHOLZAUSFUEHRUNG ESCHE MASER  Ädelträutförande ask-ved 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimatautomatik med 4-zonreglering 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Adaptive Drive-knapp inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Omgivningsbelysning kupé 
+ 
+  
+ 
+Utrustning 
+ 
+ 
+ 
+
+  
+
+
+
+slå igen   Fordonsuppgifter  
+ 
+
+
+
+
+ Typ 
+
+
+ Wert 
+
+ Chassinummer  WBAHR92010D000010 
+ Typkod  HR92 
+ Typ  550I (EUR) 
+ E-modellserie  F11 (MUE) 
+ Serie  5 
+ Typ  TOUR 
+ Styrning  RL 
+ Dörrar  5 
+ Motor  N63T 
+ Cylindervolym  4.40 
+ Motoreffekt  330 
+ Motor  HECK 
+ Växellåda  AUT 
+ Färg  CARBONSCHWARZ METALLIC (416) 
+ Stoldynor  LEDER DAKOTA/DF VENETOBEIGE (LCDF) 
+ Produktionsdatum  2013-10-04 
+ 
+
+slå igen   Extrautrustning  
+
+S1CAA  SELEKTION COP RELEVANTER FAHRZEUGE  Urval COP-relevanta fordon 
+S212A  AUSSTATTUNG BREMSANLAGE LAENDER  Uitvöring bromssyst. länder-specifik 
+S223A  ELEKTRONISCHE DAEMPFER CONTROL(EDC)  EDC 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Däck med nödkörningsegenskaper 
+S2NBA  M LM RAEDER DOPPELSPEICHE 351 M,19"  BMW LM-fälg M dubbeleker 351 
+S2TBA  SPORT-AUTOMATIK GETRIEBE  Sport automatisk växellåda 
+S2VHA  INTEGRAL-AKTIVLENKUNG  Integrerad aktiv styrning 
+S302A  ALARMANLAGE  Stöldskyddsanläggning 
+S316A  AUTOMATISCHE HECKKLAPPENBETAETIGUNG  Koffertluckamekanism automatisk 
+S322A  KOMFORTZUGANG  Komfortåtkomst 
+S323A  SOFT-CLOSE-AUTOMATIK FUER TUEREN  Dörr Soft-Close-Automatic 
+P337A  M SPORTPAKET  M Sportpaket 
+S3AGA  RUECKFAHRKAMERA  Backkamera 
+S3ATA  DACHRELING ALUMINIUM SATINIERT  Takreling aluminium satinerad 
+S3MBA  INDIVIDUAL EXT LINE ALU SATINIERT  Individ. Exterieur Line alum.satinerad 
+S402A  PANORAMA GLASDACH  Panoramatak elektrisk 
+S417A  SONNENSCHUTZROLLO HINTERE TUERSCH.  Solskyddsgardin dörr bak 
+S418A  GEPAECKRAUMPAKET  Bagagerumspaket 
+S423A  FUSSMATTEN IN VELOURS  Inlaeggningsmatta velours 
+S428A  WARNDREIECK  Varntriangel och förbandspaket 
+S430A  INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND  In-/utvänd. speglar m. nedbländ.autom 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innerbackspegel automatisk avbländade 
+S441A  RAUCHERPAKET  Rökare-sats 
+S481A  SPORTSITZE FUER FAHRER/BEIFAHRER  Sportstol 
+S488A  LORDOSENSTUETZE FAHRER/BEIFAHRER  Svankstöd förare och frams.passagerare 
+S494A  SITZHEIZUNG FUER FAHRER/BEIFAHRER  Stoluppvärmning förarsida/passagerar 
+S4U1A  KERAMIKAPPLIKATION F.BEDIENELEMENTE  Keramikutförande manöverreglage 
+S502A  SCHEINWERFER-WASCHANLAGE  Stralkastarspolare 
+S508A  PARK DISTANCE CONTROL (PDC)  Parkeringsavståndskontroll (PDC) 
+S548A  KILOMETERTACHO  Kilometerräknare 
+S552A  ADAPTIVER LED-SCHEINWERFER  Adaptiv LED-strålkastare 
+S5A1A  LED-NEBELSCHEINWERFER  LED Dimstraalkastare 
+S5AGA  SPURWECHSELWARNUNG  Filbytesvarning 
+S5ALA  ACTIVE PROTECTION  Active Protection 
+S5ATA  DRIVING ASSISTANT PLUS  Driving Assistant Plus 
+S601A  TV-FUNKTION  TV-funktion 
+S609A  NAVIGATIONSSYSTEM PROFESSIONAL  Navigationssystem Professional 
+S610A  HEAD-UP DISPLAY  Head-up display 
+S698A  AREA-CODE 2  Area-Code 2 för DVD 
+S6ACA  INTELLIGENTER NOTRUF  Intelligent nödanrop 
+S6AEA  TELESERVICES  TELESERVICES 
+S6F2A  BANG&OLUFSEN HIGH END SOUND S. PLUS  Bang&Olufsen High End Sound System Plus 
+S6NSA  KOMFORTTELEFONIE MIT ERW. SMARTPHON  Komforttelefoni med utök. Smartphone 
+S6WBA  MULTIFUNKTIONALES INSTRUMENTENDISPL  Multifunktionell instrumentdisplay 
+S710A  M LEDERLENKRAD  M läderratt 
+S715A  M AERODYNAMIKPAKET  M aerodynamik-paket 
+S775A  INDIVIDUAL DACHHIMMEL ANTHRAZIT  Takhimmel antracit 
+S7CGA  BMW REPAIR INCLUSIVE JP 3/200  Service 
+L807A  JAPAN-AUSFUEHRUNG  LANDUTFÖRANDE JAPAN 
+S845A  AKUSTISCHE GURTWARNUNG  Akustisk bältesvarning 
+S852A  SPRACHVERSION JAPANISCH  Instrum.beteckningar japanska 
+S876A  FUNKFREQUENZ 315 MHZ  Radiofrekvens 315 MHZ 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S1A  DEKODIERUNG TAGFAHRLEUCHTEN  Avkodning lampor halvljusautomatiks 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatisk låsanordning vid start 
+S8SXA  PROVIDERSTEUERUNG TELEMATIK 1  Provider-styrning Telematik 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktivt fotgängarskydd 
+S8TMA  TAGFAHRLICHT BEI FAHRZEUGSTART INAK  Dummy-SALAPA 
+S925A  VERSANDSCHUTZPAKET  Leveransskyddspaket 
+S992A  STEUERUNG KENNZEICHENBEFESTIGUNG  Styrning nummerskyltsfäste 
+S9AAA  AUSSENHAUTSCHUTZ  Karossytsskydd 
+ 
+
+
+
+
+slå igen   Serieutrustning  
+ 
+S1CCA  AUTO START STOP FUNKTION  Automatisk start-/stoppfunktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S459A  SITZVERSTELLUNG, ELEKTR.MIT MEMORY  Stolsjustering elektrisk med memory 
+S4BNA  EDELHOLZAUSFUEHRUNG ESCHE MASER  Ädelträutförande ask-ved 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimatautomatik med 4-zonreglering 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Adaptive Drive-knapp inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Omgivningsbelysning kupé 
+ 
+
+  
+ 
+Ausstattung 
+ 
+ 
+ 
+
+  
+
+
+
+Zuklappen   Fahrzeugangaben  
+ 
+
+
+
+
+ Art 
+
+
+ Wert 
+
+ Fahrgestellnummer  WBAHR92030D000011 
+ Typ-Code  HR92 
+ Typ  550I (EUR) 
+ E-Baureihe  F11 (MUE) 
+ Baureihe  5 
+ Bauart  TOUR 
+ Lenkung  RL 
+ Türen  5 
+ Motor  N63T 
+ Hubraum  4.40 
+ Leistung  330 
+ Antrieb  HECK 
+ Getriebe  AUT 
+ Farbe  CARBONSCHWARZ METALLIC (416) 
+ Polsterung  LEDER DAKOTA/SCHWARZ (LCSW) 
+ Prod.-Datum  2013-10-08 
+ 
+
+Zuklappen   Sonderausstattung  
+
+
+S1CAA  SELEKTION COP RELEVANTER FAHRZEUGE  Selektion COP relevanter Fahrzeuge 
+S212A  AUSSTATTUNG BREMSANLAGE LAENDER  Ausstattung Bremsanlage Länder 
+S223A  ELEKTRONISCHE DAEMPFER CONTROL(EDC)  Elektronische Dämpfer Control (EDC) 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Bereifung mit Notlaufeigenschaften 
+S2NBA  M LM RAEDER DOPPELSPEICHE 351 M,19"  BMW LM Rad M Doppelspeiche 351 
+S2TBA  SPORT-AUTOMATIK GETRIEBE  Sport-Automatik Getriebe 
+S2VHA  INTEGRAL-AKTIVLENKUNG  Integral-Aktivlenkung 
+S302A  ALARMANLAGE  Alarmanlage 
+S316A  AUTOMATISCHE HECKKLAPPENBETAETIGUNG  Automatische Heckklappenbetätigung 
+S322A  KOMFORTZUGANG  Komfortzugang 
+S323A  SOFT-CLOSE-AUTOMATIK FUER TUEREN  Soft-Close-Automatik Türen 
+P337A  M SPORTPAKET  M Sportpaket 
+S3AGA  RUECKFAHRKAMERA  Rückfahrkamera 
+S3MCA  INDIV.DACHRELING HOCHGL.SHADOW LINE  Individual Dachreling Hochgl Shadow Line 
+S402A  PANORAMA GLASDACH  Panoramadach elektrisch  
+S417A  SONNENSCHUTZROLLO HINTERE TUERSCH.  Sonnenschutzrollo Tür hinten 
+S423A  FUSSMATTEN IN VELOURS  Fussmatten Velours 
+S428A  WARNDREIECK  Warndreieck und Verbandstasche 
+S430A  INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND  Innen-/Aussensp. mit Abblendautomatik 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innenspiegel automatisch abblendend 
+S441A  RAUCHERPAKET  Raucherpaket 
+S481A  SPORTSITZE FUER FAHRER/BEIFAHRER  Sportsitz 
+S488A  LORDOSENSTUETZE FAHRER/BEIFAHRER  Lordosenstütze Fahrer u. Beifahrer 
+S494A  SITZHEIZUNG FUER FAHRER/BEIFAHRER  Sitzheizung Fahrer/Beifahrer 
+S4CEA  EDELHOLZAUSF.FINELINE ANTHRAZIT  Edelholzausführung Fineline anthrazit 
+S502A  SCHEINWERFER-WASCHANLAGE  Scheinwerferreinigungsanlage 
+S508A  PARK DISTANCE CONTROL (PDC)  Park Distance Control (PDC) 
+S548A  KILOMETERTACHO  Kilometertacho 
+S552A  ADAPTIVER LED-SCHEINWERFER  Adaptiver LED-Scheinwerfer 
+S5A1A  LED-NEBELSCHEINWERFER  LED Nebelscheinwerfer 
+S5AGA  SPURWECHSELWARNUNG  Spurwechselwarnung 
+S5ALA  ACTIVE PROTECTION  Active Protection 
+S5ATA  DRIVING ASSISTANT PLUS  Driving Assistant Plus 
+S601A  TV-FUNKTION  TV-Funktion 
+S609A  NAVIGATIONSSYSTEM PROFESSIONAL  Navigationssystem Professional 
+S610A  HEAD-UP DISPLAY  Head-Up Display 
+S676A  HIFI LAUTSPRECHERSYSTEM  HiFi Lautsprechersystem 
+S698A  AREA-CODE 2  Area-Code 2 für DVD 
+S6ACA  INTELLIGENTER NOTRUF  Intelligenter Notruf 
+S6AEA  TELESERVICES  TELESERVICES 
+S6NSA  KOMFORTTELEFONIE MIT ERW. SMARTPHON  Komforttelefonie mit erw. Smartphone 
+S6WBA  MULTIFUNKTIONALES INSTRUMENTENDISPL  Multifunktionales Instrumentendisplay 
+S710A  M LEDERLENKRAD  M Lederlenkrad 
+S715A  M AERODYNAMIKPAKET  M Aerodynamikpaket 
+S760A  INDIVIDUAL HOCHGLANZ SHADOW LINE  Hochglanz Shadow-Line 
+S775A  INDIVIDUAL DACHHIMMEL ANTHRAZIT  Dachhimmel anthrazit 
+S7CGA  BMW REPAIR INCLUSIVE JP 3/200  Service 
+L807A  JAPAN-AUSFUEHRUNG  Länderausführung Japan 
+S845A  AKUSTISCHE GURTWARNUNG  Akustische Gurtwarnung 
+S852A  SPRACHVERSION JAPANISCH  Sprachversion japanisch 
+S876A  FUNKFREQUENZ 315 MHZ  Funkfrequenz 315 MHz 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S1A  DEKODIERUNG TAGFAHRLEUCHTEN  Decodierung Tagfahrleuchten 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatische Verriegelung beim Anfahren 
+S8SXA  PROVIDERSTEUERUNG TELEMATIK 1  Providersteuerung Telematik 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktiver Fussgängerschutz 
+S8TMA  TAGFAHRLICHT BEI FAHRZEUGSTART INAK  Dummy-SALAPA 
+S925A  VERSANDSCHUTZPAKET  Versandschutzpaket 
+S992A  STEUERUNG KENNZEICHENBEFESTIGUNG  Steuerung Kennzeichenbefestigung 
+S9AAA  AUSSENHAUTSCHUTZ  Aussenhautschutz 
+ 
+Zuklappen   Serienausstattung   
+
+S1CCA  AUTO START STOP FUNKTION  Auto Start Stop Funktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S459A  SITZVERSTELLUNG, ELEKTR.MIT MEMORY  Sitzverstellung elektrisch mit Memory 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimaautomatik mit 4-Zonenregelung 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Fahrerlebnisschalter inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Ambientes Innenlicht 
+ 
+
+  
+ 
+Utrustning 
+ 
+ 
+ 
+
+Individualdata finns!       
+
+
+
+slå igen   Fordonsuppgifter  
+ 
+
+
+
+
+ Typ 
+
+
+ Wert 
+
+ Chassinummer  WBAHR92050D000012 
+ Typkod  HR92 
+ Typ  550I (EUR) 
+ E-modellserie  F11 (MUE) 
+ Serie  5 
+ Typ  TOUR 
+ Styrning  RL 
+ Dörrar  5 
+ Motor  N63T 
+ Cylindervolym  4.40 
+ Motoreffekt  330 
+ Motor  HECK 
+ Växellåda  AUT 
+ Färg  ALPINAGRUEN II METALLIC (X09) 
+ Stoldynor  LEDER DAKOTA/ZIMTBRAUN (LCEZ) 
+ Produktionsdatum  2013-10-28 
+ 
+
+
+ 
+
+S223A  ELEKTRONISCHE DAEMPFER CONTROL(EDC)  EDC 
+S255A  SPORT-LEDERLENKRAD  Sportratt läder 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Däck med nödkörningsegenskaper 
+S2TBA  SPORT-AUTOMATIK GETRIEBE  Sport automatisk växellåda 
+S302A  ALARMANLAGE  Stöldskyddsanläggning 
+S316A  AUTOMATISCHE HECKKLAPPENBETAETIGUNG  Koffertluckamekanism automatisk 
+S320A  MODELLSCHRIFTZUG ENTFALL  Bortfallat, modellbeteckning 
+S322A  KOMFORTZUGANG  Komfortåtkomst 
+S386A  DACHRELING  Takreling 
+S3AGA  RUECKFAHRKAMERA  Backkamera 
+S3APA  GRAUKEIL-FRONTSCHEIBE  Vindruta med gråkil 
+S402A  PANORAMA GLASDACH  Panoramatak elektrisk 
+S417A  SONNENSCHUTZROLLO HINTERE TUERSCH.  Solskyddsgardin dörr bak 
+S423A  FUSSMATTEN IN VELOURS  Inlaeggningsmatta velours 
+S428A  WARNDREIECK  Varntriangel och förbandspaket 
+S430A  INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND  In-/utvänd. speglar m. nedbländ.autom 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innerbackspegel automatisk avbländade 
+S441A  RAUCHERPAKET  Rökare-sats 
+S456A  KOMFORTSITZE ELEKTRISCH VERSTELLBAR  Komfortsaete med minne 
+S488A  LORDOSENSTUETZE FAHRER/BEIFAHRER  Svankstöd förare och frams.passagerare 
+S494A  SITZHEIZUNG FUER FAHRER/BEIFAHRER  Stoluppvärmning förarsida/passagerar 
+S502A  SCHEINWERFER-WASCHANLAGE  Stralkastarspolare 
+S508A  PARK DISTANCE CONTROL (PDC)  Parkeringsavståndskontroll (PDC) 
+S548A  KILOMETERTACHO  Kilometerräknare 
+S552A  ADAPTIVER LED-SCHEINWERFER  Adaptiv LED-strålkastare 
+S571A  STAERKERE STROMVERSORGUNG PLUS  Foerstaerkt stroemfoersoerjning 
+S575A  ZUSAETZLICHE 12-V-STECKDOSEN  extra 12V-eluttag 
+S5A1A  LED-NEBELSCHEINWERFER  LED Dimstraalkastare 
+S5ATA  DRIVING ASSISTANT PLUS  Driving Assistant Plus 
+S601A  TV-FUNKTION  TV-funktion 
+S609A  NAVIGATIONSSYSTEM PROFESSIONAL  Navigationssystem Professional 
+S676A  HIFI LAUTSPRECHERSYSTEM  HiFi-Högtalarsystem 
+S698A  AREA-CODE 2  Area-Code 2 för DVD 
+S6ACA  INTELLIGENTER NOTRUF  Intelligent nödanrop 
+S6AEA  TELESERVICES  TELESERVICES 
+S6NSA  KOMFORTTELEFONIE MIT ERW. SMARTPHON  Komforttelefoni med utök. Smartphone 
+L807A  JAPAN-AUSFUEHRUNG  LANDUTFÖRANDE JAPAN 
+S845A  AKUSTISCHE GURTWARNUNG  Akustisk bältesvarning 
+S852A  SPRACHVERSION JAPANISCH  Instrum.beteckningar japanska 
+S876A  FUNKFREQUENZ 315 MHZ  Radiofrekvens 315 MHZ 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S1A  DEKODIERUNG TAGFAHRLEUCHTEN  Avkodning lampor halvljusautomatiks 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatisk låsanordning vid start 
+S8SXA  PROVIDERSTEUERUNG TELEMATIK 1  Provider-styrning Telematik 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktivt fotgängarskydd 
+S8TMA  TAGFAHRLICHT BEI FAHRZEUGSTART INAK  Dummy-SALAPA 
+S920A  ALPINA, OHNE BRIEF  Alpina utan brev 
+S925A  VERSANDSCHUTZPAKET  Leveransskyddspaket 
+S940A  SONDERWUNSCH AUSSTATTUNG  Specialönskemål för utrustning 
+S992A  STEUERUNG KENNZEICHENBEFESTIGUNG  Styrning nummerskyltsfäste 
+S9AAA  AUSSENHAUTSCHUTZ  Karossytsskydd 
+S9XAA  ALPINA PACKAGE  Paket ALPINA 
+SXEYA  ALPINA EDELHOLZ  Alpina ädelträ 
+ 
+
+
+
+
+slå igen   Serieutrustning  
+ 
+
+
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S1CCA  AUTO START STOP FUNKTION  Automatisk start-/stoppfunktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S2K2A  LM RAEDER V-SPEICHE 328  BMW LM-fälg V-eker 328 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimatautomatik med 4-zonreglering 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Adaptive Drive-knapp inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Omgivningsbelysning kupé 
+ 
+
+
+
+
+slå igen   Individualfordonsdata  
+ 
+
+
+
+
+Text 
+
+ ---- Processing Individual  
+  Sign "BMW individual"  
+   
+ 0X09 ALPINA Green  
+  Paintwork "Alpinagreen II-metallic" (20219/BASF), as Code X09.  
+   
+ 0940 Special equipment on demand  
+  F10/F11 Alpina B5  
+  Aggregates or equipment differing from standard:  
+   
+  - Fuel processing - Cooling  
+  - Exhaust system  
+   
+  - Front axle - Steering  
+  - Rear axle - Brake  
+
+
+Text 
+
+  - Wheels/Tires  
+   
+  - Bodywork equipment - Door sill finishers  
+   
+  - Board equipment.  
+   
+ 0XEY ALPINA fine wood  
+  Interior trim strips in Alpina wood "Myrte"  
+  as interior trim strips version.  
+   
+ 
+  
+ 
+Utrustning 
+ 
+ 
+ 
+
+  
+
+
+
+slå igen   Fordonsuppgifter  
+ 
+
+
+
+
+ Typ 
+
+
+ Wert 
+
+ Chassinummer  WBAHR92070D000013 
+ Typkod  HR92 
+ Typ  550I (EUR) 
+ E-modellserie  F11 (MUE) 
+ Serie  5 
+ Typ  TOUR 
+ Styrning  RL 
+ Dörrar  5 
+ Motor  N63T 
+ Cylindervolym  4.40 
+ Motoreffekt  330 
+ Motor  HECK 
+ Växellåda  AUT 
+ Färg  ALPINWEISS 3 (300) 
+ Stoldynor  LEDER DAKOTA/SCHWARZ (LCSW) 
+ Produktionsdatum  2013-11-07 
+ 
+
+
+
+
+slå igen   Extrautrustning  
+ 
+
+
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S1CAA  SELEKTION COP RELEVANTER FAHRZEUGE  Urval COP-relevanta fordon 
+S212A  AUSSTATTUNG BREMSANLAGE LAENDER  Uitvöring bromssyst. länder-specifik 
+S223A  ELEKTRONISCHE DAEMPFER CONTROL(EDC)  EDC 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Däck med nödkörningsegenskaper 
+S2NBA  M LM RAEDER DOPPELSPEICHE 351 M,19"  BMW LM-fälg M dubbeleker 351 
+S2TBA  SPORT-AUTOMATIK GETRIEBE  Sport automatisk växellåda 
+S2VHA  INTEGRAL-AKTIVLENKUNG  Integrerad aktiv styrning 
+S302A  ALARMANLAGE  Stöldskyddsanläggning 
+S316A  AUTOMATISCHE HECKKLAPPENBETAETIGUNG  Koffertluckamekanism automatisk 
+S322A  KOMFORTZUGANG  Komfortåtkomst 
+S323A  SOFT-CLOSE-AUTOMATIK FUER TUEREN  Dörr Soft-Close-Automatic 
+P337A  M SPORTPAKET  M Sportpaket 
+S3AGA  RUECKFAHRKAMERA  Backkamera 
+S3MCA  INDIV.DACHRELING HOCHGL.SHADOW LINE  Individuell takreling höggl.Shadow Line 
+S402A  PANORAMA GLASDACH  Panoramatak elektrisk 
+S417A  SONNENSCHUTZROLLO HINTERE TUERSCH.  Solskyddsgardin dörr bak 
+S423A  FUSSMATTEN IN VELOURS  Inlaeggningsmatta velours 
+S428A  WARNDREIECK  Varntriangel och förbandspaket 
+S430A  INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND  In-/utvänd. speglar m. nedbländ.autom 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innerbackspegel automatisk avbländade 
+S441A  RAUCHERPAKET  Rökare-sats 
+S481A  SPORTSITZE FUER FAHRER/BEIFAHRER  Sportstol 
+S488A  LORDOSENSTUETZE FAHRER/BEIFAHRER  Svankstöd förare och frams.passagerare 
+S494A  SITZHEIZUNG FUER FAHRER/BEIFAHRER  Stoluppvärmning förarsida/passagerar 
+S502A  SCHEINWERFER-WASCHANLAGE  Stralkastarspolare 
+S508A  PARK DISTANCE CONTROL (PDC)  Parkeringsavståndskontroll (PDC) 
+S548A  KILOMETERTACHO  Kilometerräknare 
+S552A  ADAPTIVER LED-SCHEINWERFER  Adaptiv LED-strålkastare 
+S5A1A  LED-NEBELSCHEINWERFER  LED Dimstraalkastare 
+S5AGA  SPURWECHSELWARNUNG  Filbytesvarning 
+S5ALA  ACTIVE PROTECTION  Active Protection 
+S5ATA  DRIVING ASSISTANT PLUS  Driving Assistant Plus 
+S601A  TV-FUNKTION  TV-funktion 
+S609A  NAVIGATIONSSYSTEM PROFESSIONAL  Navigationssystem Professional 
+S610A  HEAD-UP DISPLAY  Head-up display 
+S676A  HIFI LAUTSPRECHERSYSTEM  HiFi-Högtalarsystem 
+S698A  AREA-CODE 2  Area-Code 2 för DVD 
+S6ACA  INTELLIGENTER NOTRUF  Intelligent nödanrop 
+S6AEA  TELESERVICES  TELESERVICES 
+S6AKA  CONNECTEDDRIVE SERVICES  Connected Drive Services 
+S6ANA  CONCIERGE SERVICES  Concierge Services 
+S6APA  REMOTE SERVICES  Remote Services 
+S6NRA  APPS  Apps 
+S6NSA  KOMFORTTELEFONIE MIT ERW. SMARTPHON  Komforttelefoni med utök. Smartphone 
+S6WBA  MULTIFUNKTIONALES INSTRUMENTENDISPL  Multifunktionell instrumentdisplay 
+S710A  M LEDERLENKRAD  M läderratt 
+S715A  M AERODYNAMIKPAKET  M aerodynamik-paket 
+S760A  INDIVIDUAL HOCHGLANZ SHADOW LINE  Högglans shadow line 
+S775A  INDIVIDUAL DACHHIMMEL ANTHRAZIT  Takhimmel antracit 
+S7CGA  BMW REPAIR INCLUSIVE JP 3/200  Service 
+L807A  JAPAN-AUSFUEHRUNG  LANDUTFÖRANDE JAPAN 
+S845A  AKUSTISCHE GURTWARNUNG  Akustisk bältesvarning 
+S852A  SPRACHVERSION JAPANISCH  Instrum.beteckningar japanska 
+S876A  FUNKFREQUENZ 315 MHZ  Radiofrekvens 315 MHZ 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S1A  DEKODIERUNG TAGFAHRLEUCHTEN  Avkodning lampor halvljusautomatiks 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatisk låsanordning vid start 
+S8SXA  PROVIDERSTEUERUNG TELEMATIK 1  Provider-styrning Telematik 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktivt fotgängarskydd 
+S8TMA  TAGFAHRLICHT BEI FAHRZEUGSTART INAK  Dummy-SALAPA 
+S925A  VERSANDSCHUTZPAKET  Leveransskyddspaket 
+S992A  STEUERUNG KENNZEICHENBEFESTIGUNG  Styrning nummerskyltsfäste 
+ 
+
+
+
+
+S1CCA  AUTO START STOP FUNKTION  Automatisk start-/stoppfunktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S459A  SITZVERSTELLUNG, ELEKTR.MIT MEMORY  Stolsjustering elektrisk med memory 
+S4BNA  EDELHOLZAUSFUEHRUNG ESCHE MASER  Ädelträutförande ask-ved 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimatautomatik med 4-zonreglering 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Adaptive Drive-knapp inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Omgivningsbelysning kupé 
+ 
+  
+ 
+Utrustning 
+ 
+ 
+ 
+
+  
+
+
+
+slå igen   Fordonsuppgifter  
+ 
+
+
+
+
+ Typ 
+
+
+ Wert 
+
+ Chassinummer  WBAHR92090D000014 
+ Typkod  HR92 
+ Typ  550I (EUR) 
+ E-modellserie  F11 (MUE) 
+ Serie  5 
+ Typ  TOUR 
+ Styrning  RL 
+ Dörrar  5 
+ Motor  N63T 
+ Cylindervolym  4.40 
+ Motoreffekt  330 
+ Motor  HECK 
+ Växellåda  AUT 
+ Färg  ALPINWEISS 3 (300) 
+ Stoldynor  LEDER DAKOTA/SCHWARZ (LCSW) 
+ Produktionsdatum  2013-11-13 
+ 
+
+
+
+
+slå igen   Extrautrustning  
+ 
+
+
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S1CAA  SELEKTION COP RELEVANTER FAHRZEUGE  Urval COP-relevanta fordon 
+S212A  AUSSTATTUNG BREMSANLAGE LAENDER  Uitvöring bromssyst. länder-specifik 
+S223A  ELEKTRONISCHE DAEMPFER CONTROL(EDC)  EDC 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Däck med nödkörningsegenskaper 
+S2NBA  M LM RAEDER DOPPELSPEICHE 351 M,19"  BMW LM-fälg M dubbeleker 351 
+S2TBA  SPORT-AUTOMATIK GETRIEBE  Sport automatisk växellåda 
+S2VHA  INTEGRAL-AKTIVLENKUNG  Integrerad aktiv styrning 
+S302A  ALARMANLAGE  Stöldskyddsanläggning 
+S316A  AUTOMATISCHE HECKKLAPPENBETAETIGUNG  Koffertluckamekanism automatisk 
+S322A  KOMFORTZUGANG  Komfortåtkomst 
+S323A  SOFT-CLOSE-AUTOMATIK FUER TUEREN  Dörr Soft-Close-Automatic 
+P337A  M SPORTPAKET  M Sportpaket 
+S3AGA  RUECKFAHRKAMERA  Backkamera 
+S3MCA  INDIV.DACHRELING HOCHGL.SHADOW LINE  Individuell takreling höggl.Shadow Line 
+S402A  PANORAMA GLASDACH  Panoramatak elektrisk 
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S417A  SONNENSCHUTZROLLO HINTERE TUERSCH.  Solskyddsgardin dörr bak 
+S423A  FUSSMATTEN IN VELOURS  Inlaeggningsmatta velours 
+S428A  WARNDREIECK  Varntriangel och förbandspaket 
+S430A  INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND  In-/utvänd. speglar m. nedbländ.autom 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innerbackspegel automatisk avbländade 
+S441A  RAUCHERPAKET  Rökare-sats 
+S481A  SPORTSITZE FUER FAHRER/BEIFAHRER  Sportstol 
+S488A  LORDOSENSTUETZE FAHRER/BEIFAHRER  Svankstöd förare och frams.passagerare 
+S494A  SITZHEIZUNG FUER FAHRER/BEIFAHRER  Stoluppvärmning förarsida/passagerar 
+S4CEA  EDELHOLZAUSF.FINELINE ANTHRAZIT  Ädelträutförande Fineline anthrazit 
+S502A  SCHEINWERFER-WASCHANLAGE  Stralkastarspolare 
+S508A  PARK DISTANCE CONTROL (PDC)  Parkeringsavståndskontroll (PDC) 
+S548A  KILOMETERTACHO  Kilometerräknare 
+S552A  ADAPTIVER LED-SCHEINWERFER  Adaptiv LED-strålkastare 
+S5A1A  LED-NEBELSCHEINWERFER  LED Dimstraalkastare 
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S5AGA  SPURWECHSELWARNUNG  Filbytesvarning 
+S5ALA  ACTIVE PROTECTION  Active Protection 
+S5ATA  DRIVING ASSISTANT PLUS  Driving Assistant Plus 
+S601A  TV-FUNKTION  TV-funktion 
+S609A  NAVIGATIONSSYSTEM PROFESSIONAL  Navigationssystem Professional 
+S610A  HEAD-UP DISPLAY  Head-up display 
+S676A  HIFI LAUTSPRECHERSYSTEM  HiFi-Högtalarsystem 
+S698A  AREA-CODE 2  Area-Code 2 för DVD 
+S6ACA  INTELLIGENTER NOTRUF  Intelligent nödanrop 
+S6AEA  TELESERVICES  TELESERVICES 
+S6NSA  KOMFORTTELEFONIE MIT ERW. SMARTPHON  Komforttelefoni med utök. Smartphone 
+S6WBA  MULTIFUNKTIONALES INSTRUMENTENDISPL  Multifunktionell instrumentdisplay 
+S710A  M LEDERLENKRAD  M läderratt 
+S715A  M AERODYNAMIKPAKET  M aerodynamik-paket 
+S760A  INDIVIDUAL HOCHGLANZ SHADOW LINE  Högglans shadow line 
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S775A  INDIVIDUAL DACHHIMMEL ANTHRAZIT  Takhimmel antracit 
+S7CGA  BMW REPAIR INCLUSIVE JP 3/200  Service 
+L807A  JAPAN-AUSFUEHRUNG  LANDUTFÖRANDE JAPAN 
+S845A  AKUSTISCHE GURTWARNUNG  Akustisk bältesvarning 
+S852A  SPRACHVERSION JAPANISCH  Instrum.beteckningar japanska 
+S876A  FUNKFREQUENZ 315 MHZ  Radiofrekvens 315 MHZ 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S1A  DEKODIERUNG TAGFAHRLEUCHTEN  Avkodning lampor halvljusautomatiks 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatisk låsanordning vid start 
+S8SXA  PROVIDERSTEUERUNG TELEMATIK 1  Provider-styrning Telematik 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktivt fotgängarskydd 
+S8TMA  TAGFAHRLICHT BEI FAHRZEUGSTART INAK  Dummy-SALAPA 
+S925A  VERSANDSCHUTZPAKET  Leveransskyddspaket 
+S992A  STEUERUNG KENNZEICHENBEFESTIGUNG  Styrning nummerskyltsfäste 
+ 
+
+
+
+
+slå igen   Serieutrustning  
+ 
+
+
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S1CCA  AUTO START STOP FUNKTION  Automatisk start-/stoppfunktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S459A  SITZVERSTELLUNG, ELEKTR.MIT MEMORY  Stolsjustering elektrisk med memory 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimatautomatik med 4-zonreglering 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Adaptive Drive-knapp inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Omgivningsbelysning kupé 
+ 
+
+  
+ 
+Utrustning 
+ 
+ 
+ 
+
+  
+
+
+
+slå igen   Fordonsuppgifter  
+ 
+
+
+
+
+ Typ 
+
+
+ Wert 
+
+ Chassinummer  WBAHR92000D000015 
+ Typkod  HR92 
+ Typ  550I (EUR) 
+ E-modellserie  F11 (MUE) 
+ Serie  5 
+ Typ  TOUR 
+ Styrning  RL 
+ Dörrar  5 
+ Motor  N63T 
+ Cylindervolym  4.40 
+ Motoreffekt  330 
+ Motor  HECK 
+ Växellåda  AUT 
+ Färg  IMPERIALBLAU BRILLANTEFFEKT METALLI (A89) 
+ Stoldynor  LEDER DAKOTA/OYSTER EXKLUSIVNAHT(SW (LCOX) 
+ Produktionsdatum  2013-11-19 
+ 
+
+
+
+S1CAA  SELEKTION COP RELEVANTER FAHRZEUGE  Urval COP-relevanta fordon 
+S230A  EU SPEZIFISCHE ZUSATZUMFAENGE  Extrapaket specifik för EU 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Däck med nödkörningsegenskaper 
+S2PAA  RADSCHRAUBENSICHERUNG  Hjulbultsäkring 
+S2TBA  SPORT-AUTOMATIK GETRIEBE  Sport automatisk växellåda 
+S2V3A  18"M LM RAED. DOPPELSPEICHE 613 M  BMW LM-fälg M dubbeleker 613 
+S2VBA  REIFENDRUCKANZEIGE  Däcktrycksvisning 
+S302A  ALARMANLAGE  Stöldskyddsanläggning 
+S316A  AUTOMATISCHE HECKKLAPPENBETAETIGUNG  Koffertluckamekanism automatisk 
+S320A  MODELLSCHRIFTZUG ENTFALL  Bortfallat, modellbeteckning 
+S322A  KOMFORTZUGANG  Komfortåtkomst 
+P337A  M SPORTPAKET  M Sportpaket 
+S3ATA  DACHRELING ALUMINIUM SATINIERT  Takreling aluminium satinerad 
+S418A  GEPAECKRAUMPAKET  Bagagerumspaket 
+S423A  FUSSMATTEN IN VELOURS  Inlaeggningsmatta velours 
+S428A  WARNDREIECK  Varntriangel och förbandspaket 
+S430A  INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND  In-/utvänd. speglar m. nedbländ.autom 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innerbackspegel automatisk avbländade 
+S441A  RAUCHERPAKET  Rökare-sats 
+S481A  SPORTSITZE FUER FAHRER/BEIFAHRER  Sportstol 
+S488A  LORDOSENSTUETZE FAHRER/BEIFAHRER  Svankstöd förare och frams.passagerare 
+S494A  SITZHEIZUNG FUER FAHRER/BEIFAHRER  Stoluppvärmning förarsida/passagerar 
+S502A  SCHEINWERFER-WASCHANLAGE  Stralkastarspolare 
+S508A  PARK DISTANCE CONTROL (PDC)  Parkeringsavståndskontroll (PDC) 
+S524A  ADAPTIVES KURVENLICHT  Adaptivt kurvljus 
+S575A  ZUSAETZLICHE 12-V-STECKDOSEN  extra 12V-eluttag 
+S5A1A  LED-NEBELSCHEINWERFER  LED Dimstraalkastare 
+S5ACA  FERNLICHTASSISTENT  Helljusassistent 
+S5AGA  SPURWECHSELWARNUNG  Filbytesvarning 
+S5ALA  ACTIVE PROTECTION  Active Protection 
+S5ASA  DRIVING ASSISTANT  Driving Assistant 
+S609A  NAVIGATIONSSYSTEM PROFESSIONAL  Navigationssystem Professional 
+S610A  HEAD-UP DISPLAY  Head-up display 
+S654A  DAB TUNER  DAB-mottagarmodul 
+S698A  AREA-CODE 2  Area-Code 2 för DVD 
+S6ACA  INTELLIGENTER NOTRUF  Intelligent nödanrop 
+S6AEA  TELESERVICES  TELESERVICES 
+S6AKA  CONNECTEDDRIVE SERVICES  Connected Drive Services 
+S6AMA  REAL TIME TRAFFIC INFORMATION  Real-Time Traffic Information 
+S6ANA  CONCIERGE SERVICES  Concierge Services 
+S6APA  REMOTE SERVICES  Remote Services 
+S6NRA  APPS  Apps 
+S6NSA  KOMFORTTELEFONIE MIT ERW. SMARTPHON  Komforttelefoni med utök. Smartphone 
+S6WAA  INSTRUMENTENKOMBI. M. ERW. UMF.  Kombiinstrument med utökade funktioner 
+S6WAA  INSTRUMENTENKOMBI. M. ERW. UMF.  Kombiinstrument med utökade funktioner 
+S704A  M SPORTFAHRWERK  M sportchassi 
+S710A  M LEDERLENKRAD  M läderratt 
+S715A  M AERODYNAMIKPAKET  M aerodynamik-paket 
+S760A  INDIVIDUAL HOCHGLANZ SHADOW LINE  Högglans shadow line 
+S761A  INDIVIDUAL SONNENSCHUTZVERGLASUNG  Individual glasering solskydd 
+S775A  INDIVIDUAL DACHHIMMEL ANTHRAZIT  Takhimmel antracit 
+L812A  ENGLAND/IRLAND AUSFUEHRUNG  Landsutförande England / Irland 
+S850A  ZUSAETZL. TANKFUELLUNG EXPORT  Extra-Export tankning 
+S877A  UEBERKREUZBEDIENUNG ENTFALL  Korsvis manövrering utgår 
+S880A  ENGLISCH / BORDLITERATUR  Fordonsdokumentation engelska 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S2A  KODIERUNG ALARMSIGNAL  Kodning larmsignal 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatisk låsanordning vid start 
+S8SMA  FAHRGESTELLNUMMER,V.AUSSEN SICHTBAR  Chassinumret syns utifrån 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktivt fotgängarskydd 
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S8TGA  DIEBSTAHLSICHERUNG  Stöldsäkring 
+S8THA  SPEED LIMIT INFO  SPEED LIMIT INFO 
+S8V1A  HINWEISSCHILD NCAP  Haenvisningsskylt 
+S1CCA  AUTO START STOP FUNKTION  Automatisk start-/stoppfunktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S459A  SITZVERSTELLUNG, ELEKTR.MIT MEMORY  Stolsjustering elektrisk med memory 
+S4BNA  EDELHOLZAUSFUEHRUNG ESCHE MASER  Ädelträutförande ask-ved 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimatautomatik med 4-zonreglering 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Adaptive Drive-knapp inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Omgivningsbelysning kupé 
+S853A  SPRACHVERSION ENGLISCH  Språkversion engelska 
+ 
+  
+ 
+Utrustning 
+ 
+ 
+ 
+
+  
+
+
+
+slå igen   Fordonsuppgifter  
+ 
+
+
+
+
+ Typ 
+
+
+ Wert 
+
+ Chassinummer  WBAHR92020D000016 
+ Typkod  HR92 
+ Typ  550I (EUR) 
+ E-modellserie  F11 (MUE) 
+ Serie  5 
+ Typ  TOUR 
+ Styrning  RL 
+ Dörrar  5 
+ Motor  N63T 
+ Cylindervolym  4.40 
+ Motoreffekt  330 
+ Motor  HECK 
+ Växellåda  AUT 
+ Färg  ALPINWEISS 3 (300) 
+ Stoldynor  LEDER DAKOTA/SCHWARZ (LCSW) 
+ Produktionsdatum  2013-11-27 
+ 
+
+
+
+
+slå igen   Extrautrustning  
+ 
+
+
+S1CAA  SELEKTION COP RELEVANTER FAHRZEUGE  Urval COP-relevanta fordon 
+S212A  AUSSTATTUNG BREMSANLAGE LAENDER  Uitvöring bromssyst. länder-specifik 
+S223A  ELEKTRONISCHE DAEMPFER CONTROL(EDC)  EDC 
+S258A  BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN  Däck med nödkörningsegenskaper 
+S2NBA  M LM RAEDER DOPPELSPEICHE 351 M,19"  BMW LM-fälg M dubbeleker 351 
+S2TBA  SPORT-AUTOMATIK GETRIEBE  Sport automatisk växellåda 
+S2VHA  INTEGRAL-AKTIVLENKUNG  Integrerad aktiv styrning 
+S302A  ALARMANLAGE  Stöldskyddsanläggning 
+S316A  AUTOMATISCHE HECKKLAPPENBETAETIGUNG  Koffertluckamekanism automatisk 
+S322A  KOMFORTZUGANG  Komfortåtkomst 
+S323A  SOFT-CLOSE-AUTOMATIK FUER TUEREN  Dörr Soft-Close-Automatic 
+P337A  M SPORTPAKET  M Sportpaket 
+S3AGA  RUECKFAHRKAMERA  Backkamera 
+S3MCA  INDIV.DACHRELING HOCHGL.SHADOW LINE  Individuell takreling höggl.Shadow Line 
+S402A  PANORAMA GLASDACH  Panoramatak elektrisk 
+S417A  SONNENSCHUTZROLLO HINTERE TUERSCH.  Solskyddsgardin dörr bak 
+S423A  FUSSMATTEN IN VELOURS  Inlaeggningsmatta velours 
+S428A  WARNDREIECK  Varntriangel och förbandspaket 
+S430A  INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND  In-/utvänd. speglar m. nedbländ.autom 
+S431A  INNENSPIEGEL,AUTOMATISCH ABBLENDEND  Innerbackspegel automatisk avbländade 
+S441A  RAUCHERPAKET  Rökare-sats 
+S481A  SPORTSITZE FUER FAHRER/BEIFAHRER  Sportstol 
+S488A  LORDOSENSTUETZE FAHRER/BEIFAHRER  Svankstöd förare och frams.passagerare 
+S494A  SITZHEIZUNG FUER FAHRER/BEIFAHRER  Stoluppvärmning förarsida/passagerar 
+S4CEA  EDELHOLZAUSF.FINELINE ANTHRAZIT  Ädelträutförande Fineline anthrazit 
+S502A  SCHEINWERFER-WASCHANLAGE  Stralkastarspolare 
+S508A  PARK DISTANCE CONTROL (PDC)  Parkeringsavståndskontroll (PDC) 
+S548A  KILOMETERTACHO  Kilometerräknare 
+S552A  ADAPTIVER LED-SCHEINWERFER  Adaptiv LED-strålkastare 
+S5A1A  LED-NEBELSCHEINWERFER  LED Dimstraalkastare 
+S5AGA  SPURWECHSELWARNUNG  Filbytesvarning 
+S5ALA  ACTIVE PROTECTION  Active Protection 
+S5ATA  DRIVING ASSISTANT PLUS  Driving Assistant Plus 
+S601A  TV-FUNKTION  TV-funktion 
+S609A  NAVIGATIONSSYSTEM PROFESSIONAL  Navigationssystem Professional 
+S610A  HEAD-UP DISPLAY  Head-up display 
+S676A  HIFI LAUTSPRECHERSYSTEM  HiFi-Högtalarsystem 
+S698A  AREA-CODE 2  Area-Code 2 för DVD 
+S6ACA  INTELLIGENTER NOTRUF  Intelligent nödanrop 
+S6AEA  TELESERVICES  TELESERVICES 
+S6NSA  KOMFORTTELEFONIE MIT ERW. SMARTPHON  Komforttelefoni med utök. Smartphone 
+S6WBA  MULTIFUNKTIONALES INSTRUMENTENDISPL  Multifunktionell instrumentdisplay 
+S710A  M LEDERLENKRAD  M läderratt 
+S715A  M AERODYNAMIKPAKET  M aerodynamik-paket 
+S760A  INDIVIDUAL HOCHGLANZ SHADOW LINE  Högglans shadow line 
+S775A  INDIVIDUAL DACHHIMMEL ANTHRAZIT  Takhimmel antracit 
+S7CGA  BMW REPAIR INCLUSIVE JP 3/200  Service 
+L807A  JAPAN-AUSFUEHRUNG  LANDUTFÖRANDE JAPAN 
+S845A  AKUSTISCHE GURTWARNUNG  Akustisk bältesvarning 
+S852A  SPRACHVERSION JAPANISCH  Instrum.beteckningar japanska 
+S876A  FUNKFREQUENZ 315 MHZ  Radiofrekvens 315 MHZ 
+S8KAA  OELWARTUNGSINT. 30.000KM/24MONATE  Dummy-SALAPA 
+S8S1A  DEKODIERUNG TAGFAHRLEUCHTEN  Avkodning lampor halvljusautomatiks 
+S8S3A  AUTOM. VERRIEGELUNG BEIM ANFAHREN  Automatisk låsanordning vid start 
+S8SXA  PROVIDERSTEUERUNG TELEMATIK 1  Provider-styrning Telematik 
+S8TFA  AKTIVER FUSSGAENGERSCHUTZ.  Aktivt fotgängarskydd 
+S8TMA  TAGFAHRLICHT BEI FAHRZEUGSTART INAK  Dummy-SALAPA 
+S925A  VERSANDSCHUTZPAKET  Leveransskyddspaket 
+S992A  STEUERUNG KENNZEICHENBEFESTIGUNG  Styrning nummerskyltsfäste 
+ 
+
+
+
+
+slå igen   Serieutrustning  
+ 
+
+
+
+
+Kod 
+
+
+ Benämning (gränssnitt) 
+
+
+ Benämning (EPC) 
+
+S1CCA  AUTO START STOP FUNKTION  Automatisk start-/stoppfunktion 
+S1CDA  BRAKE ENERGY REGENERATION  Brake Energy Regeneration 
+S459A  SITZVERSTELLUNG, ELEKTR.MIT MEMORY  Stolsjustering elektrisk med memory 
+S4NBA  KLIMAAUTOMATIK MIT 4-ZONENREGELUNG  Klimatautomatik med 4-zonreglering 
+S4U2A  FAHRERLEBNISSCHALTER INKL. ECO PRO  Adaptive Drive-knapp inklusive ECO PRO 
+S4URA  AMBIENTES LICHT  Omgivningsbelysning kupé 
+
+
+Ausstattung
+
+ 
+
+
+  Fahrzeugangaben 
+
+ Art	 Wert
+ Fahrgestellnummer	 WBAHR92040D000017 MOTOV8 New Zealand import 210526
+ Typ-Code	 HR92
+ Typ	 550I (EUR)
+ E-Baureihe	 F11 (MUE)
+ Baureihe	 5
+ Bauart	 TOUR
+ Lenkung	 RL
+ Türen	 5
+ Motor	 N63T
+ Hubraum	 4.40
+ Leistung	 330
+ Antrieb	 HECK
+ Getriebe	 AUT
+ Farbe	 CARBONSCHWARZ METALLIC (416)
+ Polsterung	 LEDER DAKOTA/SCHWARZ (LCSW)
+ Prod.-Datum	 2013-12-11
+
+  Sonderausstattung 
+
+Code	 Benennung (Schnittstelle)	 Benennung (ETK)
+S1CAA	 SELEKTION COP RELEVANTER FAHRZEUGE	 Selektion COP relevanter Fahrzeuge
+S212A	 AUSSTATTUNG BREMSANLAGE LAENDER	 Ausstattung Bremsanlage Länder
+S223A	 ELEKTRONISCHE DAEMPFER CONTROL(EDC)	 Elektronische Dämpfer Control (EDC)
+S258A	 BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN	 Bereifung mit Notlaufeigenschaften
+S2NBA	 M LM RAEDER DOPPELSPEICHE 351 M,19"	 BMW LM Rad M Doppelspeiche 351
+S2TBA	 SPORT-AUTOMATIK GETRIEBE	 Sport-Automatik Getriebe
+S2VHA	 INTEGRAL-AKTIVLENKUNG	 Integral-Aktivlenkung
+S302A	 ALARMANLAGE	 Alarmanlage
+S316A	 AUTOMATISCHE HECKKLAPPENBETAETIGUNG	 Automatische Heckklappenbetätigung
+S322A	 KOMFORTZUGANG	 Komfortzugang
+S323A	 SOFT-CLOSE-AUTOMATIK FUER TUEREN	 Soft-Close-Automatik Türen
+P337A	 M SPORTPAKET	 M Sportpaket
+S3AGA	 RUECKFAHRKAMERA	 Rückfahrkamera
+S3MCA	 INDIV.DACHRELING HOCHGL.SHADOW LINE	 Individual Dachreling Hochgl Shadow Line
+S402A	 PANORAMA GLASDACH	 Panoramadach elektrisch
+Code	 Benennung (Schnittstelle)	 Benennung (ETK)
+S417A	 SONNENSCHUTZROLLO HINTERE TUERSCH.	 Sonnenschutzrollo Tür hinten
+S423A	 FUSSMATTEN IN VELOURS	 Fussmatten Velours
+S428A	 WARNDREIECK	 Warndreieck und Verbandstasche
+S430A	 INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND	 Innen-/Aussensp. mit Abblendautomatik
+S431A	 INNENSPIEGEL,AUTOMATISCH ABBLENDEND	 Innenspiegel automatisch abblendend
+S441A	 RAUCHERPAKET	 Raucherpaket
+S453A	 AKTIVE SITZBELUEFTUNG VORN	 Klimatisierte Sitze vorne
+S456A	 KOMFORTSITZE ELEKTRISCH VERSTELLBAR	 Komfortsitz mit Memory
+S488A	 LORDOSENSTUETZE FAHRER/BEIFAHRER	 Lordosenstütze Fahrer u. Beifahrer
+S494A	 SITZHEIZUNG FUER FAHRER/BEIFAHRER	 Sitzheizung Fahrer/Beifahrer
+S496A	 SITZHEIZUNG FUER FONDSITZE	 Sitzheizung hinten
+S502A	 SCHEINWERFER-WASCHANLAGE	 Scheinwerferreinigungsanlage
+S508A	 PARK DISTANCE CONTROL (PDC)	 Park Distance Control (PDC)
+S548A	 KILOMETERTACHO	 Kilometertacho
+S552A	 ADAPTIVER LED-SCHEINWERFER	 Adaptiver LED-Scheinwerfer
+Code	 Benennung (Schnittstelle)	 Benennung (ETK)
+S5A1A	 LED-NEBELSCHEINWERFER	 LED Nebelscheinwerfer
+S5AGA	 SPURWECHSELWARNUNG	 Spurwechselwarnung
+S5ALA	 ACTIVE PROTECTION	 Active Protection
+S5ATA	 DRIVING ASSISTANT PLUS	 Driving Assistant Plus
+S5DLA	 SURROUND VIEW	 Surround View
+S5DPA	 PARKASSISTENT	 Parkassistent
+S601A	 TV-FUNKTION	 TV-Funktion
+S609A	 NAVIGATIONSSYSTEM PROFESSIONAL	 Navigationssystem Professional
+S610A	 HEAD-UP DISPLAY	 Head-Up Display
+S676A	 HIFI LAUTSPRECHERSYSTEM	 HiFi Lautsprechersystem
+S698A	 AREA-CODE 2	 Area-Code 2 für DVD
+S6ACA	 INTELLIGENTER NOTRUF	 Intelligenter Notruf
+S6AEA	 TELESERVICES	 TELESERVICES
+S6AKA	 CONNECTEDDRIVE SERVICES	 Connected Drive Services
+S6ANA	 CONCIERGE SERVICES	 Concierge Services
+Code	 Benennung (Schnittstelle)	 Benennung (ETK)
+S6APA	 REMOTE SERVICES	 Remote Services
+S6NRA	 APPS	 Apps
+S6NSA	 KOMFORTTELEFONIE MIT ERW. SMARTPHON	 Komforttelefonie mit erw. Smartphone
+S6WBA	 MULTIFUNKTIONALES INSTRUMENTENDISPL	 Multifunktionales Instrumentendisplay
+S710A	 M LEDERLENKRAD	 M Lederlenkrad
+S715A	 M AERODYNAMIKPAKET	 M Aerodynamikpaket
+S760A	 INDIVIDUAL HOCHGLANZ SHADOW LINE	 Hochglanz Shadow-Line
+S775A	 INDIVIDUAL DACHHIMMEL ANTHRAZIT	 Dachhimmel anthrazit
+S7CGA	 BMW REPAIR INCLUSIVE JP 3/200	 Service
+L807A	 JAPAN-AUSFUEHRUNG	 Länderausführung Japan
+S845A	 AKUSTISCHE GURTWARNUNG	 Akustische Gurtwarnung
+S852A	 SPRACHVERSION JAPANISCH	 Sprachversion japanisch
+S876A	 FUNKFREQUENZ 315 MHZ	 Funkfrequenz 315 MHz
+S8KAA	 OELWARTUNGSINT. 30.000KM/24MONATE	 Dummy-SALAPA
+S8S1A	 DEKODIERUNG TAGFAHRLEUCHTEN	 Decodierung Tagfahrleuchten
+Code	 Benennung (Schnittstelle)	 Benennung (ETK)
+S8S3A	 AUTOM. VERRIEGELUNG BEIM ANFAHREN	 Automatische Verriegelung beim Anfahren
+S8SXA	 PROVIDERSTEUERUNG TELEMATIK 1	 Providersteuerung Telematik
+S8TFA	 AKTIVER FUSSGAENGERSCHUTZ.	 Aktiver Fussgängerschutz
+S8TMA	 TAGFAHRLICHT BEI FAHRZEUGSTART INAK	 Dummy-SALAPA
+S925A	 VERSANDSCHUTZPAKET	 Versandschutzpaket
+S992A	 STEUERUNG KENNZEICHENBEFESTIGUNG	 Steuerung Kennzeichenbefestigung
+S9AAA	 AUSSENHAUTSCHUTZ	 Aussenhautschutz
+
+  Serienausstattung 
+
+Code	 Benennung (Schnittstelle)	 Benennung (ETK)
+S1CCA	 AUTO START STOP FUNKTION	 Auto Start Stop Funktion
+S1CDA	 BRAKE ENERGY REGENERATION	 Brake Energy Regeneration
+S4BNA	 EDELHOLZAUSFUEHRUNG ESCHE MASER	 Edelholzausführung Eschenmaser
+S4NBA	 KLIMAAUTOMATIK MIT 4-ZONENREGELUNG	 Klimaautomatik mit 4-Zonenregelung
+S4U2A	 FAHRERLEBNISSCHALTER INKL. ECO PRO	 Fahrerlebnisschalter inklusive ECO PRO
+S4URA	 AMBIENTES LICHT	 Ambientes Innenlicht
+
+
+
+Ausstattung
+
+ 
+
+
+  Fahrzeugangaben 
+
+ Art	 Wert
+ Fahrgestellnummer	 WBAHR92060D000018
+ Typ-Code	 HR92
+ Typ	 550I (EUR)
+ E-Baureihe	 F11 (MUE)
+ Baureihe	 5
+ Bauart	 TOUR
+ Lenkung	 RL
+ Türen	 5
+ Motor	 N63T
+ Hubraum	 4.40
+ Leistung	 330
+ Antrieb	 HECK
+ Getriebe	 AUT
+ Farbe	 CARBONSCHWARZ METALLIC (416)
+ Polsterung	 LEDER DAKOTA/OYSTER EXKLUSIVNAHT(SW (LCOX)
+ Prod.-Datum	 2013-12-12
+
+  Sonderausstattung 
+
+Code	 Benennung (Schnittstelle)	 Benennung (ETK)
+S1CAA	 SELEKTION COP RELEVANTER FAHRZEUGE	 Selektion COP relevanter Fahrzeuge
+S212A	 AUSSTATTUNG BREMSANLAGE LAENDER	 Ausstattung Bremsanlage Länder
+S223A	 ELEKTRONISCHE DAEMPFER CONTROL(EDC)	 Elektronische Dämpfer Control (EDC)
+S258A	 BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN	 Bereifung mit Notlaufeigenschaften
+S2NBA	 M LM RAEDER DOPPELSPEICHE 351 M,19"	 BMW LM Rad M Doppelspeiche 351
+S2TBA	 SPORT-AUTOMATIK GETRIEBE	 Sport-Automatik Getriebe
+S2VHA	 INTEGRAL-AKTIVLENKUNG	 Integral-Aktivlenkung
+S302A	 ALARMANLAGE	 Alarmanlage
+S316A	 AUTOMATISCHE HECKKLAPPENBETAETIGUNG	 Automatische Heckklappenbetätigung
+S322A	 KOMFORTZUGANG	 Komfortzugang
+S323A	 SOFT-CLOSE-AUTOMATIK FUER TUEREN	 Soft-Close-Automatik Türen
+P337A	 M SPORTPAKET	 M Sportpaket
+S3AGA	 RUECKFAHRKAMERA	 Rückfahrkamera
+S3MCA	 INDIV.DACHRELING HOCHGL.SHADOW LINE	 Individual Dachreling Hochgl Shadow Line
+S402A	 PANORAMA GLASDACH	 Panoramadach elektrisch
+Code	 Benennung (Schnittstelle)	 Benennung (ETK)
+S417A	 SONNENSCHUTZROLLO HINTERE TUERSCH.	 Sonnenschutzrollo Tür hinten
+S423A	 FUSSMATTEN IN VELOURS	 Fussmatten Velours
+S428A	 WARNDREIECK	 Warndreieck und Verbandstasche
+S430A	 INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND	 Innen-/Aussensp. mit Abblendautomatik
+S431A	 INNENSPIEGEL,AUTOMATISCH ABBLENDEND	 Innenspiegel automatisch abblendend
+S441A	 RAUCHERPAKET	 Raucherpaket
+S481A	 SPORTSITZE FUER FAHRER/BEIFAHRER	 Sportsitz
+S488A	 LORDOSENSTUETZE FAHRER/BEIFAHRER	 Lordosenstütze Fahrer u. Beifahrer
+S494A	 SITZHEIZUNG FUER FAHRER/BEIFAHRER	 Sitzheizung Fahrer/Beifahrer
+S4CEA	 EDELHOLZAUSF.FINELINE ANTHRAZIT	 Edelholzausführung Fineline anthrazit
+S502A	 SCHEINWERFER-WASCHANLAGE	 Scheinwerferreinigungsanlage
+S508A	 PARK DISTANCE CONTROL (PDC)	 Park Distance Control (PDC)
+S548A	 KILOMETERTACHO	 Kilometertacho
+S552A	 ADAPTIVER LED-SCHEINWERFER	 Adaptiver LED-Scheinwerfer
+S5A1A	 LED-NEBELSCHEINWERFER	 LED Nebelscheinwerfer
+Code	 Benennung (Schnittstelle)	 Benennung (ETK)
+S5AGA	 SPURWECHSELWARNUNG	 Spurwechselwarnung
+S5ALA	 ACTIVE PROTECTION	 Active Protection
+S5ATA	 DRIVING ASSISTANT PLUS	 Driving Assistant Plus
+S601A	 TV-FUNKTION	 TV-Funktion
+S609A	 NAVIGATIONSSYSTEM PROFESSIONAL	 Navigationssystem Professional
+S610A	 HEAD-UP DISPLAY	 Head-Up Display
+S676A	 HIFI LAUTSPRECHERSYSTEM	 HiFi Lautsprechersystem
+S698A	 AREA-CODE 2	 Area-Code 2 für DVD
+S6ACA	 INTELLIGENTER NOTRUF	 Intelligenter Notruf
+S6AEA	 TELESERVICES	 TELESERVICES
+S6NSA	 KOMFORTTELEFONIE MIT ERW. SMARTPHON	 Komforttelefonie mit erw. Smartphone
+S6WBA	 MULTIFUNKTIONALES INSTRUMENTENDISPL	 Multifunktionales Instrumentendisplay
+S710A	 M LEDERLENKRAD	 M Lederlenkrad
+S715A	 M AERODYNAMIKPAKET	 M Aerodynamikpaket
+S760A	 INDIVIDUAL HOCHGLANZ SHADOW LINE	 Hochglanz Shadow-Line
+Code	 Benennung (Schnittstelle)	 Benennung (ETK)
+S775A	 INDIVIDUAL DACHHIMMEL ANTHRAZIT	 Dachhimmel anthrazit
+S7CGA	 BMW REPAIR INCLUSIVE JP 3/200	 Service
+L807A	 JAPAN-AUSFUEHRUNG	 Länderausführung Japan
+S845A	 AKUSTISCHE GURTWARNUNG	 Akustische Gurtwarnung
+S852A	 SPRACHVERSION JAPANISCH	 Sprachversion japanisch
+S876A	 FUNKFREQUENZ 315 MHZ	 Funkfrequenz 315 MHz
+S8KAA	 OELWARTUNGSINT. 30.000KM/24MONATE	 Dummy-SALAPA
+S8S1A	 DEKODIERUNG TAGFAHRLEUCHTEN	 Decodierung Tagfahrleuchten
+S8S3A	 AUTOM. VERRIEGELUNG BEIM ANFAHREN	 Automatische Verriegelung beim Anfahren
+S8SXA	 PROVIDERSTEUERUNG TELEMATIK 1	 Providersteuerung Telematik
+S8TFA	 AKTIVER FUSSGAENGERSCHUTZ.	 Aktiver Fussgängerschutz
+S8TMA	 TAGFAHRLICHT BEI FAHRZEUGSTART INAK	 Dummy-SALAPA
+S925A	 VERSANDSCHUTZPAKET	 Versandschutzpaket
+S992A	 STEUERUNG KENNZEICHENBEFESTIGUNG	 Steuerung Kennzeichenbefestigung
+S9AAA	 AUSSENHAUTSCHUTZ	 Aussenhautschutz
+
+  Serienausstattung 
+
+Code	 Benennung (Schnittstelle)	 Benennung (ETK)
+S1CCA	 AUTO START STOP FUNKTION	 Auto Start Stop Funktion
+S1CDA	 BRAKE ENERGY REGENERATION	 Brake Energy Regeneration
+S459A	 SITZVERSTELLUNG, ELEKTR.MIT MEMORY	 Sitzverstellung elektrisch mit Memory
+S4NBA	 KLIMAAUTOMATIK MIT 4-ZONENREGELUNG	 Klimaautomatik mit 4-Zonenregelung
+S4U2A	 FAHRERLEBNISSCHALTER INKL. ECO PRO	 Fahrerlebnisschalter inklusive ECO PRO
+S4URA	 AMBIENTES LICHT	 Ambientes Innenlicht
+
+
+
+Utrustning
+
+ 
+
+Individualdata finns!   	
+  Fordonsuppgifter 
+
+ Typ	 Wert
+ Chassinummer	 WBAHR92080D000019
+ Typkod	 HR92
+ Typ	 550I (EUR)
+ E-modellserie	 F11 (MUE)
+ Serie	 5
+ Typ	 TOUR
+ Styrning	 RL
+ Dörrar	 5
+ Motor	 N63T
+ Cylindervolym	 4.40
+ Motoreffekt	 330
+ Motor	 HECK
+ Växellåda	 AUT
+ Färg	 SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)
+ Stoldynor	 LEDER DAKOTA/SCHWARZ (LCSW)
+ Produktionsdatum	 2014-01-15
+
+  Extrautrustning 
+
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S230A	 EU SPEZIFISCHE ZUSATZUMFAENGE	 Extrapaket specifik för EU
+S248A	 LENKRADHEIZUNG	 Rattuppvaermning
+S255A	 SPORT-LEDERLENKRAD	 Sportratt läder
+S258A	 BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN	 Däck med nödkörningsegenskaper
+S2TBA	 SPORT-AUTOMATIK GETRIEBE	 Sport automatisk växellåda
+S2VAA	 ADAPTIVE DRIVE	 Chassiversion "Adaptive Drive"
+S2VBA	 REIFENDRUCKANZEIGE	 Däcktrycksvisning
+S302A	 ALARMANLAGE	 Stöldskyddsanläggning
+S316A	 AUTOMATISCHE HECKKLAPPENBETAETIGUNG	 Koffertluckamekanism automatisk
+S320A	 MODELLSCHRIFTZUG ENTFALL	 Bortfallat, modellbeteckning
+S322A	 KOMFORTZUGANG	 Komfortåtkomst
+S323A	 SOFT-CLOSE-AUTOMATIK FUER TUEREN	 Dörr Soft-Close-Automatic
+S358A	 KLIMAKOMFORT-FRONTSCHEIBE	 Klimat komfort vindruta
+S3ACA	 ANHAENGERKUPPLUNG	 Släpvagnskoppling
+S3AGA	 RUECKFAHRKAMERA	 Backkamera
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S3ATA	 DACHRELING ALUMINIUM SATINIERT	 Takreling aluminium satinerad
+S3MBA	 INDIVIDUAL EXT LINE ALU SATINIERT	 Individ. Exterieur Line alum.satinerad
+S402A	 PANORAMA GLASDACH	 Panoramatak elektrisk
+S417A	 SONNENSCHUTZROLLO HINTERE TUERSCH.	 Solskyddsgardin dörr bak
+S418A	 GEPAECKRAUMPAKET	 Bagagerumspaket
+S423A	 FUSSMATTEN IN VELOURS	 Inlaeggningsmatta velours
+S428A	 WARNDREIECK	 Varntriangel och förbandspaket
+S430A	 INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND	 In-/utvänd. speglar m. nedbländ.autom
+S431A	 INNENSPIEGEL,AUTOMATISCH ABBLENDEND	 Innerbackspegel automatisk avbländade
+S453A	 AKTIVE SITZBELUEFTUNG VORN	 Luftkonditionerad framstol
+S456A	 KOMFORTSITZE ELEKTRISCH VERSTELLBAR	 Komfortsaete med minne
+S488A	 LORDOSENSTUETZE FAHRER/BEIFAHRER	 Svankstöd förare och frams.passagerare
+S494A	 SITZHEIZUNG FUER FAHRER/BEIFAHRER	 Stoluppvärmning förarsida/passagerar
+S496A	 SITZHEIZUNG FUER FONDSITZE	 Sätesuppvärmning bak
+S4M5A	 INDIVIDUAL INSTRUMENTENTAFEL LEDER	 Individual instrumentpanel läderbeklädd
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S4U1A	 KERAMIKAPPLIKATION F.BEDIENELEMENTE	 Keramikutförande manöverreglage
+S4UYA	 SKI UND SNOWBOARDTASCHE	 Skid- och snowboardväska
+S502A	 SCHEINWERFER-WASCHANLAGE	 Stralkastarspolare
+S508A	 PARK DISTANCE CONTROL (PDC)	 Parkeringsavståndskontroll (PDC)
+S552A	 ADAPTIVER LED-SCHEINWERFER	 Adaptiv LED-strålkastare
+S575A	 ZUSAETZLICHE 12-V-STECKDOSEN	 extra 12V-eluttag
+S5A1A	 LED-NEBELSCHEINWERFER	 LED Dimstraalkastare
+S5ACA	 FERNLICHTASSISTENT	 Helljusassistent
+S5AGA	 SPURWECHSELWARNUNG	 Filbytesvarning
+S5ALA	 ACTIVE PROTECTION	 Active Protection
+S5DFA	 AKTIVE.GESCHW.REG.+STOP&GO FUNKT.	 Aktiv farthålln.+Stop&Go-funktion
+S5DLA	 SURROUND VIEW	 Surround View
+S601A	 TV-FUNKTION	 TV-funktion
+S609A	 NAVIGATIONSSYSTEM PROFESSIONAL	 Navigationssystem Professional
+S610A	 HEAD-UP DISPLAY	 Head-up display
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S654A	 DAB TUNER	 DAB-mottagarmodul
+S696A	 DVD-WECHSLER 6-FACH	 DVD-växlare
+S698A	 AREA-CODE 2	 Area-Code 2 för DVD
+S6ACA	 INTELLIGENTER NOTRUF	 Intelligent nödanrop
+S6AEA	 TELESERVICES	 TELESERVICES
+S6AKA	 CONNECTEDDRIVE SERVICES	 Connected Drive Services
+S6AMA	 REAL TIME TRAFFIC INFORMATION	 Real-Time Traffic Information
+S6ANA	 CONCIERGE SERVICES	 Concierge Services
+S6APA	 REMOTE SERVICES	 Remote Services
+S6F2A	 BANG&OLUFSEN HIGH END SURROUND SOUN	 Bang&Olufsen High End Surround Sound
+S6FHA	 FOND-ENTERTAINMENT PROFESSIONAL	 Entertainment bak professional
+S6NRA	 APPS	 Apps
+S6NSA	 KOMFORTTELEFONIE MIT ERW. SMARTPHON	 Komforttelefoni med utök. Smartphone
+S761A	 INDIVIDUAL SONNENSCHUTZVERGLASUNG	 Individual glasering solskydd
+S776A	 INDIVIDUAL DACHH. ALCANTARA ANTHR.	 Innertak Alcantara antracit
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+L812A	 ENGLAND/IRLAND AUSFUEHRUNG	 Landsutförande England / Irland
+S850A	 ZUSAETZL. TANKFUELLUNG EXPORT	 Extra-Export tankning
+S877A	 UEBERKREUZBEDIENUNG ENTFALL	 Korsvis manövrering utgår
+S880A	 ENGLISCH / BORDLITERATUR	 Fordonsdokumentation engelska
+S8KAA	 OELWARTUNGSINT. 30.000KM/24MONATE	 Dummy-SALAPA
+S8S2A	 KODIERUNG ALARMSIGNAL	 Kodning larmsignal
+S8S3A	 AUTOM. VERRIEGELUNG BEIM ANFAHREN	 Automatisk låsanordning vid start
+S8SMA	 FAHRGESTELLNUMMER,V.AUSSEN SICHTBAR	 Chassinumret syns utifrån
+S8TFA	 AKTIVER FUSSGAENGERSCHUTZ.	 Aktivt fotgängarskydd
+S8TGA	 DIEBSTAHLSICHERUNG	 Stöldsäkring
+S8THA	 SPEED LIMIT INFO	 SPEED LIMIT INFO
+S8V1A	 HINWEISSCHILD NCAP	 Anvisningsskylt
+S920A	 ALPINA, OHNE BRIEF	 Alpina utan brev
+S940A	 SONDERWUNSCH AUSSTATTUNG	 Specialönskemål för utrustning
+S9AAA	 AUSSENHAUTSCHUTZ	 Karossytsskydd
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S9XAA	 ALPINA PACKAGE	 Paket ALPINA
+SXEZA	 ALPINA PIANOLACK	 Alpina pianolack
+
+  Serieutrustning 
+
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S1CCA	 AUTO START STOP FUNKTION	 Automatisk start-/stoppfunktion
+S1CDA	 BRAKE ENERGY REGENERATION	 Brake Energy Regeneration
+S2K2A	 LM RAEDER V-SPEICHE 328	 BMW LM-fälg V-eker 328
+S4NBA	 KLIMAAUTOMATIK MIT 4-ZONENREGELUNG	 Klimatautomatik med 4-zonreglering
+S4U2A	 FAHRERLEBNISSCHALTER INKL. ECO PRO	 Adaptive Drive-knapp inklusive ECO PRO
+S4URA	 AMBIENTES LICHT	 Omgivningsbelysning kupé
+S853A	 SPRACHVERSION ENGLISCH	 Språkversion engelska
+
+  Individualfordonsdata 
+
+Text
+ ---- Processing Individual 
+  Sign "BMW individual" 
+  
+ 0940 Special equipment on demand 
+  F10/F11 Alpina B5 
+  Aggregates or equipment differing from standard: 
+  
+  - Fuel processing - Cooling 
+  - Exhaust system 
+  
+  - Front axle - Steering 
+  - Rear axle - Brake 
+  - Wheels/Tires 
+  
+  - Bodywork equipment - Door sill finishers 
+  
+Text
+  - Board equipment. 
+  
+  F0x/F1x Alpina B7/6/5/D5 
+  Aggregates or equipment differing from standard: 
+  - Rear-axle differential 235L (with lock). 
+  
+ 0XEZ ALPINA piano finish 
+  Interior trim strips in piano finish "black II" (Alpina). 
+  
+
+
+Utrustning
+
+ 
+
+
+  Fordonsuppgifter 
+
+ Typ	 Wert
+ Chassinummer	 WBAHR92040D000020
+ Typkod	 HR92
+ Typ	 550I (EUR)
+ E-modellserie	 F11 (MUE)
+ Serie	 5
+ Typ	 TOUR
+ Styrning	 RL
+ Dörrar	 5
+ Motor	 N63T
+ Cylindervolym	 4.40
+ Motoreffekt	 330
+ Motor	 HECK
+ Växellåda	 AUT
+ Färg	 SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)
+ Stoldynor	 EXC.LED.NA./ELFEN.W. EX.NAHT(SW/SW) (LZET)
+ Produktionsdatum	 2014-01-28
+
+  Extrautrustning 
+
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S230A	 EU SPEZIFISCHE ZUSATZUMFAENGE	 Extrapaket specifik för EU
+S258A	 BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN	 Däck med nödkörningsegenskaper
+S2NBA	 M LM RAEDER DOPPELSPEICHE 351 M,19"	 BMW LM-fälg M dubbeleker 351
+S2PAA	 RADSCHRAUBENSICHERUNG	 Hjulbultsäkring
+S2TBA	 SPORT-AUTOMATIK GETRIEBE	 Sport automatisk växellåda
+S2VAA	 ADAPTIVE DRIVE	 Chassiversion "Adaptive Drive"
+S302A	 ALARMANLAGE	 Stöldskyddsanläggning
+S316A	 AUTOMATISCHE HECKKLAPPENBETAETIGUNG	 Koffertluckamekanism automatisk
+P337A	 M SPORTPAKET	 M Sportpaket
+S3APA	 GRAUKEIL-FRONTSCHEIBE	 Vindruta med gråkil
+S3ATA	 DACHRELING ALUMINIUM SATINIERT	 Takreling aluminium satinerad
+S423A	 FUSSMATTEN IN VELOURS	 Inlaeggningsmatta velours
+S428A	 WARNDREIECK	 Varntriangel och förbandspaket
+S430A	 INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND	 In-/utvänd. speglar m. nedbländ.autom
+S431A	 INNENSPIEGEL,AUTOMATISCH ABBLENDEND	 Innerbackspegel automatisk avbländade
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S441A	 RAUCHERPAKET	 Rökare-sats
+S456A	 KOMFORTSITZE ELEKTRISCH VERSTELLBAR	 Komfortsaete med minne
+S488A	 LORDOSENSTUETZE FAHRER/BEIFAHRER	 Svankstöd förare och frams.passagerare
+S494A	 SITZHEIZUNG FUER FAHRER/BEIFAHRER	 Stoluppvärmning förarsida/passagerar
+S502A	 SCHEINWERFER-WASCHANLAGE	 Stralkastarspolare
+S508A	 PARK DISTANCE CONTROL (PDC)	 Parkeringsavståndskontroll (PDC)
+S5A1A	 LED-NEBELSCHEINWERFER	 LED Dimstraalkastare
+S609A	 NAVIGATIONSSYSTEM PROFESSIONAL	 Navigationssystem Professional
+S654A	 DAB TUNER	 DAB-mottagarmodul
+S688A	 HARMAN/KARDON SURROUND SOUND SYSTEM	 HARMAN/KARDON SURROUND SOUND SYSTEM
+S698A	 AREA-CODE 2	 Area-Code 2 för DVD
+S6ACA	 INTELLIGENTER NOTRUF	 Intelligent nödanrop
+S6AEA	 TELESERVICES	 TELESERVICES
+S6AKA	 CONNECTEDDRIVE SERVICES	 Connected Drive Services
+S6AMA	 REAL TIME TRAFFIC INFORMATION	 Real-Time Traffic Information
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S6ANA	 CONCIERGE SERVICES	 Concierge Services
+S6APA	 REMOTE SERVICES	 Remote Services
+S6NRA	 APPS	 Apps
+S6WAA	 INSTRUMENTENKOMBI. M. ERW. UMF.	 Kombiinstrument med utökade funktioner
+S6WAA	 INSTRUMENTENKOMBI. M. ERW. UMF.	 Kombiinstrument med utökade funktioner
+S710A	 M LEDERLENKRAD	 M läderratt
+S715A	 M AERODYNAMIKPAKET	 M aerodynamik-paket
+S760A	 INDIVIDUAL HOCHGLANZ SHADOW LINE	 Högglans shadow line
+S775A	 INDIVIDUAL DACHHIMMEL ANTHRAZIT	 Takhimmel antracit
+L812A	 ENGLAND/IRLAND AUSFUEHRUNG	 Landsutförande England / Irland
+S850A	 ZUSAETZL. TANKFUELLUNG EXPORT	 Extra-Export tankning
+S877A	 UEBERKREUZBEDIENUNG ENTFALL	 Korsvis manövrering utgår
+S880A	 ENGLISCH / BORDLITERATUR	 Fordonsdokumentation engelska
+S8KAA	 OELWARTUNGSINT. 30.000KM/24MONATE	 Dummy-SALAPA
+S8S2A	 KODIERUNG ALARMSIGNAL	 Kodning larmsignal
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S8S3A	 AUTOM. VERRIEGELUNG BEIM ANFAHREN	 Automatisk låsanordning vid start
+S8SMA	 FAHRGESTELLNUMMER,V.AUSSEN SICHTBAR	 Chassinumret syns utifrån
+S8TFA	 AKTIVER FUSSGAENGERSCHUTZ.	 Aktivt fotgängarskydd
+S8TGA	 DIEBSTAHLSICHERUNG	 Stöldsäkring
+S8V1A	 HINWEISSCHILD NCAP	 Anvisningsskylt
+
+  Serieutrustning 
+
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S1CCA	 AUTO START STOP FUNKTION	 Automatisk start-/stoppfunktion
+S1CDA	 BRAKE ENERGY REGENERATION	 Brake Energy Regeneration
+S4BNA	 EDELHOLZAUSFUEHRUNG ESCHE MASER	 Ädelträutförande ask-ved
+S4NBA	 KLIMAAUTOMATIK MIT 4-ZONENREGELUNG	 Klimatautomatik med 4-zonreglering
+S4U2A	 FAHRERLEBNISSCHALTER INKL. ECO PRO	 Adaptive Drive-knapp inklusive ECO PRO
+S4URA	 AMBIENTES LICHT	 Omgivningsbelysning kupé
+S6NHA	 FREISPRECHEIN. M. USB-SCHNITTSTELLE	 Handsfree med USB-gränssnitt
+S853A	 SPRACHVERSION ENGLISCH	 Språkversion engelska
+
+
+Utrustning
+
+ 
+
+
+  Fordonsuppgifter 
+
+ Typ	 Wert
+ Chassinummer	 WBAHR92060D000021
+ Typkod	 HR92
+ Typ	 550I (EUR)
+ E-modellserie	 F11 (MUE)
+ Serie	 5
+ Typ	 TOUR
+ Styrning	 RL
+ Dörrar	 5
+ Motor	 N63T
+ Cylindervolym	 4.40
+ Motoreffekt	 330
+ Motor	 HECK
+ Växellåda	 AUT
+ Färg	 IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)
+ Stoldynor	 LEDER DAKOTA/OYSTER EXKLUSIVNAHT(SW (LCOX)
+ Produktionsdatum	 2014-01-31
+
+  Extrautrustning 
+
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S1CAA	 SELEKTION COP RELEVANTER FAHRZEUGE	 Urval COP-relevanta fordon
+S230A	 EU SPEZIFISCHE ZUSATZUMFAENGE	 Extrapaket specifik för EU
+S258A	 BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN	 Däck med nödkörningsegenskaper
+S2PAA	 RADSCHRAUBENSICHERUNG	 Hjulbultsäkring
+S2TBA	 SPORT-AUTOMATIK GETRIEBE	 Sport automatisk växellåda
+S2V3A	 18"M LM RAED. DOPPELSPEICHE 613 M	 BMW LM-fälg M dubbeleker 613
+S2VBA	 REIFENDRUCKANZEIGE	 Däcktrycksvisning
+S302A	 ALARMANLAGE	 Stöldskyddsanläggning
+S316A	 AUTOMATISCHE HECKKLAPPENBETAETIGUNG	 Koffertluckamekanism automatisk
+S320A	 MODELLSCHRIFTZUG ENTFALL	 Bortfallat, modellbeteckning
+S322A	 KOMFORTZUGANG	 Komfortåtkomst
+P337A	 M SPORTPAKET	 M Sportpaket
+S3ATA	 DACHRELING ALUMINIUM SATINIERT	 Takreling aluminium satinerad
+S418A	 GEPAECKRAUMPAKET	 Bagagerumspaket
+S423A	 FUSSMATTEN IN VELOURS	 Inlaeggningsmatta velours
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S428A	 WARNDREIECK	 Varntriangel och förbandspaket
+S430A	 INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND	 In-/utvänd. speglar m. nedbländ.autom
+S431A	 INNENSPIEGEL,AUTOMATISCH ABBLENDEND	 Innerbackspegel automatisk avbländade
+S441A	 RAUCHERPAKET	 Rökare-sats
+S481A	 SPORTSITZE FUER FAHRER/BEIFAHRER	 Sportstol
+S488A	 LORDOSENSTUETZE FAHRER/BEIFAHRER	 Svankstöd förare och frams.passagerare
+S494A	 SITZHEIZUNG FUER FAHRER/BEIFAHRER	 Stoluppvärmning förarsida/passagerar
+S502A	 SCHEINWERFER-WASCHANLAGE	 Stralkastarspolare
+S508A	 PARK DISTANCE CONTROL (PDC)	 Parkeringsavståndskontroll (PDC)
+S524A	 ADAPTIVES KURVENLICHT	 Adaptivt kurvljus
+S575A	 ZUSAETZLICHE 12-V-STECKDOSEN	 extra 12V-eluttag
+P5A3A	 BMW NIGHT VISION MIT DYNAMIC LIGHT	 BMW Night Vision med Dynamic Light
+S5ACA	 FERNLICHTASSISTENT	 Helljusassistent
+S5AGA	 SPURWECHSELWARNUNG	 Filbytesvarning
+S5ALA	 ACTIVE PROTECTION	 Active Protection
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S5ASA	 DRIVING ASSISTANT	 Driving Assistant
+S609A	 NAVIGATIONSSYSTEM PROFESSIONAL	 Navigationssystem Professional
+S610A	 HEAD-UP DISPLAY	 Head-up display
+S654A	 DAB TUNER	 DAB-mottagarmodul
+S698A	 AREA-CODE 2	 Area-Code 2 för DVD
+S6ACA	 INTELLIGENTER NOTRUF	 Intelligent nödanrop
+S6AEA	 TELESERVICES	 TELESERVICES
+S6AKA	 CONNECTEDDRIVE SERVICES	 Connected Drive Services
+S6AMA	 REAL TIME TRAFFIC INFORMATION	 Real-Time Traffic Information
+S6ANA	 CONCIERGE SERVICES	 Concierge Services
+S6APA	 REMOTE SERVICES	 Remote Services
+S6NRA	 APPS	 Apps
+S6NSA	 KOMFORTTELEFONIE MIT ERW. SMARTPHON	 Komforttelefoni med utök. Smartphone
+S6UKA	 NIGHT VISION MIT PERSONENERKENNUNG	 Night Vision med personidentifiering
+S6WAA	 INSTRUMENTENKOMBI. M. ERW. UMF.	 Kombiinstrument med utökade funktioner
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S6WAA	 INSTRUMENTENKOMBI. M. ERW. UMF.	 Kombiinstrument med utökade funktioner
+S704A	 M SPORTFAHRWERK	 M sportchassi
+S710A	 M LEDERLENKRAD	 M läderratt
+S715A	 M AERODYNAMIKPAKET	 M aerodynamik-paket
+S760A	 INDIVIDUAL HOCHGLANZ SHADOW LINE	 Högglans shadow line
+S761A	 INDIVIDUAL SONNENSCHUTZVERGLASUNG	 Individual glasering solskydd
+S775A	 INDIVIDUAL DACHHIMMEL ANTHRAZIT	 Takhimmel antracit
+L812A	 ENGLAND/IRLAND AUSFUEHRUNG	 Landsutförande England / Irland
+S850A	 ZUSAETZL. TANKFUELLUNG EXPORT	 Extra-Export tankning
+S877A	 UEBERKREUZBEDIENUNG ENTFALL	 Korsvis manövrering utgår
+S880A	 ENGLISCH / BORDLITERATUR	 Fordonsdokumentation engelska
+S8KAA	 OELWARTUNGSINT. 30.000KM/24MONATE	 Dummy-SALAPA
+S8S2A	 KODIERUNG ALARMSIGNAL	 Kodning larmsignal
+S8S3A	 AUTOM. VERRIEGELUNG BEIM ANFAHREN	 Automatisk låsanordning vid start
+S8SMA	 FAHRGESTELLNUMMER,V.AUSSEN SICHTBAR	 Chassinumret syns utifrån
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S8TFA	 AKTIVER FUSSGAENGERSCHUTZ.	 Aktivt fotgängarskydd
+S8TGA	 DIEBSTAHLSICHERUNG	 Stöldsäkring
+S8THA	 SPEED LIMIT INFO	 SPEED LIMIT INFO
+S8V1A	 HINWEISSCHILD NCAP	 Anvisningsskylt
+
+  Serieutrustning 
+
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S1CCA	 AUTO START STOP FUNKTION	 Automatisk start-/stoppfunktion
+S1CDA	 BRAKE ENERGY REGENERATION	 Brake Energy Regeneration
+S459A	 SITZVERSTELLUNG, ELEKTR.MIT MEMORY	 Stolsjustering elektrisk med memory
+S4BNA	 EDELHOLZAUSFUEHRUNG ESCHE MASER	 Ädelträutförande ask-ved
+S4NBA	 KLIMAAUTOMATIK MIT 4-ZONENREGELUNG	 Klimatautomatik med 4-zonreglering
+S4U2A	 FAHRERLEBNISSCHALTER INKL. ECO PRO	 Adaptive Drive-knapp inklusive ECO PRO
+S4URA	 AMBIENTES LICHT	 Omgivningsbelysning kupé
+S853A	 SPRACHVERSION ENGLISCH	 Språkversion engelska
+
+
+Utrustning
+
+ 
+
+
+  Fordonsuppgifter 
+
+ Typ	 Wert
+ Chassinummer	 WBAHR92080D000022
+ Typkod	 HR92
+ Typ	 550I (EUR)
+ E-modellserie	 F11 (MUE)
+ Serie	 5
+ Typ	 TOUR
+ Styrning	 RL
+ Dörrar	 5
+ Motor	 N63T
+ Cylindervolym	 4.40
+ Motoreffekt	 330
+ Motor	 HECK
+ Växellåda	 AUT
+ Färg	 MINERALWEISS METALLIC (A96)
+ Stoldynor	 LEDER DAKOTA/ZIMTBRAUN (LCEZ)
+ Produktionsdatum	 2014-02-03
+
+  Extrautrustning 
+
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S161A	 ABGASNORM EU5	 Avgasnorm EU5
+S1CAA	 SELEKTION COP RELEVANTER FAHRZEUGE	 Urval COP-relevanta fordon
+S212A	 AUSSTATTUNG BREMSANLAGE LAENDER	 Uitvöring bromssyst. länder-specifik
+S255A	 SPORT-LEDERLENKRAD	 Sportratt läder
+S258A	 BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN	 Däck med nödkörningsegenskaper
+S2FVA	 19"LM RAEDER V-SPEICHE 366	 BMW LM-fälg V-eker 366
+S2TBA	 SPORT-AUTOMATIK GETRIEBE	 Sport automatisk växellåda
+S302A	 ALARMANLAGE	 Stöldskyddsanläggning
+S316A	 AUTOMATISCHE HECKKLAPPENBETAETIGUNG	 Koffertluckamekanism automatisk
+S320A	 MODELLSCHRIFTZUG ENTFALL	 Bortfallat, modellbeteckning
+S322A	 KOMFORTZUGANG	 Komfortåtkomst
+S323A	 SOFT-CLOSE-AUTOMATIK FUER TUEREN	 Dörr Soft-Close-Automatic
+S3AGA	 RUECKFAHRKAMERA	 Backkamera
+S3AWA	 SPRITZDUESEN OHNE BEHEIZUNG	 Spolarmunstycken utan uppvärmning
+S402A	 PANORAMA GLASDACH	 Panoramatak elektrisk
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S417A	 SONNENSCHUTZROLLO HINTERE TUERSCH.	 Solskyddsgardin dörr bak
+S418A	 GEPAECKRAUMPAKET	 Bagagerumspaket
+S423A	 FUSSMATTEN IN VELOURS	 Inlaeggningsmatta velours
+S430A	 INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND	 In-/utvänd. speglar m. nedbländ.autom
+S431A	 INNENSPIEGEL,AUTOMATISCH ABBLENDEND	 Innerbackspegel automatisk avbländade
+S456A	 KOMFORTSITZE ELEKTRISCH VERSTELLBAR	 Komfortsaete med minne
+S488A	 LORDOSENSTUETZE FAHRER/BEIFAHRER	 Svankstöd förare och frams.passagerare
+S4ATA	 INT.LEIST. SCHWARZ HOCHGLAENZEND	 Interiörlister högglansiga svart
+S502A	 SCHEINWERFER-WASCHANLAGE	 Stralkastarspolare
+S508A	 PARK DISTANCE CONTROL (PDC)	 Parkeringsavståndskontroll (PDC)
+S548A	 KILOMETERTACHO	 Kilometerräknare
+S552A	 ADAPTIVER LED-SCHEINWERFER	 Adaptiv LED-strålkastare
+S5A1A	 LED-NEBELSCHEINWERFER	 LED Dimstraalkastare
+S5ACA	 FERNLICHTASSISTENT	 Helljusassistent
+S688A	 HARMAN/KARDON SURROUND SOUND SYSTEM	 HARMAN/KARDON SURROUND SOUND SYSTEM
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S696A	 DVD-WECHSLER 6-FACH	 DVD-växlare
+S699A	 AREA-CODE 3	 Area-Code 3 för DVD
+S6NSA	 KOMFORTTELEFONIE MIT ERW. SMARTPHON	 Komforttelefoni med utök. Smartphone
+S6VBA	 STEUERUNG INFOTAINMENT	 Styrning Infotainment
+S6WBA	 MULTIFUNKTIONALES INSTRUMENTENDISPL	 Multifunktionell instrumentdisplay
+S866A	 SPRACHVERSION CHINESISCH SIMPL.	 Språkversion kinesiska simplified
+S876A	 FUNKFREQUENZ 315 MHZ	 Radiofrekvens 315 MHZ
+S880A	 ENGLISCH / BORDLITERATUR	 Fordonsdokumentation engelska
+S8KMA	 OELWARTUNGSINT. 12.000KM/12MONATE	 Oljebytesintervall 12 000 km/12 mån
+S8LHA	 LAENDERSTEUERUNG 04142	 Landsstyrning Hong Kong 04142
+S8S3A	 AUTOM. VERRIEGELUNG BEIM ANFAHREN	 Automatisk låsanordning vid start
+S8TFA	 AKTIVER FUSSGAENGERSCHUTZ.	 Aktivt fotgängarskydd
+S8TMA	 TAGFAHRLICHT BEI FAHRZEUGSTART INAK	 Dummy-SALAPA
+S8TNA	 TAGFAHRLICHT UEBER LICHTMENUE EINST	 Dummy-SALAPA
+S925A	 VERSANDSCHUTZPAKET	 Leveransskyddspaket
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S9AAA	 AUSSENHAUTSCHUTZ	 Karossytsskydd
+
+  Serieutrustning 
+
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S1CCA	 AUTO START STOP FUNKTION	 Automatisk start-/stoppfunktion
+S1CDA	 BRAKE ENERGY REGENERATION	 Brake Energy Regeneration
+S4NBA	 KLIMAAUTOMATIK MIT 4-ZONENREGELUNG	 Klimatautomatik med 4-zonreglering
+S4U2A	 FAHRERLEBNISSCHALTER INKL. ECO PRO	 Adaptive Drive-knapp inklusive ECO PRO
+S4URA	 AMBIENTES LICHT	 Omgivningsbelysning kupé
+
+
+Utrustning
+
+ 
+
+
+  Fordonsuppgifter 
+
+ Typ	 Wert
+ Chassinummer	 WBAHR920X0D000023
+ Typkod	 HR92
+ Typ	 550I (EUR)
+ E-modellserie	 F11 (MUE)
+ Serie	 5
+ Typ	 TOUR
+ Styrning	 RL
+ Dörrar	 5
+ Motor	 N63T
+ Cylindervolym	 4.40
+ Motoreffekt	 330
+ Motor	 HECK
+ Växellåda	 AUT
+ Färg	 CARBONSCHWARZ METALLIC (416)
+ Stoldynor	 EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)
+ Produktionsdatum	 2014-02-06
+
+  Extrautrustning 
+
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S1CAA	 SELEKTION COP RELEVANTER FAHRZEUGE	 Urval COP-relevanta fordon
+S212A	 AUSSTATTUNG BREMSANLAGE LAENDER	 Uitvöring bromssyst. länder-specifik
+S248A	 LENKRADHEIZUNG	 Rattuppvaermning
+S258A	 BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN	 Däck med nödkörningsegenskaper
+S2NBA	 M LM RAEDER DOPPELSPEICHE 351 M,19"	 BMW LM-fälg M dubbeleker 351
+S2TBA	 SPORT-AUTOMATIK GETRIEBE	 Sport automatisk växellåda
+S2VAA	 ADAPTIVE DRIVE	 Chassiversion "Adaptive Drive"
+S2VHA	 INTEGRAL-AKTIVLENKUNG	 Integrerad aktiv styrning
+S302A	 ALARMANLAGE	 Stöldskyddsanläggning
+S316A	 AUTOMATISCHE HECKKLAPPENBETAETIGUNG	 Koffertluckamekanism automatisk
+S322A	 KOMFORTZUGANG	 Komfortåtkomst
+S323A	 SOFT-CLOSE-AUTOMATIK FUER TUEREN	 Dörr Soft-Close-Automatic
+P337A	 M SPORTPAKET	 M Sportpaket
+S3AGA	 RUECKFAHRKAMERA	 Backkamera
+S3MCA	 INDIV.DACHRELING HOCHGL.SHADOW LINE	 Individuell takreling höggl.Shadow Line
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S402A	 PANORAMA GLASDACH	 Panoramatak elektrisk
+S417A	 SONNENSCHUTZROLLO HINTERE TUERSCH.	 Solskyddsgardin dörr bak
+S418A	 GEPAECKRAUMPAKET	 Bagagerumspaket
+S423A	 FUSSMATTEN IN VELOURS	 Inlaeggningsmatta velours
+S428A	 WARNDREIECK	 Varntriangel och förbandspaket
+S430A	 INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND	 In-/utvänd. speglar m. nedbländ.autom
+S431A	 INNENSPIEGEL,AUTOMATISCH ABBLENDEND	 Innerbackspegel automatisk avbländade
+S453A	 AKTIVE SITZBELUEFTUNG VORN	 Luftkonditionerad framstol
+S455A	 AKTIVSITZ FUER FAHRER/BEIFAHRER	 Aktivt stol f förarsida/passagerar
+S456A	 KOMFORTSITZE ELEKTRISCH VERSTELLBAR	 Komfortsaete med minne
+S488A	 LORDOSENSTUETZE FAHRER/BEIFAHRER	 Svankstöd förare och frams.passagerare
+S494A	 SITZHEIZUNG FUER FAHRER/BEIFAHRER	 Stoluppvärmning förarsida/passagerar
+S496A	 SITZHEIZUNG FUER FONDSITZE	 Sätesuppvärmning bak
+S4CEA	 EDELHOLZAUSF.FINELINE ANTHRAZIT	 Ädelträutförande Fineline anthrazit
+S4U1A	 KERAMIKAPPLIKATION F.BEDIENELEMENTE	 Keramikutförande manöverreglage
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S4UYA	 SKI UND SNOWBOARDTASCHE	 Skid- och snowboardväska
+S502A	 SCHEINWERFER-WASCHANLAGE	 Stralkastarspolare
+S508A	 PARK DISTANCE CONTROL (PDC)	 Parkeringsavståndskontroll (PDC)
+S548A	 KILOMETERTACHO	 Kilometerräknare
+S552A	 ADAPTIVER LED-SCHEINWERFER	 Adaptiv LED-strålkastare
+S5A1A	 LED-NEBELSCHEINWERFER	 LED Dimstraalkastare
+S5AGA	 SPURWECHSELWARNUNG	 Filbytesvarning
+S5ALA	 ACTIVE PROTECTION	 Active Protection
+S5ATA	 DRIVING ASSISTANT PLUS	 Driving Assistant Plus
+S5DLA	 SURROUND VIEW	 Surround View
+S5DPA	 PARKASSISTENT	 Parkeringsassistent
+S601A	 TV-FUNKTION	 TV-funktion
+S609A	 NAVIGATIONSSYSTEM PROFESSIONAL	 Navigationssystem Professional
+S610A	 HEAD-UP DISPLAY	 Head-up display
+S696A	 DVD-WECHSLER 6-FACH	 DVD-växlare
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S698A	 AREA-CODE 2	 Area-Code 2 för DVD
+S6ACA	 INTELLIGENTER NOTRUF	 Intelligent nödanrop
+S6AEA	 TELESERVICES	 TELESERVICES
+S6AKA	 CONNECTEDDRIVE SERVICES	 Connected Drive Services
+S6ANA	 CONCIERGE SERVICES	 Concierge Services
+S6APA	 REMOTE SERVICES	 Remote Services
+S6F2A	 BANG&OLUFSEN HIGH END SURROUND SOUN	 Bang&Olufsen High End Surround Sound
+S6NRA	 APPS	 Apps
+S6NSA	 KOMFORTTELEFONIE MIT ERW. SMARTPHON	 Komforttelefoni med utök. Smartphone
+S6UKA	 NIGHT VISION MIT PERSONENERKENNUNG	 Night Vision med personidentifiering
+S6WBA	 MULTIFUNKTIONALES INSTRUMENTENDISPL	 Multifunktionell instrumentdisplay
+S710A	 M LEDERLENKRAD	 M läderratt
+S715A	 M AERODYNAMIKPAKET	 M aerodynamik-paket
+S760A	 INDIVIDUAL HOCHGLANZ SHADOW LINE	 Högglans shadow line
+S775A	 INDIVIDUAL DACHHIMMEL ANTHRAZIT	 Takhimmel antracit
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S7CGA	 BMW REPAIR INCLUSIVE JP 3/200	 Service
+L807A	 JAPAN-AUSFUEHRUNG	 LANDUTFÖRANDE JAPAN
+S845A	 AKUSTISCHE GURTWARNUNG	 Akustisk bältesvarning
+S852A	 SPRACHVERSION JAPANISCH	 Instrum.beteckningar japanska
+S876A	 FUNKFREQUENZ 315 MHZ	 Radiofrekvens 315 MHZ
+S8KAA	 OELWARTUNGSINT. 30.000KM/24MONATE	 Dummy-SALAPA
+S8S1A	 DEKODIERUNG TAGFAHRLEUCHTEN	 Avkodning lampor halvljusautomatiks
+S8S3A	 AUTOM. VERRIEGELUNG BEIM ANFAHREN	 Automatisk låsanordning vid start
+S8SXA	 PROVIDERSTEUERUNG TELEMATIK 1	 Provider-styrning Telematik
+S8TFA	 AKTIVER FUSSGAENGERSCHUTZ.	 Aktivt fotgängarskydd
+S8TMA	 TAGFAHRLICHT BEI FAHRZEUGSTART INAK	 Dummy-SALAPA
+S925A	 VERSANDSCHUTZPAKET	 Leveransskyddspaket
+S992A	 STEUERUNG KENNZEICHENBEFESTIGUNG	 Styrning nummerskyltsfäste
+S9AAA	 AUSSENHAUTSCHUTZ	 Karossytsskydd
+
+  Serieutrustning 
+
+Kod	 Benämning (gränssnitt)	 Benämning (EPC)
+S1CCA	 AUTO START STOP FUNKTION	 Automatisk start-/stoppfunktion
+S1CDA	 BRAKE ENERGY REGENERATION	 Brake Energy Regeneration
+S4NBA	 KLIMAAUTOMATIK MIT 4-ZONENREGELUNG	 Klimatautomatik med 4-zonreglering
+S4U2A	 FAHRERLEBNISSCHALTER INKL. ECO PRO	 Adaptive Drive-knapp inklusive ECO PRO
+S4URA	 AMBIENTES LICHT	 Omgivningsbelysning kupé
+
+
+Ausstattung
+
+ 
+
+Individualdaten vorhanden!   	
+  Fahrzeugangaben 
+
+ Art	 Wert
+ Fahrgestellnummer	 WBAHR92010D000024
+ Typ-Code	 HR92
+ Typ	 550I (EUR)
+ E-Baureihe	 F11 (MUE)
+ Baureihe	 5
+ Bauart	 TOUR
+ Lenkung	 RL
+ Türen	 5
+ Motor	 N63T
+ Hubraum	 4.40
+ Leistung	 330
+ Antrieb	 HECK
+ Getriebe	 AUT
+ Farbe	 SONDERLACKIERUNG (490)
+ Polsterung	 LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)
+ Prod.-Datum	 2014-02-25
+
+  Sonderausstattung 
+
+Code	 Benennung (Schnittstelle)	 Benennung (ETK)
+S230A	 EU SPEZIFISCHE ZUSATZUMFAENGE	 Zusatzumfang EU-spezifisch
+S255A	 SPORT-LEDERLENKRAD	 Sport-Lederlenkrad Airbag
+S258A	 BEREIFUNG MIT NOTLAUFEIGENSCHAFTEN	 Bereifung mit Notlaufeigenschaften
+S2PAA	 RADSCHRAUBENSICHERUNG	 Radschraubensicherung
+S2TBA	 SPORT-AUTOMATIK GETRIEBE	 Sport-Automatik Getriebe
+S2VAA	 ADAPTIVE DRIVE	 Adaptive Drive
+S2W1A	 18"LM RAEDER VIELSPEICHE 454	 BMW LM Rad Vielspeiche 454
+S302A	 ALARMANLAGE	 Alarmanlage
+S316A	 AUTOMATISCHE HECKKLAPPENBETAETIGUNG	 Automatische Heckklappenbetätigung
+S386A	 DACHRELING	 Dachreling
+S3ACA	 ANHAENGERKUPPLUNG	 Anhängerkupplung
+S3AGA	 RUECKFAHRKAMERA	 Rückfahrkamera
+S3DZA	 ENTFALL ZUSATZ-SCHRIFTZUG AUSSEN	 Entfall Zusatz-Schriftzug aussen
+S423A	 FUSSMATTEN IN VELOURS	 Fussmatten Velours
+S428A	 WARNDREIECK	 Warndreieck und Verbandstasche
+Code	 Benennung (Schnittstelle)	 Benennung (ETK)
+S430A	 INNEN-/AUSSENSPIEGEL AUT.ABBLENDEND	 Innen-/Aussensp. mit Abblendautomatik
+S431A	 INNENSPIEGEL,AUTOMATISCH ABBLENDEND	 Innenspiegel automatisch abblendend
+S441A	 RAUCHERPAKET	 Raucherpaket
+S481A	 SPORTSITZE FUER FAHRER/BEIFAHRER	 Sportsitz
+S494A	 SITZHEIZUNG FUER FAHRER/BEIFAHRER	 Sitzheizung Fahrer/Beifahrer
+S4CEA	 EDELHOLZAUSF.FINELINE ANTHRAZIT	 Edelholzausführung Fineline anthrazit
+S502A	 SCHEINWERFER-WASCHANLAGE	 Scheinwerferreinigungsanlage
+S508A	 PARK DISTANCE CONTROL (PDC)	 Park Distance Control (PDC)
+S524A	 ADAPTIVES KURVENLICHT	 Adaptives Kurvenlicht
+S575A	 ZUSAETZLICHE 12-V-STECKDOSEN	 Zusätzliche 12V-Steckdosen
+S5A1A	 LED-NEBELSCHEINWERFER	 LED Nebelscheinwerfer
+S5ACA	 FERNLICHTASSISTENT	 Fernlichtassistent
+S5AGA	 SPURWECHSELWARNUNG	 Spurwechselwarnung
+S5ALA	 ACTIVE PROTECTION	 Active Protection
+S5ASA	 DRIVING ASSISTANT	 Driving Assistant
+Code	 Benennung (Schnittstelle)	 Benennung (ETK)
+S5DLA	 SURROUND VIEW	 Surround View
+S609A	 NAVIGATIONSSYSTEM PROFESSIONAL	 Navigationssystem Professional
+S654A	 DAB TUNER	 DAB-Tuner
+S688A	 HARMAN/KARDON SURROUND SOUND SYSTEM	 HARMAN/KARDON SURROUND SOUND SYSTEM
+S698A	 AREA-CODE 2	 Area-Code 2 für DVD
+S6ACA	 INTELLIGENTER NOTRUF	 Intelligenter Notruf
+S6AEA	 TELESERVICES	 TELESERVICES
+S6AKA	 CONNECTEDDRIVE SERVICES	 Connected Drive Services
+S6AMA	 REAL TIME TRAFFIC INFORMATION	 Real-Time Traffic Information
+S6ARA	 INTERNET	 Internet
+S6NRA	 APPS	 Apps
+S6WAA	 INSTRUMENTENKOMBI. M. ERW. UMF.	 Instrumentenkombi mit erweitertem Umfang
+S6WAA	 INSTRUMENTENKOMBI. M. ERW. UMF.	 Instrumentenkombi mit erweitertem Umfang
+P7S2A	 LUXURY LINE	 Luxury Line
+L812A	 ENGLAND/IRLAND AUSFUEHRUNG	 Länderausführung England / Irland
+Code	 Benennung (Schnittstelle)	 Benennung (ETK)
+S850A	 ZUSAETZL. TANKFUELLUNG EXPORT	 Zusätzl. Tankfüllung Export
+S877A	 UEBERKREUZBEDIENUNG ENTFALL	 Entfall Überkreuzbedienung
+S880A	 ENGLISCH / BORDLITERATUR	 Bordliteratur englisch
+S8KAA	 OELWARTUNGSINT. 30.000KM/24MONATE	 Dummy-SALAPA
+S8S2A	 KODIERUNG ALARMSIGNAL	 Codierung Alarmsignal
+S8S3A	 AUTOM. VERRIEGELUNG BEIM ANFAHREN	 Automatische Verriegelung beim Anfahren
+S8SMA	 FAHRGESTELLNUMMER,V.AUSSEN SICHTBAR	 Fahrgestellnummer von aussen sichtbar
+S8TFA	 AKTIVER FUSSGAENGERSCHUTZ.	 Aktiver Fussgängerschutz
+S8TGA	 DIEBSTAHLSICHERUNG	 Diebstahlsicherung
+S8V1A	 HINWEISSCHILD NCAP	 Hinweisschild
+
+  Serienausstattung 
+
+Code	 Benennung (Schnittstelle)	 Benennung (ETK)
+S1CCA	 AUTO START STOP FUNKTION	 Auto Start Stop Funktion
+S1CDA	 BRAKE ENERGY REGENERATION	 Brake Energy Regeneration
+S459A	 SITZVERSTELLUNG, ELEKTR.MIT MEMORY	 Sitzverstellung elektrisch mit Memory
+S4NBA	 KLIMAAUTOMATIK MIT 4-ZONENREGELUNG	 Klimaautomatik mit 4-Zonenregelung
+S4U2A	 FAHRERLEBNISSCHALTER INKL. ECO PRO	 Fahrerlebnisschalter inklusive ECO PRO
+S4URA	 AMBIENTES LICHT	 Ambientes Innenlicht
+S6NHA	 FREISPRECHEIN. M. USB-SCHNITTSTELLE	 Freisprecheinr. mit USB-Schnittstelle
+S853A	 SPRACHVERSION ENGLISCH	 Sprachversion englisch
+
+  Individualfahrzeugdaten 
+
+Text
+ ---- Steuerung Individual 
+  Hinweisschild BMW Individual 
+  
+ 0490 Sonderlackierung 
+  Sonderlackierung "melbourne rot metallic", wie Schl. Nr. A75. 
+  
+
