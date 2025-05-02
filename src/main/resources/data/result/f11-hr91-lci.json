@@ -1,19 +1,5 @@
 [
   {
-    "doors": 5,
-    "transmission": "automatic",
-    "displacementUnit": "L",
-    "options": [],
-    "bodyStyle": "Touring",
-    "powerUnit": "KW",
-    "model": "550i",
-    "displacement": 4.4,
-    "power": 330,
-    "bodyStyleCode": "F11",
-    "drive": "RWD",
-    "manufacturer": "BMW"
-  },
-  {
     "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
     "bodyStyle": "Touring",

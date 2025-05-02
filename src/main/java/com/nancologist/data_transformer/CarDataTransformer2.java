@@ -46,7 +46,7 @@ public class CarDataTransformer2 {
 
                 Matcher vinMatcher = vinPattern.matcher(line);
                 if (vinMatcher.find()) {
-                    if (!car.isEmpty()) {
+                    if (car.get("vin") != null) {
                         cars.add(car.clone());
                         car.put("options", new ArrayList<String>());
                     }
