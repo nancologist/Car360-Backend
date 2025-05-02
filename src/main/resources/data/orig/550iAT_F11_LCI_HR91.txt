@@ -29125,8 +29125,7 @@ Individual data present!
  HECK
  Transmission
  AUT
- Colour
- ALPINABLAU II METALLIC (X06)
+ Colour ALPINABLAU II METALLIC (X06)
  Upholstery
  LEDER DAKOTA/SCHWARZ (LCSW)
  Prod.date
@@ -29435,8 +29434,7 @@ Options
  HECK
  Transmission
  AUT
- Colour
- MINERALGRAU METALLIC (B39)
+ Colour MINERALGRAU METALLIC (B39)
  Upholstery
  EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)
  Prod.date
@@ -29710,8 +29708,7 @@ Options
  HECK
  Transmission
  AUT
- Colour
- BLACK SAPPHIRE METALLIC (475)
+ Colour BLACK SAPPHIRE METALLIC (475)
  Upholstery
  LEDER DAKOTA/SCHWARZ (LCSW)
  Prod.date
@@ -29944,8 +29941,7 @@ Individual data present!
  HECK
  Transmission
  AUT
- Colour
- ALPINAGRUEN II METALLIC (X09)
+ Colour ALPINAGRUEN II METALLIC (X09)
  Upholstery
  IND.ERW.LEDERAUSST./AMAROBRAUN (ZAP5)
  Prod.date
@@ -30269,8 +30265,7 @@ Options
  HECK
  Transmission
  AUT
- Colour
- GLACIERSILBER METALLIC (A83)
+ Colour GLACIERSILBER METALLIC (A83)
  Upholstery
  LEDER DAKOTA/OYSTER EXKLUSIVNAHT(SW (LCOX)
  Prod.date
@@ -30530,8 +30525,7 @@ Individual data present!
  HECK
  Transmission
  AUT
- Colour
- MONDSTEIN METALLIC (X04)
+ Colour MONDSTEIN METALLIC (X04)
  Upholstery
  LEDER DAKOTA/SCHWARZ (LCSW)
  Prod.date
@@ -30868,8 +30862,7 @@ Individual data present!
  HECK
  Transmission
  AUT
- Colour
- CARBONSCHWARZ METALLIC (416)
+ Colour CARBONSCHWARZ METALLIC (416)
  Upholstery
  LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)
  Prod.date
@@ -31168,8 +31161,7 @@ Options
  HECK
  Transmission
  AUT
- Colour
- SPACEGRAU METALLIC (A52)
+ Colour SPACEGRAU METALLIC (A52)
  Upholstery
  LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)
  Prod.date
@@ -31354,8 +31346,7 @@ Individual data present!
  HECK
  Transmission
  AUT
- Colour
- SONDERLACKIERUNG (490)
+ Colour SONDERLACKIERUNG (490)
  Upholstery
  LEDER DAKOTA/SCHWARZ (LCSW)
  Prod.date
@@ -31658,8 +31649,7 @@ Options
  HECK
  Transmission
  AUT
- Colour
- BLACK SAPPHIRE METALLIC (475)
+ Colour BLACK SAPPHIRE METALLIC (475)
  Upholstery
  LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)
  Prod.date
@@ -31939,8 +31929,7 @@ Options
  HECK
  Transmission
  AUT
- Colour
- SPACEGRAU METALLIC (A52)
+ Colour SPACEGRAU METALLIC (A52)
  Upholstery
  EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)
  Prod.date
@@ -32220,8 +32209,7 @@ Options
  HECK
  Transmission
  AUT
- Colour
- SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)
+ Colour SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)
  Upholstery
  LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)
  Prod.date
@@ -32516,8 +32504,7 @@ Options
  HECK
  Transmission
  AUT
- Colour
- MEDITERRANBLAU METALLIC (C10)
+ Colour MEDITERRANBLAU METALLIC (C10)
  Upholstery
  LEDER DAKOTA/SCHWARZ (LCSW)
  Prod.date

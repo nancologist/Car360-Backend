@@ -1,446 +1,878 @@
 [
   {
-    "chassis_number": "WBAHR91030DZ33800",
-    "type_code": "HR91",
-    "type": "550I (EUR)",
-    "model_series": "F11 (MUE)",
-    "series": "5",
-    "body_type": "TOUR",
-    "steering": "LL",
-    "doors": "5",
-    "engine": "N63T",
-    "cylinder_volume": "4.40",
-    "engine_power": "330",
-    "engine_location": "HECK",
-    "transmission": "AUT",
     "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
-    "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "production_date": "2012-08-30",
-    "optional_equipment": [
-      "S223A",
-      "S230A",
-      "S248A",
-      "S258A",
-      "S2TBA",
-      "S2VHA",
-      "S302A",
-      "S316A",
-      "S319A",
-      "S320A",
-      "S322A",
-      "S323A",
-      "S358A",
-      "S386A",
-      "S3ACA",
-      "S3AGA",
-      "S402A",
-      "S417A",
-      "S418A",
-      "S423A",
-      "S428A",
-      "S430A",
-      "S431A",
-      "S441A",
-      "S453A",
-      "S456A",
-      "S488A",
-      "S494A",
-      "S496A",
-      "S4U1A",
-      "S502A",
-      "S508A",
-      "S536A",
-      "S552A",
-      "S575A",
-      "S5A1A",
-      "S5ACA",
-      "S5AGA",
-      "S5ALA",
-      "S5ARA",
-      "S5ATA",
-      "S5DLA",
-      "S5DPA",
-      "S606A",
-      "S610A",
-      "S654A",
-      "S677A",
-      "S698A",
-      "S6NSA",
-      "S6UKA",
-      "S6VBA",
-      "S6WAA",
-      "S710A",
-      "S760A",
-      "S761A",
-      "S775A",
-      "L801A",
-      "S845A",
-      "S879A",
-      "S8KAA",
-      "S8S3A",
-      "S8SMA",
-      "S8TFA",
-      "S8THA",
-      "S8TNA",
-      "S8V1A",
-      "S909A",
-      "S934A",
-      "S991A",
-      "S9ACA",
-      "S9AEA"
-    ],
-    "standard_equipment": [
-      "S1CCA",
-      "S1CDA",
-      "S2K2A",
-      "S4BNA",
-      "S4NBA",
-      "S4U2A",
-      "S4URA",
-      "S548A",
-      "S851A"
-    ]
+    "VIN": "WBAHR91030DZ33800"
   },
   {
-    "chassis_number": "WBAHR91050DZ33801",
-    "type_code": "HR91",
-    "type": "550I (EUR)",
-    "model_series": "F11 (MUE)",
-    "series": "5",
-    "body_type": "TOUR",
-    "steering": "LL",
-    "doors": "5",
-    "engine": "N63T",
-    "cylinder_volume": "4.40",
-    "engine_power": "330",
-    "engine_location": "HECK",
-    "transmission": "AUT",
     "color": "KASCHMIRSILBER METALLIC (A72)",
-    "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "production_date": "2012-10-02",
-    "optional_equipment": [
-      "S230A",
-      "S248A",
-      "S258A",
-      "S2TBA",
-      "S2VAA",
-      "S2VHA",
-      "S316A",
-      "S320A",
-      "S3ACA",
-      "S3MCA",
-      "S402A",
-      "S423A",
-      "S428A",
-      "S430A",
-      "S431A",
-      "S481A",
-      "S488A",
-      "S494A",
-      "S496A",
-      "S4U1A",
-      "S502A",
-      "S508A",
-      "S522A",
-      "S524A",
-      "S575A",
-      "S5A1A",
-      "S5ACA",
-      "S5AGA",
-      "S5ALA",
-      "S5ARA",
-      "S5ATA",
-      "S5DPA",
-      "S609A",
-      "S610A",
-      "S698A",
-      "S6AAA",
-      "S6ABA",
-      "S6F2A",
-      "S6WAA",
-      "S710A",
-      "S760A",
-      "S761A",
-      "S776A",
-      "L801A",
-      "S879A",
-      "S8KAA",
-      "S8SCA",
-      "S8TFA",
-      "S8V1A",
-      "S909A",
-      "S991A",
-      "S9ACA",
-      "S9AEA"
-    ],
-    "standard_equipment": [
-      "S1CCA",
-      "S1CDA",
-      "S2K2A",
-      "S459A",
-      "S4BNA",
-      "S4NBA",
-      "S4U2A",
-      "S4URA",
-      "S548A",
-      "S6NHA",
-      "S851A"
-    ]
+    "VIN": "WBAHR91050DZ33801"
   },
   {
-    "chassis_number": "WBAHR91070DZ33802",
-    "type_code": "HR91",
-    "type": "550I (EUR)",
-    "model_series": "F11 (MUE)",
-    "series": "5",
-    "body_type": "TOUR",
-    "steering": "LL",
-    "doors": "5",
-    "engine": "N63T",
-    "cylinder_volume": "4.40",
-    "engine_power": "330",
-    "engine_location": "HECK",
-    "transmission": "AUT",
     "color": "TIEFSEEBLAU METALLIC (A76)",
-    "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "production_date": "2012-10-02",
-    "optional_equipment": [
-      "S230A",
-      "S248A",
-      "S255A",
-      "S258A",
-      "S2TBA",
-      "S2VAA",
-      "S2VBA",
-      "S316A",
-      "S320A",
-      "S358A",
-      "S3MCA",
-      "S423A",
-      "S428A",
-      "S430A",
-      "S431A",
-      "S456A",
-      "S488A",
-      "S494A",
-      "S496A",
-      "S4B9A",
-      "S502A",
-      "S508A",
-      "S522A",
-      "S524A",
-      "S575A",
-      "S5A1A",
-      "S5ACA",
-      "S5AGA",
-      "S5ATA",
-      "S5DPA",
-      "S609A",
-      "S677A",
-      "S698A",
-      "S6AAA",
-      "S6ABA",
-      "S760A",
-      "S761A",
-      "S7SPA",
-      "L801A",
-      "S879A",
-      "S8KAA",
-      "S8SCA",
-      "S8TFA",
-      "S8V1A",
-      "S909A",
-      "S991A",
-      "S9ACA",
-      "S9AEA"
-    ],
-    "standard_equipment": [
-      "S1CCA",
-      "S1CDA",
-      "S2K2A",
-      "S4NBA",
-      "S4U2A",
-      "S4URA",
-      "S548A",
-      "S6NHA",
-      "S851A"
-    ]
+    "VIN": "WBAHR91070DZ33802"
   },
   {
-    "chassis_number": "WBAHR91090DZ33803",
-    "type_code": "HR91",
-    "type": "550I (EUR)",
-    "model_series": "F11 (MUE)",
-    "series": "5",
-    "body_type": "TOUR",
-    "steering": "LL",
-    "doors": "5",
-    "engine": "N63T",
-    "cylinder_volume": "4.40",
-    "engine_power": "330",
-    "engine_location": "HECK",
-    "transmission": "AUT",
     "color": "MINERALWEISS METALLIC (A96)",
-    "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "production_date": "2012-10-11",
-    "optional_equipment": [
-      "S1CAA",
-      "S223A",
-      "S230A",
-      "S255A",
-      "S2W2A",
-      "S316A",
-      "S322A",
-      "S3MCA",
-      "S402A",
-      "S418A",
-      "S423A",
-      "S428A",
-      "S430A",
-      "S431A",
-      "S456A",
-      "S488A",
-      "S494A",
-      "S4CTA",
-      "S4UYA",
-      "S502A",
-      "S508A",
-      "S552A",
-      "S5A1A",
-      "S5ACA",
-      "S5ALA",
-      "S5ARA",
-      "S5ATA",
-      "S609A",
-      "S614A",
-      "S677A",
-      "S698A",
-      "S6AAA",
-      "S6ABA",
-      "S6NRA",
-      "S6UHA",
-      "S6WAA",
-      "S760A",
-      "P7S2A",
-      "L801A",
-      "S879A",
-      "S8KAA",
-      "S8SCA",
-      "S8TFA",
-      "S8THA",
-      "S8V1A",
-      "S906A",
-      "S991A"
-    ],
-    "standard_equipment": [
-      "S1CCA",
-      "S1CDA",
-      "S205A",
-      "S4NBA",
-      "S4U2A",
-      "S4URA",
-      "S548A",
-      "S6NHA",
-      "S851A"
-    ]
+    "VIN": "WBAHR91090DZ33803"
   },
   {
-    "chassis_number": "WBAHR91000DZ33804",
-    "type_code": "HR91",
-    "type": "550I (EUR)",
-    "model_series": "F11 (MUE)",
-    "series": "5",
-    "body_type": "TOUR",
-    "steering": "LL",
-    "doors": "5",
-    "engine": "N63T",
-    "cylinder_volume": "4.40",
-    "engine_power": "330",
-    "engine_location": "HECK",
-    "transmission": "AUT",
     "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
-    "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "production_date": "2012-10-23",
-    "optional_equipment": [
-      "S223A",
-      "S230A",
-      "S258A",
-      "S2TBA",
-      "S2VHA",
-      "S316A",
-      "S320A",
-      "S3ACA",
-      "S3APA",
-      "S3MCA",
-      "S423A",
-      "S428A",
-      "S430A",
-      "S431A",
-      "S456A",
-      "S488A",
-      "S494A",
-      "S496A",
-      "S4B9A",
-      "S502A",
-      "S508A",
-      "S522A",
-      "S524A",
-      "S5A1A",
-      "S5ACA",
-      "S5AGA",
-      "S5ATA",
-      "S5DPA",
-      "S609A",
-      "S677A",
-      "S698A",
-      "S6AAA",
-      "S6ABA",
-      "S760A",
-      "S761A",
-      "L801A",
-      "S879A",
-      "S8KAA",
-      "S8SCA",
-      "S8TFA",
-      "S8V1A",
-      "S909A",
-      "S991A",
-      "S9ACA",
-      "S9AEA"
-    ],
-    "standard_equipment": [
-      "S1CCA",
-      "S1CDA",
-      "S2K2A",
-      "S4NBA",
-      "S4U2A",
-      "S4URA",
-      "S548A",
-      "S6NHA",
-      "S851A"
-    ]
+    "VIN": "WBAHR91000DZ33804"
   },
   {
-    "chassis_number": "WBAHR91020DZ33805",
-    "type_code": "HR91",
-    "type": "550I (EUR)",
-    "model_series": "F11 (MUE)",
-    "series": "5",
-    "body_type": "TOUR",
-    "steering": "LL",
-    "doors": "5",
-    "engine": "N63T",
-    "cylinder_volume": "4.40",
-    "engine_power": "330",
-    "engine_location": "HECK",
-    "transmission": "AUT",
+    "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
+    "VIN": "WBAHR91020DZ33805"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91040DZ33806"
+  },
+  {
+    "color": "KALLISTOGRAU METALLIC (B64)",
+    "VIN": "WBAHR91060DZ33807"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91080DZ33808"
+  },
+  {
+    "color": "MINERALWEISS METALLIC (A96)",
+    "VIN": "WBAHR910X0DZ33809"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91060DZ33810"
+  },
+  {
+    "color": "SCHWARZ 2 (668)",
+    "VIN": "WBAHR91080DZ33811"
+  },
+  {
     "color": "SPACEGRAU METALLIC (A52)",
-    "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "production_date": "2012-11-21",
-    "optional_equipment": [
-      "S230A",
-      "S248A",
-      "S255"
-    ]
+    "VIN": "WBAHR910X0DZ33812"
+  },
+  {
+    "color": "KASCHMIRSILBER METALLIC (A72)",
+    "VIN": "WBAHR91010DZ33813"
+  },
+  {
+    "color": "MINERALWEISS METALLIC (A96)",
+    "VIN": "WBAHR91030DZ33814"
+  },
+  {
+    "color": "AZURITSCHWARZ METALLIC (S34)",
+    "VIN": "WBAHR91050DZ33815"
+  },
+  {
+    "color": "KALLISTOGRAU METALLIC (B64)",
+    "VIN": "WBAHR91070DZ33816"
+  },
+  {
+    "color": "ALPINWEISS 3 (300)",
+    "VIN": "WBAHR91090DZ33817"
+  },
+  {
+    "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
+    "VIN": "WBAHR91000DZ33818"
+  },
+  {
+    "color": "AZURITSCHWARZ METALLIC (S34)",
+    "VIN": "WBAHR91020DZ33819"
+  },
+  {
+    "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
+    "VIN": "WBAHR91090DZ33820"
+  },
+  {
+    "color": "KALLISTOGRAU METALLIC (B64)",
+    "VIN": "WBAHR91000DZ33821"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91020DZ33822"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR91040DZ33823"
+  },
+  {
+    "color": "ALPINWEISS 3 (300)",
+    "VIN": "WBAHR91060DZ33824"
+  },
+  {
+    "color": "SCHWARZ 2 (668)",
+    "VIN": "WBAHR91080DZ33825"
+  },
+  {
+    "color": "SPACEGRAU METALLIC (A52)",
+    "VIN": "WBAHR910X0DZ33826"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91010DZ33827"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR91030DZ33828"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR91050DZ33829"
+  },
+  {
+    "color": "CHAMPAGNER QUARZ METALLIC (X08)",
+    "VIN": "WBAHR91010DZ33830"
+  },
+  {
+    "color": "ALPINWEISS 3 (300)",
+    "VIN": "WBAHR91030DZ33831"
+  },
+  {
+    "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
+    "VIN": "WBAHR91050DZ33832"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91070DZ33833"
+  },
+  {
+    "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
+    "VIN": "WBAHR91090DZ33834"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR91000DZ33835"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91020DZ33836"
+  },
+  {
+    "color": "ALPINWEISS 3 (300)",
+    "VIN": "WBAHR91040DZ33837"
+  },
+  {
+    "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
+    "VIN": "WBAHR91060DZ33838"
+  },
+  {
+    "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
+    "VIN": "WBAHR91080DZ33839"
+  },
+  {
+    "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
+    "VIN": "WBAHR91040DZ33840"
+  },
+  {
+    "color": "KALLISTOGRAU METALLIC (B64)",
+    "VIN": "WBAHR91060DZ33841"
+  },
+  {
+    "color": "JATOBA METALLIC (B65)",
+    "VIN": "WBAHR91080DZ33842"
+  },
+  {
+    "color": "CITRINSCHWARZ MET. (X02)",
+    "VIN": "WBAHR910X0DZ33843"
+  },
+  {
+    "color": "AZURITSCHWARZ METALLIC (S34)",
+    "VIN": "WBAHR91010DZ33844"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91030DZ33845"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91050DZ33846"
+  },
+  {
+    "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
+    "VIN": "WBAHR91070DZ33847"
+  },
+  {
+    "color": "ALPINWEISS 3 (300)",
+    "VIN": "WBAHR91090DZ33848"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91000DZ33849"
+  },
+  {
+    "color": "MINERALWEISS METALLIC (A96)",
+    "VIN": "WBAHR91070DZ33850"
+  },
+  {
+    "color": "SPACEGRAU METALLIC (A52)",
+    "VIN": "WBAHR91090DZ33851"
+  },
+  {
+    "color": "KALLISTOGRAU METALLIC (B64)",
+    "VIN": "WBAHR91000DZ33852"
+  },
+  {
+    "color": "SPACEGRAU METALLIC (A52)",
+    "VIN": "WBAHR91020DZ33853"
+  },
+  {
+    "color": "GLACIERSILBER METALLIC (A83)",
+    "VIN": "WBAHR91040DZ33854"
+  },
+  {
+    "color": "SCHWARZ 2 (668)",
+    "VIN": "WBAHR91060DZ33855"
+  },
+  {
+    "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
+    "VIN": "WBAHR91080DZ33856"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR910X0DZ33857"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR91010DZ33858"
+  },
+  {
+    "color": "MINERALWEISS METALLIC (A96)",
+    "VIN": "WBAHR91030DZ33859"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR910X0DZ33860"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91010DZ33861"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91030DZ33862"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR91050DZ33863"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91070DZ33864"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR91090DZ33865"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR91000DZ33866"
+  },
+  {
+    "color": "SCHWARZ 2 (668)",
+    "VIN": "WBAHR91020DZ33867"
+  },
+  {
+    "color": "SPACEGRAU METALLIC (A52)",
+    "VIN": "WBAHR91040DZ33868"
+  },
+  {
+    "color": "MINERALWEISS METALLIC (A96)",
+    "VIN": "WBAHR91060DZ33869"
+  },
+  {
+    "color": "MONDSTEIN METALLIC (X04)",
+    "VIN": "WBAHR91020DZ33870"
+  },
+  {
+    "color": "ALPINWEISS 3 (300)",
+    "VIN": "WBAHR91040DZ33871"
+  },
+  {
+    "color": "SPACEGRAU METALLIC (A52)",
+    "VIN": "WBAHR91060DZ33872"
+  },
+  {
+    "color": "SCHWARZ 2 (668)",
+    "VIN": "WBAHR91080DZ33873"
+  },
+  {
+    "color": "MINERALWEISS METALLIC (A96)",
+    "VIN": "WBAHR910X0DZ33874"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR91010DZ33875"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR91030DZ33876"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR91050DZ33877"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91070DZ33878"
+  },
+  {
+    "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
+    "VIN": "WBAHR91090DZ33879"
+  },
+  {
+    "color": "ALPINWEISS 3 (300)",
+    "VIN": "WBAHR91050DZ33880"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91070DZ33881"
+  },
+  {
+    "color": "CHAMPAGNER QUARZ METALLIC (X08)",
+    "VIN": "WBAHR91090DZ33882"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91000DZ33883"
+  },
+  {
+    "color": "SPACEGRAU METALLIC (A52)",
+    "VIN": "WBAHR91040DZ33885"
+  },
+  {
+    "color": "ALPINWEISS 3 (300)",
+    "VIN": "WBAHR91060DZ33886"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91080DZ33887"
+  },
+  {
+    "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
+    "VIN": "WBAHR910X0DZ33888"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR91010DZ33889"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91020DZ33884"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR91080DZ33890"
+  },
+  {
+    "color": "ALPINAGRUEN II METALLIC (X09)",
+    "VIN": "WBAHR910X0DZ33891"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91010DZ33892"
+  },
+  {
+    "color": "JATOBA METALLIC (B65)",
+    "VIN": "WBAHR91030DZ33893"
+  },
+  {
+    "color": "KALLISTOGRAU METALLIC (B64)",
+    "VIN": "WBAHR91050DZ33894"
+  },
+  {
+    "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
+    "VIN": "WBAHR91070DZ33895"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91090DZ33896"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91000DZ33897"
+  },
+  {
+    "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
+    "VIN": "WBAHR91040DZ33899"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR91070DZ33900"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR91090DZ33901"
+  },
+  {
+    "color": "SPACEGRAU METALLIC (A52)",
+    "VIN": "WBAHR91000DZ33902"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91020DZ33903"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91040DZ33904"
+  },
+  {
+    "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
+    "VIN": "WBAHR91060DZ33905"
+  },
+  {
+    "color": "MINERALWEISS METALLIC (A96)",
+    "VIN": "WBAHR91080DZ33906"
+  },
+  {
+    "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
+    "VIN": "WBAHR910X0DZ33907"
+  },
+  {
+    "color": "ALPINWEISS 3 (300)",
+    "VIN": "WBAHR91010DZ33908"
+  },
+  {
+    "color": "ALPINWEISS 3 (300)",
+    "VIN": "WBAHR91030DZ33909"
+  },
+  {
+    "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
+    "VIN": "WBAHR910X0DZ33910"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91010DZ33911"
+  },
+  {
+    "VIN": "WBAHR91030DZ33912"
+  },
+  {
+    "VIN": "WBAHR91070DZ33914"
+  },
+  {
+    "VIN": "WBAHR91050DZ33913"
+  },
+  {
+    "VIN": "WBAHR91020DZ33898"
+  },
+  {
+    "VIN": "WBAHR91090DZ33915"
+  },
+  {
+    "VIN": "WBAHR91000DZ33916"
+  },
+  {
+    "VIN": "WBAHR91020DZ33917"
+  },
+  {
+    "VIN": "WBAHR91040DZ33918"
+  },
+  {
+    "color": "CHAMPAGNER QUARZ METALLIC (X08)",
+    "VIN": "WBAHR91060DZ33919"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR91020DZ33920"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91040DZ33921"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR91060DZ33922"
+  },
+  {
+    "color": "ALPINWEISS 3 (300)",
+    "VIN": "WBAHR91080DZ33923"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR910X0DZ33924"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91010DZ33925"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR91030DZ33926"
+  },
+  {
+    "color": "MINERALWEISS METALLIC (A96)",
+    "VIN": "WBAHR91050DZ33927"
+  },
+  {
+    "color": "ALPINAGRUEN II METALLIC (X09)",
+    "VIN": "WBAHR91070DZ33928"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91090DZ33929"
+  },
+  {
+    "color": "ALPINAGRUEN II METALLIC (X09)",
+    "VIN": "WBAHR91050DZ33930"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91070DZ33931"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91090DZ33932"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR91000DZ33933"
+  },
+  {
+    "color": "ALPINAGRUEN II METALLIC (X09)",
+    "VIN": "WBAHR91020DZ33934"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91040DZ33935"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR91060DZ33936"
+  },
+  {
+    "color": "SCHWARZ 2 (668)",
+    "VIN": "WBAHR91080DZ33937"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR910X0DZ33938"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91010DZ33939"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR91080DZ33940"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR910X0DZ33941"
+  },
+  {
+    "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
+    "VIN": "WBAHR91010DZ33942"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91030DZ33943"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91050DZ33944"
+  },
+  {
+    "color": "SCHWARZ 2 (668)",
+    "VIN": "WBAHR91070DZ33945"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91090DZ33946"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91000DZ33947"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR91020DZ33948"
+  },
+  {
+    "color": "MEDITERRANBLAU METALLIC (C10)",
+    "VIN": "WBAHR91040DZ33949"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91000DZ33950"
+  },
+  {
+    "color": "AZURITSCHWARZ METALLIC (S34)",
+    "VIN": "WBAHR91020DZ33951"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91040DZ33952"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR91060DZ33953"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91080DZ33954"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR910X0DZ33955"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR91010DZ33956"
+  },
+  {
+    "color": "MEDITERRANBLAU METALLIC (C10)",
+    "VIN": "WBAHR91030DZ33957"
+  },
+  {
+    "color": "CITRINSCHWARZ MET. (X02)",
+    "VIN": "WBAHR91050DZ33958"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91070DZ33959"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91030DZ33960"
+  },
+  {
+    "color": "GLACIERSILBER METALLIC (A83)",
+    "VIN": "WBAHR91050DZ33961"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR91070DZ33962"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91090DZ33963"
+  },
+  {
+    "color": "SCHWARZ 2 (668)",
+    "VIN": "WBAHR91000DZ33964"
+  },
+  {
+    "color": "MINERALGRAU METALLIC (B39)",
+    "VIN": "WBAHR91020DZ33965"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91040DZ33966"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR91060DZ33967"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91080DZ33968"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR910X0DZ33969"
+  },
+  {
+    "color": "JATOBA METALLIC (B65)",
+    "VIN": "WBAHR91060DZ33970"
+  },
+  {
+    "color": "SCHWARZ 2 (668)",
+    "VIN": "WBAHR91080DZ33971"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR910X0DZ33972"
+  },
+  {
+    "color": "ALPINWEISS 3 (300)",
+    "VIN": "WBAHR91010DZ33973"
+  },
+  {
+    "color": "SPACEGRAU METALLIC (A52)",
+    "VIN": "WBAHR91030DZ33974"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91050DZ33975"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91070DZ33976"
+  },
+  {
+    "color": "SCHWARZ 2 (668)",
+    "VIN": "WBAHR91090DZ33977"
+  },
+  {
+    "color": "CITRINSCHWARZ MET. (X02)",
+    "VIN": "WBAHR91000DZ33978"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91020DZ33979"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91090DZ33980"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR91000DZ33981"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91020DZ33982"
+  },
+  {
+    "color": "TANSANITBLAU METALLIC (X10)",
+    "VIN": "WBAHR91040DZ33983"
+  },
+  {
+    "color": "TANSANITBLAU METALLIC (X10)",
+    "VIN": "WBAHR91060DZ33984"
+  },
+  {
+    "color": "MINERALWEISS METALLIC (A96)",
+    "VIN": "WBAHR91080DZ33985"
+  },
+  {
+    "color": "ALPINAGRUEN II METALLIC (X09)",
+    "VIN": "WBAHR910X0DZ33986"
+  },
+  {
+    "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
+    "VIN": "WBAHR91010DZ33987"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91030DZ33988"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91050DZ33989"
+  },
+  {
+    "color": "ALPINWEISS 3 (300)",
+    "VIN": "WBAHR91010DZ33990"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91030DZ33991"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91050DZ33992"
+  },
+  {
+    "color": "MINERALGRAU METALLIC (B39)",
+    "VIN": "WBAHR91070DZ33993"
+  },
+  {
+    "color": "ALPINWEISS 3 (300)",
+    "VIN": "WBAHR91090DZ33994"
+  },
+  {
+    "color": "SPACEGRAU METALLIC (A52)",
+    "VIN": "WBAHR91000DZ33995"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91020DZ33996"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR91040DZ33997"
+  },
+  {
+    "color": "SCHWARZ 2 (668)",
+    "VIN": "WBAHR91060DZ33998"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91080DZ33999"
+  },
+  {
+    "color": "MONDSTEIN METALLIC (X04)",
+    "VIN": "WBAHR91090DZ34000"
+  },
+  {
+    "color": "SCHWARZ 2 (668)",
+    "VIN": "WBAHR91000DZ34001"
+  },
+  {
+    "color": "ALPINWEISS 3 (300)",
+    "VIN": "WBAHR91020DZ34002"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR91040DZ34003"
+  },
+  {
+    "color": "MINERALGRAU METALLIC (B39)",
+    "VIN": "WBAHR91060DZ34004"
+  },
+  {
+    "color": "SPACEGRAU METALLIC (A52)",
+    "VIN": "WBAHR91080DZ34005"
+  },
+  {
+    "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
+    "VIN": "WBAHR910X0DZ34006"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91010DZ34007"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91030DZ34008"
+  },
+  {
+    "color": "ALPINABLAU II METALLIC (X06)",
+    "VIN": "WBAHR91050DZ34009"
+  },
+  {
+    "color": "MINERALGRAU METALLIC (B39)",
+    "VIN": "WBAHR9107HDZ34010"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91030DZ34011"
+  },
+  {
+    "color": "ALPINAGRUEN II METALLIC (X09)",
+    "VIN": "WBAHR91050DZ34012"
+  },
+  {
+    "color": "GLACIERSILBER METALLIC (A83)",
+    "VIN": "WBAHR91070DZ34013"
+  },
+  {
+    "color": "MONDSTEIN METALLIC (X04)",
+    "VIN": "WBAHR91090DZ34014"
+  },
+  {
+    "color": "CARBONSCHWARZ METALLIC (416)",
+    "VIN": "WBAHR91000DZ34015"
+  },
+  {
+    "color": "SPACEGRAU METALLIC (A52)",
+    "VIN": "WBAHR91020DZ34016"
+  },
+  {
+    "color": "SONDERLACKIERUNG (490)",
+    "VIN": "WBAHR91040DZ34017"
+  },
+  {
+    "color": "BLACK SAPPHIRE METALLIC (475)",
+    "VIN": "WBAHR91060DZ34018"
+  },
+  {
+    "color": "SPACEGRAU METALLIC (A52)",
+    "VIN": "WBAHR91080DZ34019"
+  },
+  {
+    "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
+    "VIN": "WBAHR91040DZ34020"
   }
 ]
