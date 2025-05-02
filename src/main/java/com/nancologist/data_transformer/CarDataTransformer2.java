@@ -35,7 +35,7 @@ public class CarDataTransformer2 {
                     }
                     car.clear(); // If a new car then reset the map
                     String vin = vinMatcher.group(1);
-                    car.put("VIN", vin);
+                    car.put("vin", vin);
                 }
 
                 Matcher colorMatcher = colorPattern.matcher(line);
