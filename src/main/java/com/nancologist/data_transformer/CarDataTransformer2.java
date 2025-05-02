@@ -17,7 +17,7 @@ public class CarDataTransformer2 {
     static final private String FILE_PATH = "src/main/resources/data/orig/550iAT_F11_LCI_HR91.txt";
     /** VIN = Vehicle Identification Number */
     static final private Pattern vinPattern = Pattern.compile("(WBAHR91.+?)(?:\\s|$)");
-    static final private Pattern colorPattern = Pattern.compile("(Colour|Farbe|Färg)\\s+(.+\\(\\w{2,}\\))(?:\\s+|$)");
+    static final private Pattern colorPattern = Pattern.compile("(Colour|Farbe|Färg)\\s+(.+\\(\\w{2,}\\))(?:\\s|$)");
 
     public static void main(String[] args) throws IOException {
         Path path = Paths.get(FILE_PATH);
