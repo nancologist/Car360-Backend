@@ -20,6 +20,7 @@ public class CarDataTransformer2 {
     static final private Pattern colorPattern = Pattern.compile("(Colour|Farbe|Färg)\\s+(.+\\(\\w{2,}\\))(?:\\s|$)");
     static final private Pattern prodDatePattern = Pattern.compile("(Prod.date|Prod.-Datum|Produktionsdatum)\\s+([0-9]{4}-[0-9]{2}-[0-9]{2})");
     static final private Pattern upholsteryPattern = Pattern.compile("(Upholstery|Polsterung|Stoldynor)\\s+(.+\\(\\w+\\))");
+    // Fixme: it does not find options of cars in english section (count=18), either fix the regex or add them manually
     static final private Pattern optionsPattern = Pattern.compile("^([SP]\\w{4})\\s");
 
     public static void main(String[] args) throws IOException {
