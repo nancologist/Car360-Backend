@@ -19,6 +19,8 @@ public class CarDataTransformer2 {
     static final private Pattern vinPattern = Pattern.compile("(WBAHR91.+?)(?:\\s|$)");
     static final private Pattern colorPattern = Pattern.compile("(Colour|Farbe|Färg)\\s+(.+\\(\\w{2,}\\))(?:\\s|$)");
     static final private Pattern prodDatePattern = Pattern.compile("(Prod.date|Prod.-Datum|Produktionsdatum)\\s+([0-9]{4}-[0-9]{2}-[0-9]{2})");
+    static final private Pattern upholsteryPattern = Pattern.compile("(Upholstery|Polsterung|Stoldynor)\\s+(.+\\(\\w+\\))");
+    static final private Pattern optionsPattern = Pattern.compile("^([SP]\\w{4})\\s");
 
     public static void main(String[] args) throws IOException {
         Path path = Paths.get(FILE_PATH);
@@ -26,16 +28,28 @@ public class CarDataTransformer2 {
 
         try (Stream<String> lines = Files.lines(path)) {
 
-            HashMap<String, String> car = new HashMap<>();
+            HashMap<String, Object> car = new HashMap<>();
+            car.put("manufacturer", "BMW");
+            car.put("model", "550i");
+            car.put("bodyStyle", "Touring");
+            car.put("bodyStyleCode", "F11");
+            car.put("power", 330);
+            car.put("powerUnit", "KW");
+            car.put("displacement", 4.4);
+            car.put("displacementUnit", "L");
+            car.put("drive", "RWD");
+            car.put("transmission", "automatic");
+            car.put("doors", 5);
+            car.put("options", new ArrayList<String>());
+
             lines.forEach((line) -> {
 
                 Matcher vinMatcher = vinPattern.matcher(line);
                 if (vinMatcher.find()) {
-                    // Fixme: With this approach the last car (VIN=WBAHR91060DZ34021) does not get added to the list
                     if (!car.isEmpty()) {
                         cars.add(car.clone());
+                        car.put("options", new ArrayList<String>());
                     }
-                    car.clear(); // If a new car then reset the map
                     String vin = vinMatcher.group(1);
                     car.put("vin", vin);
                 }
@@ -48,6 +62,16 @@ public class CarDataTransformer2 {
                 Matcher prodDateMatcher = prodDatePattern.matcher(line);
                 if (prodDateMatcher.find()) {
                     car.put("prodDate", prodDateMatcher.group(2));
+                }
+
+                Matcher upholsteryMatcher = upholsteryPattern.matcher(line);
+                if (upholsteryMatcher.find()) {
+                    car.put("upholstery", upholsteryMatcher.group(2));
+                }
+
+                Matcher optionsMatcher = optionsPattern.matcher(line);
+                if (optionsMatcher.find()) {
+                    ((ArrayList<String>) car.get("options")).add(optionsMatcher.group());
                 }
             });
 
