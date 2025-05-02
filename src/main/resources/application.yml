@@ -1,6 +1,6 @@
 spring:
   application:
-    name: my-rest-app
+    name: car360
 
   datasource:
     url: jdbc:postgresql://localhost:5432/springular

@@ -11,11 +11,11 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class CarDataTransformer {
+    static final private String FILE_PATH = "src/main/resources/data/orig/550iAT_F11_LCI_HR91.txt";
 
     public static void main(String[] args) {
-        String filePath = "src/main/resources/data/orig/550iAT_F11_LCI_HR91.txt";
         try {
-            String jsonData = transformCarData(filePath);
+            String jsonData = transformCarData();
             System.out.println(jsonData);
             // You can then save this jsonData to a file.
         } catch (IOException e) {
@@ -23,16 +23,16 @@ public class CarDataTransformer {
         }
     }
 
-    public static String transformCarData(String filePath) throws IOException {
+    public static String transformCarData() throws IOException {
         List<Map<String, String>> carDataList = new ArrayList<>();
         Map<String, Map<String, String>> equipmentLookup = new HashMap<>();
         StringBuilder jsonBuilder = new StringBuilder();
 
         // Find out the current working directory to debug the file path if you get "File not found":
-//        String currentWorkingDirectory = System.getProperty("user.dir");
-//        System.out.println("Current working directory: " + currentWorkingDirectory);
+        // String currentWorkingDirectory = System.getProperty("user.dir");
+        // System.out.println("Current working directory: " + currentWorkingDirectory);
 
-        try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
+        try (BufferedReader br = new BufferedReader(new FileReader(FILE_PATH))) {
             String line;
             Map<String, String> currentCar = null;
             String currentSection = null;
