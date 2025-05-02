@@ -29128,8 +29128,7 @@ Individual data present!
  Colour ALPINABLAU II METALLIC (X06)
  Upholstery
  LEDER DAKOTA/SCHWARZ (LCSW)
- Prod.date
- 2016-11-14
+ Prod.date 2016-11-14
   Options 
 Code
  Description (interface)
@@ -29437,8 +29436,7 @@ Options
  Colour MINERALGRAU METALLIC (B39)
  Upholstery
  EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)
- Prod.date
- 2016-11-17
+ Prod.date 2016-11-17
   Options 
 Code
  Description (interface)
@@ -29711,8 +29709,7 @@ Options
  Colour BLACK SAPPHIRE METALLIC (475)
  Upholstery
  LEDER DAKOTA/SCHWARZ (LCSW)
- Prod.date
- 2016-12-01
+ Prod.date 2016-12-01
   Options 
 Code
  Description (interface)
@@ -29944,8 +29941,7 @@ Individual data present!
  Colour ALPINAGRUEN II METALLIC (X09)
  Upholstery
  IND.ERW.LEDERAUSST./AMAROBRAUN (ZAP5)
- Prod.date
- 2016-12-05
+ Prod.date 2016-12-05
   Options 
 Code
  Description (interface)
@@ -30268,8 +30264,7 @@ Options
  Colour GLACIERSILBER METALLIC (A83)
  Upholstery
  LEDER DAKOTA/OYSTER EXKLUSIVNAHT(SW (LCOX)
- Prod.date
- 2016-12-07
+ Prod.date 2016-12-07
   Options 
 Code
  Description (interface)
@@ -30528,8 +30523,7 @@ Individual data present!
  Colour MONDSTEIN METALLIC (X04)
  Upholstery
  LEDER DAKOTA/SCHWARZ (LCSW)
- Prod.date
- 2016-12-19
+ Prod.date 2016-12-19
   Options 
 Code
  Description (interface)
@@ -30865,8 +30859,7 @@ Individual data present!
  Colour CARBONSCHWARZ METALLIC (416)
  Upholstery
  LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)
- Prod.date
- 2016-12-22
+ Prod.date 2016-12-22
   Options 
 Code
  Description (interface)
@@ -31164,8 +31157,7 @@ Options
  Colour SPACEGRAU METALLIC (A52)
  Upholstery
  LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)
- Prod.date
- 2016-12-23
+ Prod.date 2016-12-23
   Options 
 Code
  Description (interface)
@@ -31349,8 +31341,7 @@ Individual data present!
  Colour SONDERLACKIERUNG (490)
  Upholstery
  LEDER DAKOTA/SCHWARZ (LCSW)
- Prod.date
- 2017-01-10
+ Prod.date 2017-01-10
   Options 
 Code
  Description (interface)
@@ -31652,8 +31643,7 @@ Options
  Colour BLACK SAPPHIRE METALLIC (475)
  Upholstery
  LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)
- Prod.date
- 2017-02-01
+ Prod.date 2017-02-01
   Options 
 Code
  Description (interface)
@@ -31932,8 +31922,7 @@ Options
  Colour SPACEGRAU METALLIC (A52)
  Upholstery
  EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)
- Prod.date
- 2017-02-03
+ Prod.date 2017-02-03
   Options 
 Code
  Description (interface)
@@ -32212,8 +32201,7 @@ Options
  Colour SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)
  Upholstery
  LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)
- Prod.date
- 2017-02-06
+ Prod.date 2017-02-06
   Options 
 Code
  Description (interface)
@@ -32507,8 +32495,7 @@ Options
  Colour MEDITERRANBLAU METALLIC (C10)
  Upholstery
  LEDER DAKOTA/SCHWARZ (LCSW)
- Prod.date
- 2017-02-20
+ Prod.date 2017-02-20
   Options 
 Code
  Description (interface)

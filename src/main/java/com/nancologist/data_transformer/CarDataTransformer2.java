@@ -18,6 +18,7 @@ public class CarDataTransformer2 {
     /** VIN = Vehicle Identification Number */
     static final private Pattern vinPattern = Pattern.compile("(WBAHR91.+?)(?:\\s|$)");
     static final private Pattern colorPattern = Pattern.compile("(Colour|Farbe|Färg)\\s+(.+\\(\\w{2,}\\))(?:\\s|$)");
+    static final private Pattern prodDatePattern = Pattern.compile("(Prod.date|Prod.-Datum|Produktionsdatum)\\s+([0-9]{4}-[0-9]{2}-[0-9]{2})");
 
     public static void main(String[] args) throws IOException {
         Path path = Paths.get(FILE_PATH);
@@ -30,6 +31,7 @@ public class CarDataTransformer2 {
 
                 Matcher vinMatcher = vinPattern.matcher(line);
                 if (vinMatcher.find()) {
+                    // Fixme: With this approach the last car (VIN=WBAHR91060DZ34021) does not get added to the list
                     if (!car.isEmpty()) {
                         cars.add(car.clone());
                     }
@@ -42,10 +44,15 @@ public class CarDataTransformer2 {
                 if (colorMatcher.find()) {
                     car.put("color", colorMatcher.group(2));
                 }
+
+                Matcher prodDateMatcher = prodDatePattern.matcher(line);
+                if (prodDateMatcher.find()) {
+                    car.put("prodDate", prodDateMatcher.group(2));
+                }
             });
 
              Gson gson = new Gson();
-             System.out.println(gson.toJson(cars));
+             System.out.println(gson.toJson(cars)); // Todo: instead of printing, create the json file directly
         }
     }
 }
