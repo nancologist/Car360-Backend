@@ -1,4 +1,4 @@
-package com.nancologist.data_transformer;
+package com.nancologist.importer.data_transformer;
 
 import com.google.gson.Gson;
 import org.apache.pdfbox.Loader;
@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class EquipmentsLookupImporter {
+public class EquipmentsLookupDataTransformer {
 
     private static final String FILE_PATH = "src/main/resources/data/orig/BMW_&_Mini_Option_Codes.pdf";
     private static final Pattern equipmentPattern = Pattern.compile("\\s([SP]\\w{3}A)\\s+(\\D+)\\s");
