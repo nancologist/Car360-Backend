@@ -15,7 +15,7 @@ import java.util.regex.Pattern;
 public class EquipmentsLookupDataTransformer {
 
     private static final String FILE_PATH = "src/main/resources/data/orig/BMW_&_Mini_Option_Codes.pdf";
-    private static final Pattern equipmentPattern = Pattern.compile("\\s([SP]\\w{3}A)\\s+(\\D+)\\s");
+    private static final Pattern equipmentPattern = Pattern.compile("([SP]\\w{3}A)\\s+(.+?)(?=\\s+[SP]\\w{3}A|$)");
 
     public static void main(String[] args) throws IOException {
         File pdfFile = new File(FILE_PATH);
