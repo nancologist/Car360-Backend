@@ -1,4 +1,4 @@
-package com.nancologist.data_transformer;
+package com.nancologist.importer.data_transformer;
 
 import com.google.gson.Gson;
 
@@ -13,7 +13,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Stream;
 
-public class CarImporter {
+public class CarDataTransformer {
     static final private Path FILE_PATH = Paths.get("src/main/resources/data/orig/550iAT_F11_LCI_HR91.txt");
     /** VIN = Vehicle Identification Number */
     static final private Pattern vinPattern = Pattern.compile("(WBAHR91.+?)(?:\\s|$)");
