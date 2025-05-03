@@ -45,6 +45,11 @@ public class CarDataTransformer2 {
 
             lines.forEach((line) -> {
 
+                // boolean isEnglishPart = isVehicleInformation(line);
+                // if (isEnglishPart && !optionsPattern.equals(Pattern.compile("\\s([SP]\\w{4})\\s"))) {
+                //    optionsPattern = Pattern.compile("\\s([SP]\\w{4})\\s");
+                // }
+
                 Matcher vinMatcher = vinPattern.matcher(line);
                 if (vinMatcher.find()) {
                     if (car.get("vin") != null) {

@@ -32697,7 +32697,7 @@ S851A
  Language version German
 
 
- <-- Just a pesudo VIN, to save the last car -->
+ <-- Just a pesudo VIN, to add the last car in the list -->
  WBAHR91000000000000000
 
 
