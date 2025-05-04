@@ -3,6 +3,7 @@ package com.nancologist.my_rest_app.model;
 import jakarta.persistence.*;
 
 import java.util.Date;
+import java.util.List;
 
 @Entity
 @Table(name = "cars")
@@ -10,10 +11,12 @@ public class Car {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "id") // Explicitly naming the column is good practice
+    @Column(name = "id")
     private Long id;
 
-    /** VIN: Vehicle Identification Number */
+    /**
+     * VIN: Vehicle Identification Number
+     */
     @Column(name = "vin", unique = true)
     private String vin;
 
@@ -50,4 +53,86 @@ public class Car {
 
     @Column(name = "drive", columnDefinition = "VARCHAR(64)")
     private String drive;
+
+    @Column(name = "equipment_codes", columnDefinition = "VARCHAR(64)[]")
+    private List<String> equipmentCodes;
+
+    // Todo: remove if not needed yet:
+    // public Car(String vin,
+    //            String manufacturer,
+    //            String model,
+    //            Date productionDate,
+    //            String color,
+    //            String upholstery,
+    //            int powerInKw,
+    //            float displacementInLiter,
+    //            String doorsCount,
+    //            String transmission,
+    //            String drive,
+    //            List<String> equipmentCodes) {
+    //     this.vin = vin;
+    //     this.manufacturer = manufacturer;
+    //     this.model = model;
+    //     this.productionDate = productionDate;
+    //     this.color = color;
+    //     this.upholstery = upholstery;
+    //     this.powerInKw = powerInKw;
+    //     this.displacementInLiter = displacementInLiter;
+    //     this.doorsCount = doorsCount;
+    //     this.transmission = transmission;
+    //     this.drive = drive;
+    //     this.equipmentCodes = equipmentCodes;
+    // }
+
+    public Long getId() {
+        return id;
+    }
+
+    public String getVin() {
+        return vin;
+    }
+
+    public String getManufacturer() {
+        return manufacturer;
+    }
+
+    public String getModel() {
+        return model;
+    }
+
+    public Date getProductionDate() {
+        return productionDate;
+    }
+
+    public String getColor() {
+        return color;
+    }
+
+    public String getUpholstery() {
+        return upholstery;
+    }
+
+    public int getPowerInKw() {
+        return powerInKw;
+    }
+
+    public float getDisplacementInLiter() {
+        return displacementInLiter;
+    }
+
+    public String getDoorsCount() {
+        return doorsCount;
+    }
+
+    public String getTransmission() {
+        return transmission;
+    }
+
+    public String getDrive() {
+        return drive;
+    }
+
+    public List<String> getEquipmentCodes() {
+        return equipmentCodes;
+    }
 }
