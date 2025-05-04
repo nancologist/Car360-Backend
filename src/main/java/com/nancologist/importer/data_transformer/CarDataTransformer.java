@@ -20,8 +20,8 @@ public class CarDataTransformer {
     static final private Pattern colorPattern = Pattern.compile("(Colour|Farbe|Färg)\\s+(.+\\(\\w{2,}\\))(?:\\s|$)");
     static final private Pattern prodDatePattern = Pattern.compile("(Prod.date|Prod.-Datum|Produktionsdatum)\\s+([0-9]{4}-[0-9]{2}-[0-9]{2})");
     static final private Pattern upholsteryPattern = Pattern.compile("(Upholstery|Polsterung|Stoldynor)\\s+(.+\\(\\w+\\))");
-    // Fixme: it does not find options of cars in english section (count=18), either fix the regex or add them manually
-    static final private Pattern optionsPattern = Pattern.compile("^([SP]\\w{4})\\s");
+    // Fixme: it does not find equipment codes of cars in english section (count=18), either fix the regex or add them manually
+    static final private Pattern equipmentCodesPattern = Pattern.compile("^([SP]\\w{4})\\s");
 
     public static void main(String[] args) throws IOException {
         List<Object> cars = new ArrayList<>();
@@ -35,25 +35,19 @@ public class CarDataTransformer {
             car.put("bodyStyleCode", "F11");
             car.put("powerInKw", 330);
             car.put("powerUnit", "KW");
-            car.put("displacement", 4.4);
-            car.put("displacementUnit", "L");
+            car.put("displacementInLiter", 4.4);
             car.put("drive", "RWD");
             car.put("transmission", "automatic");
             car.put("doors", 5);
-            car.put("options", new ArrayList<String>());
+            car.put("equipmentCodes", new ArrayList<String>());
 
             lines.forEach((line) -> {
-
-                // boolean isEnglishPart = isVehicleInformation(line);
-                // if (isEnglishPart && !optionsPattern.equals(Pattern.compile("\\s([SP]\\w{4})\\s"))) {
-                //    optionsPattern = Pattern.compile("\\s([SP]\\w{4})\\s");
-                // }
 
                 Matcher vinMatcher = vinPattern.matcher(line);
                 if (vinMatcher.find()) {
                     if (car.get("vin") != null) {
                         cars.add(car.clone());
-                        car.put("options", new ArrayList<String>());
+                        car.put("equipmentCodes", new ArrayList<String>());
                     }
                     String vin = vinMatcher.group(1);
                     car.put("vin", vin);
@@ -74,9 +68,9 @@ public class CarDataTransformer {
                     car.put("upholstery", upholsteryMatcher.group(2));
                 }
 
-                Matcher optionsMatcher = optionsPattern.matcher(line);
-                if (optionsMatcher.find()) {
-                    ((ArrayList<String>) car.get("options")).add(optionsMatcher.group());
+                Matcher equipmentCodesMatcher = equipmentCodesPattern.matcher(line);
+                if (equipmentCodesMatcher.find()) {
+                    ((ArrayList<String>) car.get("equipmentCodes")).add(equipmentCodesMatcher.group());
                 }
             });
 
