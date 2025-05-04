@@ -53,8 +53,8 @@ public class CarWriter {
             try (PreparedStatement preparedStatement = connection.prepareStatement(insertQuery)) {
                 for (Car car : cars) {
                     preparedStatement.setString(1, car.getColor());
-                    preparedStatement.setString(2, String.valueOf(car.getDisplacementInLiter()));
-                    preparedStatement.setString(3, car.getDoorsCount());
+                    preparedStatement.setFloat(2, car.getDisplacementInLiter());
+                    preparedStatement.setInt(3, car.getDoorsCount());
                     preparedStatement.setString(4, car.getDrive());
                     preparedStatement.setArray(5, connection.createArrayOf("VARCHAR", car.getEquipmentCodes().toArray()));
                     preparedStatement.setString(6, car.getManufacturer());

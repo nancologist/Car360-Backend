@@ -46,7 +46,7 @@ public class Car {
     // Todo: add fuel, cylinders, cylinders form later...
 
     @Column(name = "doors_count", columnDefinition = "SMALLINT")
-    private String doorsCount;
+    private int doorsCount;
 
     @Column(name = "transmission", columnDefinition = "VARCHAR(64)")
     private String transmission;
@@ -120,7 +120,7 @@ public class Car {
         return displacementInLiter;
     }
 
-    public String getDoorsCount() {
+    public int getDoorsCount() {
         return doorsCount;
     }
 
