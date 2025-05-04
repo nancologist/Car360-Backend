@@ -6,13 +6,13 @@ import com.google.gson.reflect.TypeToken;
 import java.io.FileReader;
 import java.io.IOException;
 import java.lang.reflect.Type;
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.PreparedStatement;
-import java.sql.SQLException;
+import java.sql.*;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * DTO class only to fulfill the Gson requirement to import from the JSON file.
+ */
 class BmwEquipment {
     String code = "";
     String description = "";
@@ -33,7 +33,20 @@ public class EquipmentWriter {
     public static void main(String[] args) throws IOException {
         List<BmwEquipment> equipments = getEquipments();
         try {
+            // TODO: Put the username and password into env. vars. and create env vars template and ignore the env var file
             Connection connection = DriverManager.getConnection(JDBC_URL, "admin", "admin");
+
+            String checkQuery = "SELECT COUNT(*) FROM equipments";
+            ResultSet resultSet = connection.createStatement().executeQuery(checkQuery);
+            if (resultSet.next()) {
+                int count = resultSet.getInt(1);
+                if (count > 0) {
+                    System.out.println("Table already contains some data COUNT=" + count);
+                    System.out.println("Import aborted.");
+                    return;
+                }
+            }
+
             connection.setAutoCommit(false);
             String insertQuery = "INSERT INTO equipments (code, description, manufacturer) VALUES (?, ?, ?)";
             try (PreparedStatement preparedStatement = connection.prepareStatement(insertQuery)) {
