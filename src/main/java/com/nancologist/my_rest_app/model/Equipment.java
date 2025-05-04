@@ -8,17 +8,18 @@ public class Equipment {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Column(name = "id")
     private Long id;
 
-    @Column(nullable = false)
+    @Column(name = "code", nullable = false)
     private String code;
 
-    @Column(nullable = false, columnDefinition = "TEXT")
+    @Column(name = "description", nullable = false, columnDefinition = "TEXT")
     private String description;
 
-    @Column(nullable = true, columnDefinition = "TEXT")
-    private String description_de;
+    @Column(name = "description_de", nullable = true, columnDefinition = "TEXT")
+    private String descriptionDe;
 
-    @Column(nullable = false)
+    @Column(name = "manufacturer", nullable = false)
     private String manufacturer;
 }
