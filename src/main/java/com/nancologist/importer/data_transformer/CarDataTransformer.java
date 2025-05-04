@@ -33,7 +33,7 @@ public class CarDataTransformer {
             car.put("model", "550i");
             car.put("bodyStyle", "Touring");
             car.put("bodyStyleCode", "F11");
-            car.put("power", 330);
+            car.put("powerInKw", 330);
             car.put("powerUnit", "KW");
             car.put("displacement", 4.4);
             car.put("displacementUnit", "L");
