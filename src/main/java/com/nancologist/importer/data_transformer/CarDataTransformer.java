@@ -38,8 +38,10 @@ public class CarDataTransformer {
             car.put("displacementInLiter", 4.4);
             car.put("drive", "RWD");
             car.put("transmission", "automatic");
-            car.put("doors", 5);
+            car.put("doors_count", 5);
             car.put("equipmentCodes", new ArrayList<String>());
+            car.put("steering", "LHD");
+            car.put("facelift", true);
 
             lines.forEach((line) -> {
 
