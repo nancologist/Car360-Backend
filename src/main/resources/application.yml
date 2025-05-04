@@ -11,9 +11,11 @@ spring:
   jpa:
     properties:
       hibernate:
-        dialect: org.hibernate.dialect.PostgreSQLDialect
         default_schema: car360
         format_sql: true # Optional: Formats SQL for better readability
     hibernate:
       ddl-auto: update
+      org:
+        hibernate:
+          SQL: DEBUG
     show-sql: true # Optional: Logs SQL queries
