@@ -2,7 +2,7 @@
   {
     "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -102,7 +102,7 @@
   {
     "color": "KASCHMIRSILBER METALLIC (A72)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -186,7 +186,7 @@
   {
     "color": "TIEFSEEBLAU METALLIC (A76)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -262,7 +262,7 @@
   {
     "color": "MINERALWEISS METALLIC (A96)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -338,7 +338,7 @@
   {
     "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -414,7 +414,7 @@
   {
     "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
     "upholstery": "LEDER DAKOTA/DF VENETOBEIGE (LCDF)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -499,7 +499,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -588,7 +588,7 @@
   {
     "color": "KALLISTOGRAU METALLIC (B64)",
     "upholstery": "LEDER DAKOTA/ZIMTBRAUN (LCEZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -685,7 +685,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/ZIMTBRAUN (LCEZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -770,7 +770,7 @@
   {
     "color": "MINERALWEISS METALLIC (A96)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -854,7 +854,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "EXC.LED.NA./ELFEN.W. EX.NAHT(SW/SW) (LZET)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -956,7 +956,7 @@
   {
     "color": "SCHWARZ 2 (668)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -1043,7 +1043,7 @@
   {
     "color": "SPACEGRAU METALLIC (A52)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -1130,7 +1130,7 @@
   {
     "color": "KASCHMIRSILBER METALLIC (A72)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -1235,7 +1235,7 @@
   {
     "color": "MINERALWEISS METALLIC (A96)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -1325,7 +1325,7 @@
   {
     "color": "AZURITSCHWARZ METALLIC (S34)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -1428,7 +1428,7 @@
   {
     "color": "KALLISTOGRAU METALLIC (B64)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -1516,7 +1516,7 @@
   {
     "color": "ALPINWEISS 3 (300)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -1600,7 +1600,7 @@
   {
     "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -1681,7 +1681,7 @@
   {
     "color": "AZURITSCHWARZ METALLIC (S34)",
     "upholstery": "IND.ERW.LEDERAUSST./PLATIN/SCHWARZ (ZAC8)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -1782,7 +1782,7 @@
   {
     "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
     "upholstery": "IND.ERW.LEDERAUSST./PLATIN/SCHWARZ (ZAC8)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -1874,7 +1874,7 @@
   {
     "color": "KALLISTOGRAU METALLIC (B64)",
     "upholstery": "LEDER DAKOTA/DF VENETOBEIGE (LCDF)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -1948,7 +1948,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -2032,7 +2032,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -2109,7 +2109,7 @@
   {
     "color": "ALPINWEISS 3 (300)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -2193,7 +2193,7 @@
   {
     "color": "SCHWARZ 2 (668)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -2278,7 +2278,7 @@
   {
     "color": "SPACEGRAU METALLIC (A52)",
     "upholstery": "EXC.LED.NA./ELFEN.W. EX.NAHT(SW/SW) (LZET)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -2373,7 +2373,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/OYSTER EXKLUSIVNAHT(SW (LCOX)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -2459,7 +2459,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -2546,7 +2546,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "IND.ERW.LEDERAUSST./SEIDENGRAU (ZAP7)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -2637,7 +2637,7 @@
   {
     "color": "CHAMPAGNER QUARZ METALLIC (X08)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -2722,7 +2722,7 @@
   {
     "color": "ALPINWEISS 3 (300)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -2812,7 +2812,7 @@
   {
     "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
     "upholstery": "LEDER DAKOTA/ZIMTBRAUN (LCEZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -2904,7 +2904,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -2986,7 +2986,7 @@
   {
     "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -3069,7 +3069,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "LEDER DAKOTA/VENETOBEIGE EXKLUSIVNA (LCLY)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -3166,7 +3166,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -3255,7 +3255,7 @@
   {
     "color": "ALPINWEISS 3 (300)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -3339,7 +3339,7 @@
   {
     "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -3430,7 +3430,7 @@
   {
     "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
     "upholstery": "LEDER DAKOTA/ZIMTBRAUN (LCEZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -3498,7 +3498,7 @@
   {
     "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
     "upholstery": "EXC.LED.NA./ELFEN.W. EX.NAHT(SW/SW) (LZET)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -3576,7 +3576,7 @@
   {
     "color": "KALLISTOGRAU METALLIC (B64)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -3674,7 +3674,7 @@
   {
     "color": "JATOBA METALLIC (B65)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -3745,7 +3745,7 @@
   {
     "color": "CITRINSCHWARZ MET. (X02)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -3835,7 +3835,7 @@
   {
     "color": "AZURITSCHWARZ METALLIC (S34)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -3937,7 +3937,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -4018,7 +4018,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/DF VENETOBEIGE (LCDF)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -4094,7 +4094,7 @@
   {
     "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -4185,7 +4185,7 @@
   {
     "color": "ALPINWEISS 3 (300)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -4269,7 +4269,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -4364,7 +4364,7 @@
   {
     "color": "MINERALWEISS METALLIC (A96)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -4451,7 +4451,7 @@
   {
     "color": "SPACEGRAU METALLIC (A52)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -4540,7 +4540,7 @@
   {
     "color": "KALLISTOGRAU METALLIC (B64)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -4636,7 +4636,7 @@
   {
     "color": "SPACEGRAU METALLIC (A52)",
     "upholstery": "EXC.LED.NA./ELFEN.W. EX.NAHT(SW/SW) (LZET)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -4724,7 +4724,7 @@
   {
     "color": "GLACIERSILBER METALLIC (A83)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -4797,7 +4797,7 @@
   {
     "color": "SCHWARZ 2 (668)",
     "upholstery": "LEDER DAKOTA/OYSTER EXKLUSIVNAHT(SW (LCOX)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -4877,7 +4877,7 @@
   {
     "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -4965,7 +4965,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "IND.ERW.LEDERAUSST./SEIDENGRAU (ZAP7)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -5034,7 +5034,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -5114,7 +5114,7 @@
   {
     "color": "MINERALWEISS METALLIC (A96)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -5206,7 +5206,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -5293,7 +5293,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -5397,7 +5397,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -5483,7 +5483,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -5581,7 +5581,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -5669,7 +5669,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -5749,7 +5749,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "IND.ERW.LEDERAUSST./CHAMPAGNER. (ZAP6)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -5826,7 +5826,7 @@
   {
     "color": "SCHWARZ 2 (668)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -5915,7 +5915,7 @@
   {
     "color": "SPACEGRAU METALLIC (A52)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -6004,7 +6004,7 @@
   {
     "color": "MINERALWEISS METALLIC (A96)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -6093,7 +6093,7 @@
   {
     "color": "MONDSTEIN METALLIC (X04)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -6169,7 +6169,7 @@
   {
     "color": "ALPINWEISS 3 (300)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -6252,7 +6252,7 @@
   {
     "color": "SPACEGRAU METALLIC (A52)",
     "upholstery": "EXC.LED.NA./ELFEN.W. EX.NAHT(SW/SW) (LZET)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -6345,7 +6345,7 @@
   {
     "color": "SCHWARZ 2 (668)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -6436,7 +6436,7 @@
   {
     "color": "MINERALWEISS METALLIC (A96)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -6528,7 +6528,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "LEDER DAKOTA/VENETOBEIGE EXKLUSIVNA (LCLY)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -6611,7 +6611,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -6687,7 +6687,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -6777,7 +6777,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -6861,7 +6861,7 @@
   {
     "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
     "upholstery": "LEDER DAKOTA/OYSTER EXKL.NAHT(OY/SW (LCOU)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -6935,7 +6935,7 @@
   {
     "color": "ALPINWEISS 3 (300)",
     "upholstery": "STOFF DIAGONAL/ANTHRAZIT (AWAT)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -6993,7 +6993,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -7082,7 +7082,7 @@
   {
     "color": "CHAMPAGNER QUARZ METALLIC (X08)",
     "upholstery": "IND.ERW.LEDERAUSST./AMAROBRAUN (ZAP5)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -7182,7 +7182,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -7278,7 +7278,7 @@
   {
     "color": "SPACEGRAU METALLIC (A52)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -7363,7 +7363,7 @@
   {
     "color": "ALPINWEISS 3 (300)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -7453,7 +7453,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -7531,7 +7531,7 @@
   {
     "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
     "upholstery": "LEDER DAKOTA/DF VENETOBEIGE (LCDF)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -7590,7 +7590,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "IND.ERW.LEDERAUSST./PLATIN/SCHWARZ (ZAC8)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -7670,7 +7670,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "IND.ERW.LEDERAUSST./AMAROBRAUN (ZAP5)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -7760,7 +7760,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "EXC.LED.NA./ELFEN.W. EX.NAHT(SW/SW) (LZET)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -7836,7 +7836,7 @@
   {
     "color": "ALPINAGRUEN II METALLIC (X09)",
     "upholstery": "LEDER DAKOTA/DF VENETOBEIGE (LCDF)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -7913,7 +7913,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/DF VENETOBEIGE (LCDF)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -7988,7 +7988,7 @@
   {
     "color": "JATOBA METALLIC (B65)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -8069,7 +8069,7 @@
   {
     "color": "KALLISTOGRAU METALLIC (B64)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -8140,7 +8140,7 @@
   {
     "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
     "upholstery": "LEDER DAKOTA/OYSTER EXKLUSIVNAHT(SW (LCOX)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -8228,7 +8228,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -8318,7 +8318,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -8411,7 +8411,7 @@
   {
     "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -8491,7 +8491,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -8573,7 +8573,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -8658,7 +8658,7 @@
   {
     "color": "SPACEGRAU METALLIC (A52)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -8741,7 +8741,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/OYSTER EXKLUSIVNAHT(SW (LCOX)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -8819,7 +8819,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -8909,7 +8909,7 @@
   {
     "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
     "upholstery": "LEDER DAKOTA/OYSTER EXKLUSIVNAHT(SW (LCOX)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -8995,7 +8995,7 @@
   {
     "color": "MINERALWEISS METALLIC (A96)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -9073,7 +9073,7 @@
   {
     "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
     "upholstery": "LEDER DAKOTA/OYSTER EXKLUSIVNAHT(SW (LCOX)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -9168,7 +9168,7 @@
   {
     "color": "ALPINWEISS 3 (300)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -9252,7 +9252,7 @@
   {
     "color": "ALPINWEISS 3 (300)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -9347,7 +9347,7 @@
   {
     "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -9440,7 +9440,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -9528,7 +9528,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -9547,7 +9547,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -9566,7 +9566,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -9585,7 +9585,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -9604,7 +9604,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -9623,7 +9623,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -9715,7 +9715,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -9805,7 +9805,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -9894,7 +9894,7 @@
   {
     "color": "CHAMPAGNER QUARZ METALLIC (X08)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -9913,7 +9913,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "IND.ERW.LEDERAUSST./SEIDENGRAU (ZAP7)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -10005,7 +10005,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -10098,7 +10098,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "IND.ERW.LEDERAUSST./KASCH.BEIGE(SW (ZAKS)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -10185,7 +10185,7 @@
   {
     "color": "ALPINWEISS 3 (300)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -10268,7 +10268,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/ZIMTBRAUN (LCEZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -10352,7 +10352,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -10451,7 +10451,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -10554,7 +10554,7 @@
   {
     "color": "MINERALWEISS METALLIC (A96)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -10644,7 +10644,7 @@
   {
     "color": "ALPINAGRUEN II METALLIC (X09)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -10741,7 +10741,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -10830,7 +10830,7 @@
   {
     "color": "ALPINAGRUEN II METALLIC (X09)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -10932,7 +10932,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "IND.ERW.LEDERAUSST./SEIDENGRAU (ZAP7)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11022,7 +11022,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11041,7 +11041,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11060,7 +11060,7 @@
   {
     "color": "ALPINAGRUEN II METALLIC (X09)",
     "upholstery": "IND.ERW.LEDERAUSST./AMAROBRAUN (ZAP5)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11079,7 +11079,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11098,7 +11098,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11117,7 +11117,7 @@
   {
     "color": "SCHWARZ 2 (668)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11136,7 +11136,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "IND.ERW.LEDERAUSST./SEIDENGRAU (ZAP7)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11155,7 +11155,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/VENETOBEIGE EXKLUSIVNA (LCLY)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11174,7 +11174,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "IND.ERW.LEDERAUSST./SEIDENGRAU (ZAP7)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11193,7 +11193,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11212,7 +11212,7 @@
   {
     "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11231,7 +11231,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11330,7 +11330,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/OYSTER EXKLUSIVNAHT(SW (LCOX)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11432,7 +11432,7 @@
   {
     "color": "SCHWARZ 2 (668)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11516,7 +11516,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11612,7 +11612,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11705,7 +11705,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11782,7 +11782,7 @@
   {
     "color": "MEDITERRANBLAU METALLIC (C10)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11873,7 +11873,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -11949,7 +11949,7 @@
   {
     "color": "AZURITSCHWARZ METALLIC (S34)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -12036,7 +12036,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "IND.ERW.LEDERAUSST./SEIDENGRAU (ZAP7)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -12130,7 +12130,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -12223,7 +12223,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "IND.ERW.LEDERAUSST./MUSKAT (ZAML)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -12322,7 +12322,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "IND.ERW.LEDERAUSST./SEIDENGRAU (ZAP7)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -12413,7 +12413,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -12508,7 +12508,7 @@
   {
     "color": "MEDITERRANBLAU METALLIC (C10)",
     "upholstery": "LEDER DAKOTA/OYSTER EXKLUSIVNAHT(SW (LCOX)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -12592,7 +12592,7 @@
   {
     "color": "CITRINSCHWARZ MET. (X02)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -12685,7 +12685,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "IND.ERW.LEDERAUSST./CHAMPAGNER. (ZAP6)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -12782,7 +12782,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -12877,7 +12877,7 @@
   {
     "color": "GLACIERSILBER METALLIC (A83)",
     "upholstery": "STOFF GREY SHADOW ANTHRAZIT (AZAT)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -12963,7 +12963,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -13050,7 +13050,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -13127,7 +13127,7 @@
   {
     "color": "SCHWARZ 2 (668)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -13210,7 +13210,7 @@
   {
     "color": "MINERALGRAU METALLIC (B39)",
     "upholstery": "LEDER DAKOTA/ZIMTBRAUN (LCEZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -13301,7 +13301,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/OYSTER EXKLUSIVNAHT(SW (LCOX)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -13387,7 +13387,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -13461,7 +13461,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -13538,7 +13538,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/ZIMTBRAUN (LCEZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -13604,7 +13604,7 @@
   {
     "color": "JATOBA METALLIC (B65)",
     "upholstery": "IND.ERW.LEDERAUSST./PLATIN/SCHWARZ (ZAC8)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -13696,7 +13696,7 @@
   {
     "color": "SCHWARZ 2 (668)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -13786,7 +13786,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -13877,7 +13877,7 @@
   {
     "color": "ALPINWEISS 3 (300)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -13973,7 +13973,7 @@
   {
     "color": "SPACEGRAU METALLIC (A52)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -14051,7 +14051,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -14147,7 +14147,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/DF VENETOBEIGE (LCDF)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -14237,7 +14237,7 @@
   {
     "color": "SCHWARZ 2 (668)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -14319,7 +14319,7 @@
   {
     "color": "CITRINSCHWARZ MET. (X02)",
     "upholstery": "IND.ERW.LEDERAUSST./AMAROBRAUN (ZAP5)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -14408,7 +14408,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -14505,7 +14505,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -14589,7 +14589,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "IND.ERW.LEDERAUSST./CHAMPAGNER. (ZAP6)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -14692,7 +14692,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -14787,7 +14787,7 @@
   {
     "color": "TANSANITBLAU METALLIC (X10)",
     "upholstery": "IND.ERW.LEDERAUSST./MUSKAT (ZAML)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -14872,7 +14872,7 @@
   {
     "color": "TANSANITBLAU METALLIC (X10)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -14965,7 +14965,7 @@
   {
     "color": "MINERALWEISS METALLIC (A96)",
     "upholstery": "IND.ERW.LEDERAUSST./AMAROBRAUN (ZAP5)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -15050,7 +15050,7 @@
   {
     "color": "ALPINAGRUEN II METALLIC (X09)",
     "upholstery": "IND.ERW.LEDERAUSST./PLATIN/SCHWARZ (ZAC8)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -15135,7 +15135,7 @@
   {
     "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -15235,7 +15235,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "IND.ERW.LEDERAUSST./SEIDENGRAU (ZAP7)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -15328,7 +15328,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -15411,7 +15411,7 @@
   {
     "color": "ALPINWEISS 3 (300)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -15502,7 +15502,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -15585,7 +15585,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -15670,7 +15670,7 @@
   {
     "color": "MINERALGRAU METALLIC (B39)",
     "upholstery": "IND.ERW.LEDERAUSST./MUSKAT (ZAML)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -15765,7 +15765,7 @@
   {
     "color": "ALPINWEISS 3 (300)",
     "upholstery": "EXC.LED.NA./MOCCA EXKLUSIVNAHT (MO/ (LZMW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -15847,7 +15847,7 @@
   {
     "color": "SPACEGRAU METALLIC (A52)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -15916,7 +15916,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -15999,7 +15999,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "IND.ERW.LEDERAUSST./SEIDENGRAU (ZAP7)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -16085,7 +16085,7 @@
   {
     "color": "SCHWARZ 2 (668)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -16159,7 +16159,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -16257,7 +16257,7 @@
   {
     "color": "MONDSTEIN METALLIC (X04)",
     "upholstery": "STOFF GREY SHADOW ANTHRAZIT (AZAT)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -16343,7 +16343,7 @@
   {
     "color": "SCHWARZ 2 (668)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -16429,7 +16429,7 @@
   {
     "color": "ALPINWEISS 3 (300)",
     "upholstery": "LEDER DAKOTA/DF VENETOBEIGE (LCDF)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -16505,7 +16505,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -16600,7 +16600,7 @@
   {
     "color": "MINERALGRAU METALLIC (B39)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -16689,7 +16689,7 @@
   {
     "color": "SPACEGRAU METALLIC (A52)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -16778,7 +16778,7 @@
   {
     "color": "IMPERIALBLAU BRILLANTEFFEKT METALLI (A89)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -16860,7 +16860,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -16950,7 +16950,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -17034,7 +17034,7 @@
   {
     "color": "ALPINABLAU II METALLIC (X06)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -17053,7 +17053,7 @@
   {
     "color": "MINERALGRAU METALLIC (B39)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -17072,7 +17072,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -17091,7 +17091,7 @@
   {
     "color": "ALPINAGRUEN II METALLIC (X09)",
     "upholstery": "IND.ERW.LEDERAUSST./AMAROBRAUN (ZAP5)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -17110,7 +17110,7 @@
   {
     "color": "GLACIERSILBER METALLIC (A83)",
     "upholstery": "LEDER DAKOTA/OYSTER EXKLUSIVNAHT(SW (LCOX)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -17129,7 +17129,7 @@
   {
     "color": "MONDSTEIN METALLIC (X04)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -17148,7 +17148,7 @@
   {
     "color": "CARBONSCHWARZ METALLIC (416)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -17167,7 +17167,7 @@
   {
     "color": "SPACEGRAU METALLIC (A52)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -17186,7 +17186,7 @@
   {
     "color": "SONDERLACKIERUNG (490)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -17205,7 +17205,7 @@
   {
     "color": "BLACK SAPPHIRE METALLIC (475)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -17224,7 +17224,7 @@
   {
     "color": "SPACEGRAU METALLIC (A52)",
     "upholstery": "EXC.LED.NA./SCHWARZ EXKLUSIVNAHT (LZLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -17243,7 +17243,7 @@
   {
     "color": "SOPHISTOGRAU BRILLANTEFFEKT METALLI (A90)",
     "upholstery": "LEDER DAKOTA/SCHWARZ EXKLUSIVNAHT (LCLZ)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
@@ -17262,7 +17262,7 @@
   {
     "color": "MEDITERRANBLAU METALLIC (C10)",
     "upholstery": "LEDER DAKOTA/SCHWARZ (LCSW)",
-    "doors_count": 5,
+    "doorsCount": 5,
     "bodyStyle": "Touring",
     "powerUnit": "KW",
     "steering": "LHD",
