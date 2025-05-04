@@ -1,4 +1,4 @@
-package com.nancologist.my_rest_app;
+package com.nancologist.car360;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

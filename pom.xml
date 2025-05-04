@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.nancologist</groupId>
-	<artifactId>my-rest-app</artifactId>
+	<artifactId>car360</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>my-rest-app</name>
+	<name>car360</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
