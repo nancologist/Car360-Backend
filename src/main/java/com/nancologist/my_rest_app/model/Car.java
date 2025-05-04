@@ -26,6 +26,15 @@ public class Car {
     @Column(name = "model")
     private String model;
 
+    @Column(name = "body_style_code", columnDefinition = "VARCHAR(64)")
+    private String bodyStyleCode;
+
+    @Column(name = "steering", columnDefinition = "VARCHAR(3)")
+    private String steering;
+
+    @Column(name = "facelift", columnDefinition = "BOOLEAN")
+    private boolean facelift;
+
     @Column(name = "production_date", columnDefinition = "DATE")
     private Date productionDate;
 
@@ -56,33 +65,6 @@ public class Car {
 
     @Column(name = "equipment_codes", columnDefinition = "VARCHAR(64)[]")
     private List<String> equipmentCodes;
-
-    // Todo: remove if not needed yet:
-    // public Car(String vin,
-    //            String manufacturer,
-    //            String model,
-    //            Date productionDate,
-    //            String color,
-    //            String upholstery,
-    //            int powerInKw,
-    //            float displacementInLiter,
-    //            String doorsCount,
-    //            String transmission,
-    //            String drive,
-    //            List<String> equipmentCodes) {
-    //     this.vin = vin;
-    //     this.manufacturer = manufacturer;
-    //     this.model = model;
-    //     this.productionDate = productionDate;
-    //     this.color = color;
-    //     this.upholstery = upholstery;
-    //     this.powerInKw = powerInKw;
-    //     this.displacementInLiter = displacementInLiter;
-    //     this.doorsCount = doorsCount;
-    //     this.transmission = transmission;
-    //     this.drive = drive;
-    //     this.equipmentCodes = equipmentCodes;
-    // }
 
     public Long getId() {
         return id;
@@ -134,5 +116,17 @@ public class Car {
 
     public List<String> getEquipmentCodes() {
         return equipmentCodes;
+    }
+
+    public String getBodyStyleCode() {
+        return bodyStyleCode;
+    }
+
+    public String getSteering() {
+        return steering;
+    }
+
+    public boolean isFacelift() {
+        return facelift;
     }
 }

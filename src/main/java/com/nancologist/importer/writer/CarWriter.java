@@ -23,14 +23,14 @@ public class CarWriter {
 
             String checkQuery = "SELECT COUNT(*) FROM cars";
             ResultSet resultSet = connection.createStatement().executeQuery(checkQuery);
-            if (resultSet.next()) {
-                int count = resultSet.getInt(1);
-                if (count > 0) {
-                    System.out.println("Table already contains some data COUNT=" + count);
-                    System.out.println("Import aborted.");
-                    return;
-                }
-            }
+            // if (resultSet.next()) {
+            //     int count = resultSet.getInt(1);
+            //     if (count > 0) {
+            //         System.out.println("Table already contains some data COUNT=" + count);
+            //         System.out.println("Import aborted.");
+            //         return;
+            //     }
+            // }
 
             connection.setAutoCommit(false);
             String insertQuery = """
@@ -46,9 +46,12 @@ public class CarWriter {
                                 production_date,
                                 transmission,
                                 upholstery,
-                                vin
+                                vin,
+                    	        body_style_code,
+                                facelift,
+                                steering
                             )
-                            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     """;
             try (PreparedStatement preparedStatement = connection.prepareStatement(insertQuery)) {
                 for (Car car : cars) {
@@ -64,6 +67,9 @@ public class CarWriter {
                     preparedStatement.setString(10, car.getTransmission());
                     preparedStatement.setString(11, car.getUpholstery());
                     preparedStatement.setString(12, car.getVin());
+                    preparedStatement.setString(13, car.getBodyStyleCode());
+                    preparedStatement.setBoolean(14, car.isFacelift());
+                    preparedStatement.setString(15, car.getSteering());
                     preparedStatement.addBatch();
                 }
                 int[] affectedRows = preparedStatement.executeBatch();
