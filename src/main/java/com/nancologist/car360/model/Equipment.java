@@ -1,4 +1,4 @@
-package com.nancologist.my_rest_app.model;
+package com.nancologist.car360.model;
 
 import jakarta.persistence.*;
 

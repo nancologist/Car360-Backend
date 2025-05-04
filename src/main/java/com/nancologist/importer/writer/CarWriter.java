@@ -2,7 +2,7 @@ package com.nancologist.importer.writer;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import com.nancologist.my_rest_app.model.Car;
+import com.nancologist.car360.model.Car;
 
 import java.io.FileReader;
 import java.io.IOException;

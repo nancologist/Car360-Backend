@@ -1,4 +1,4 @@
-package com.nancologist.my_rest_app;
+package com.nancologist.car360;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
