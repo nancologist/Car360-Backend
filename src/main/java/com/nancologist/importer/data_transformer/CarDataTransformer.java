@@ -60,7 +60,7 @@ public class CarDataTransformer {
 
                 Matcher prodDateMatcher = prodDatePattern.matcher(line);
                 if (prodDateMatcher.find()) {
-                    car.put("prodDate", prodDateMatcher.group(2));
+                    car.put("productionDate", prodDateMatcher.group(2));
                 }
 
                 Matcher upholsteryMatcher = upholsteryPattern.matcher(line);
