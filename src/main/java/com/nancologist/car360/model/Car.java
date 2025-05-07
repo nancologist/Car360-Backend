@@ -129,4 +129,26 @@ public class Car {
     public boolean isFacelift() {
         return facelift;
     }
+
+    @Override
+    public String toString() {
+        return "Car{" +
+                "id=" + id +
+                ", vin='" + vin + '\'' +
+                ", manufacturer='" + manufacturer + '\'' +
+                ", model='" + model + '\'' +
+                ", bodyStyleCode='" + bodyStyleCode + '\'' +
+                ", steering='" + steering + '\'' +
+                ", facelift=" + facelift +
+                ", productionDate=" + productionDate +
+                ", color='" + color + '\'' +
+                ", upholstery='" + upholstery + '\'' +
+                ", powerInKw=" + powerInKw +
+                ", displacementInLiter=" + displacementInLiter +
+                ", doorsCount=" + doorsCount +
+                ", transmission='" + transmission + '\'' +
+                ", drive='" + drive + '\'' +
+                ", equipmentCodes=" + equipmentCodes +
+                '}';
+    }
 }
