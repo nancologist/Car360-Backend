@@ -24,7 +24,6 @@ public class CarService {
 
     public CarDTO getCarById(Long id) {
         Car car = this.carRepository.getReferenceById(id);
-        System.out.println(car.getEquipmentCodes());
         List<Equipment> carEquipments = this.equipmentRepository.findByCodeIn(car.getEquipmentCodes());
         return new CarDTO(car, carEquipments);
     }
