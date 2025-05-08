@@ -72,7 +72,7 @@ public class CarDataTransformer {
 
                 Matcher equipmentCodesMatcher = equipmentCodesPattern.matcher(line);
                 if (equipmentCodesMatcher.find()) {
-                    ((ArrayList<String>) car.get("equipmentCodes")).add(equipmentCodesMatcher.group());
+                    ((ArrayList<String>) car.get("equipmentCodes")).add(equipmentCodesMatcher.group().trim());
                 }
             });
 
