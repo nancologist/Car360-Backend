@@ -44,12 +44,16 @@ public class UpholsteryDataTransformer {
             lines.forEach( (line) -> {
                 Matcher upholsteryMatcher = upholsteryPattern.matcher(line);
                 if (upholsteryMatcher.find()) {
-                    UpholsteryImportObject upholstery = new UpholsteryImportObject(
-                            "BMW",
-                            upholsteryMatcher.group(3).trim(),
-                            upholsteryMatcher.group(2).trim()
-                    );
-                    upholsteries.add(upholstery);
+                    String upholsteryCode = upholsteryMatcher.group(3).trim();
+                    boolean codeAlreadyExists = upholsteries.stream().anyMatch(item -> item.code.equals(upholsteryCode));
+                    if (!codeAlreadyExists) {
+                        UpholsteryImportObject upholstery = new UpholsteryImportObject(
+                                "BMW",
+                                upholsteryCode,
+                                upholsteryMatcher.group(2).trim()
+                        );
+                        upholsteries.add(upholstery);
+                    }
                 }
             });
             return upholsteries;

@@ -54,8 +54,12 @@ public class ColorDataTransformer {
             lines.forEach( (line) -> {
                 Matcher colorMatcher = colorPattern.matcher(line);
                 if (colorMatcher.find()) {
-                    ColorImportObject color = new ColorImportObject("BMW", colorMatcher.group(3).trim(), colorMatcher.group(2).trim());
-                    colors.add(color);
+                    String colorCode = colorMatcher.group(3).trim();
+                    boolean codeAlreadyExists = colors.stream().anyMatch(item -> item.code.equals(colorCode));
+                    if (!codeAlreadyExists) {
+                        ColorImportObject color = new ColorImportObject("BMW", colorCode, colorMatcher.group(2).trim());
+                        colors.add(color);
+                    }
                 }
             });
             return colors;
