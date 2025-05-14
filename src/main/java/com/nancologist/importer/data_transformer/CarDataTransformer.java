@@ -17,9 +17,9 @@ public class CarDataTransformer {
     static final private Path FILE_PATH = Paths.get("src/main/resources/data/orig/550iAT_F11_LCI_HR91.txt");
     /** VIN = Vehicle Identification Number */
     static final private Pattern vinPattern = Pattern.compile("(WBAHR91.+?)(?:\\s|$)");
-    static final private Pattern colorPattern = Pattern.compile("(Colour|Farbe|Färg)\\s+(.+\\(\\w{2,}\\))(?:\\s|$)");
+    static final private Pattern colorPattern = Pattern.compile("(Colour|Farbe|Färg)\\s+.+\\((\\w{2,})\\)(?:\\s|$)");
     static final private Pattern prodDatePattern = Pattern.compile("(Prod.date|Prod.-Datum|Produktionsdatum)\\s+([0-9]{4}-[0-9]{2}-[0-9]{2})");
-    static final private Pattern upholsteryPattern = Pattern.compile("(Upholstery|Polsterung|Stoldynor)\\s+(.+\\(\\w+\\))");
+    static final private Pattern upholsteryPattern = Pattern.compile("(Upholstery|Polsterung|Stoldynor)\\s+.+\\((\\w+)\\)");
     // Fixme: it does not find equipment codes of cars in english section (count=18), either fix the regex or add them manually
     static final private Pattern equipmentCodesPattern = Pattern.compile("^([SP]\\w{4})\\s");
 
@@ -57,7 +57,7 @@ public class CarDataTransformer {
 
                 Matcher colorMatcher = colorPattern.matcher(line);
                 if (colorMatcher.find()) {
-                    car.put("color", colorMatcher.group(2));
+                    car.put("colorCode", colorMatcher.group(2));
                 }
 
                 Matcher prodDateMatcher = prodDatePattern.matcher(line);
@@ -67,7 +67,7 @@ public class CarDataTransformer {
 
                 Matcher upholsteryMatcher = upholsteryPattern.matcher(line);
                 if (upholsteryMatcher.find()) {
-                    car.put("upholstery", upholsteryMatcher.group(2));
+                    car.put("upholsteryCode", upholsteryMatcher.group(2));
                 }
 
                 Matcher equipmentCodesMatcher = equipmentCodesPattern.matcher(line);

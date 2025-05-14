@@ -13,7 +13,7 @@ import java.util.List;
 
 public class CarWriter {
     private static final String JDBC_URL = "jdbc:postgresql://localhost:5432/springular?currentSchema=car360";
-    private static final String FILE_PATH = "src/main/resources/data/result/f11-hr91-lci.json";
+    private static final String FILE_PATH = "src/main/resources/data/result/car-data-ref.json";
 
     public static void main(String[] args) throws IOException {
         List<Car> cars = getCars();
@@ -35,7 +35,7 @@ public class CarWriter {
             connection.setAutoCommit(false);
             String insertQuery = """
                     	INSERT INTO car360.cars(
-                                color,
+                                color_code,
                                 displacement_in_liter,
                                 doors_count,
                                 drive,
@@ -45,7 +45,7 @@ public class CarWriter {
                                 power_in_kw,
                                 production_date,
                                 transmission,
-                                upholstery,
+                                upholstery_code,
                                 vin,
                     	        body_style_code,
                                 facelift,
@@ -55,7 +55,7 @@ public class CarWriter {
                     """;
             try (PreparedStatement preparedStatement = connection.prepareStatement(insertQuery)) {
                 for (Car car : cars) {
-                    preparedStatement.setString(1, car.getColor());
+                    preparedStatement.setString(1, car.getColorCode());
                     preparedStatement.setFloat(2, car.getDisplacementInLiter());
                     preparedStatement.setInt(3, car.getDoorsCount());
                     preparedStatement.setString(4, car.getDrive());
@@ -65,7 +65,7 @@ public class CarWriter {
                     preparedStatement.setInt(8, car.getPowerInKw());
                     preparedStatement.setDate(9, new java.sql.Date(car.getProductionDate().getTime()));
                     preparedStatement.setString(10, car.getTransmission());
-                    preparedStatement.setString(11, car.getUpholstery());
+                    preparedStatement.setString(11, car.getUpholsteryCode());
                     preparedStatement.setString(12, car.getVin());
                     preparedStatement.setString(13, car.getBodyStyleCode());
                     preparedStatement.setBoolean(14, car.isFacelift());

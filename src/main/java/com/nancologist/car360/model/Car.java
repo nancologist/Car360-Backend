@@ -38,11 +38,20 @@ public class Car {
     @Column(name = "production_date", columnDefinition = "DATE")
     private Date productionDate;
 
-    @Column(name = "color", columnDefinition = "TEXT")
-    private String color;
+//    @OneToOne()
+//    @JoinColumn(name = "color_code", referencedColumnName = "code", columnDefinition = "VARCHAR(10)")
+//    private Color color;
 
-    @Column(name = "upholstery", columnDefinition = "TEXT")
-    private String upholstery;
+    @Column(name = "color_code", columnDefinition = "VARCHAR(10)")
+    private String colorCode;
+
+//    @OneToOne()
+//    @JoinColumn(name = "upholstery_code", referencedColumnName = "code", columnDefinition = "VARCHAR(10)")
+//    private Upholstery upholstery;
+
+    @Column(name = "upholstery_code", columnDefinition = "VARCHAR(10)")
+    private String upholsteryCode;
+
 
     // Engine Specifications:
 
@@ -86,13 +95,16 @@ public class Car {
         return productionDate;
     }
 
-    public String getColor() {
-        return color;
-    }
+//    public Color getColor() {
+//        return color;
+//    }
 
-    public String getUpholstery() {
-        return upholstery;
-    }
+    public String getColorCode() { return colorCode; }
+    public String getUpholsteryCode() { return upholsteryCode; }
+
+//    public Upholstery getUpholstery() {
+//        return upholstery;
+//    }
 
     public int getPowerInKw() {
         return powerInKw;
@@ -141,8 +153,8 @@ public class Car {
                 ", steering='" + steering + '\'' +
                 ", facelift=" + facelift +
                 ", productionDate=" + productionDate +
-                ", color='" + color + '\'' +
-                ", upholstery='" + upholstery + '\'' +
+//                ", color='" + color.toString() + '\'' +
+//                ", upholstery='" + upholstery.toString() + '\'' +
                 ", powerInKw=" + powerInKw +
                 ", displacementInLiter=" + displacementInLiter +
                 ", doorsCount=" + doorsCount +
