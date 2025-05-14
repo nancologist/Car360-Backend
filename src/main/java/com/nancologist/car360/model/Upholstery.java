@@ -10,7 +10,7 @@ public class Upholstery {
     @Column(name = "id")
     private Long id;
 
-    @Column(name = "code", columnDefinition = "VARCHAR(10)")
+    @Column(name = "code", columnDefinition = "VARCHAR(10)", unique = true)
     private String code;
 
     @Column(name = "manufacturer")
@@ -18,4 +18,20 @@ public class Upholstery {
 
     @Column(name = "name", columnDefinition = "TEXT")
     private String name;
+
+    public Long getId() {
+        return id;
+    }
+
+    public String getCode() {
+        return code;
+    }
+
+    public String getManufacturer() {
+        return manufacturer;
+    }
+
+    public String getName() {
+        return name;
+    }
 }
