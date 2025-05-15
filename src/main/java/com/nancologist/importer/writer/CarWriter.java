@@ -55,7 +55,7 @@ public class CarWriter {
                     """;
             try (PreparedStatement preparedStatement = connection.prepareStatement(insertQuery)) {
                 for (Car car : cars) {
-                    preparedStatement.setString(1, car.getColorCode());
+                    // preparedStatement.setString(1, car.getColorCode());
                     preparedStatement.setFloat(2, car.getDisplacementInLiter());
                     preparedStatement.setInt(3, car.getDoorsCount());
                     preparedStatement.setString(4, car.getDrive());
@@ -65,7 +65,7 @@ public class CarWriter {
                     preparedStatement.setInt(8, car.getPowerInKw());
                     preparedStatement.setDate(9, new java.sql.Date(car.getProductionDate().getTime()));
                     preparedStatement.setString(10, car.getTransmission());
-                    preparedStatement.setString(11, car.getUpholsteryCode());
+                    // preparedStatement.setString(11, car.getUpholsteryCode());
                     preparedStatement.setString(12, car.getVin());
                     preparedStatement.setString(13, car.getBodyStyleCode());
                     preparedStatement.setBoolean(14, car.isFacelift());

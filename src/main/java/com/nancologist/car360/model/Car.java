@@ -38,20 +38,13 @@ public class Car {
     @Column(name = "production_date", columnDefinition = "DATE")
     private Date productionDate;
 
-//    @OneToOne()
-//    @JoinColumn(name = "color_code", referencedColumnName = "code", columnDefinition = "VARCHAR(10)")
-//    private Color color;
+    @OneToOne()
+    @JoinColumn(name = "color_code", referencedColumnName = "code", columnDefinition = "VARCHAR(10)")
+    private Color color;
 
-    @Column(name = "color_code", columnDefinition = "VARCHAR(10)")
-    private String colorCode;
-
-//    @OneToOne()
-//    @JoinColumn(name = "upholstery_code", referencedColumnName = "code", columnDefinition = "VARCHAR(10)")
-//    private Upholstery upholstery;
-
-    @Column(name = "upholstery_code", columnDefinition = "VARCHAR(10)")
-    private String upholsteryCode;
-
+    @OneToOne()
+    @JoinColumn(name = "upholstery_code", referencedColumnName = "code", columnDefinition = "VARCHAR(10)")
+    private Upholstery upholstery;
 
     // Engine Specifications:
 
@@ -95,16 +88,13 @@ public class Car {
         return productionDate;
     }
 
-//    public Color getColor() {
-//        return color;
-//    }
+    public Color getColor() {
+        return color;
+    }
 
-    public String getColorCode() { return colorCode; }
-    public String getUpholsteryCode() { return upholsteryCode; }
-
-//    public Upholstery getUpholstery() {
-//        return upholstery;
-//    }
+    public Upholstery getUpholstery() {
+        return upholstery;
+    }
 
     public int getPowerInKw() {
         return powerInKw;
@@ -153,8 +143,8 @@ public class Car {
                 ", steering='" + steering + '\'' +
                 ", facelift=" + facelift +
                 ", productionDate=" + productionDate +
-//                ", color='" + color.toString() + '\'' +
-//                ", upholstery='" + upholstery.toString() + '\'' +
+                ", color='" + color.toString() + '\'' +
+                ", upholstery='" + upholstery.toString() + '\'' +
                 ", powerInKw=" + powerInKw +
                 ", displacementInLiter=" + displacementInLiter +
                 ", doorsCount=" + doorsCount +

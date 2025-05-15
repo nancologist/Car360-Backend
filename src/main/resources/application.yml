@@ -14,7 +14,7 @@ spring:
         default_schema: car360
         format_sql: true # Optional: Formats SQL for better readability
     hibernate:
-      ddl-auto: create
+      ddl-auto: update
       org:
         hibernate:
           SQL: DEBUG
