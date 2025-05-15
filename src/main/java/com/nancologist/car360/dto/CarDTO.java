@@ -1,7 +1,9 @@
 package com.nancologist.car360.dto;
 
 import com.nancologist.car360.model.Car;
+import com.nancologist.car360.model.Color;
 import com.nancologist.car360.model.Equipment;
+import com.nancologist.car360.model.Upholstery;
 
 import java.util.Date;
 import java.util.List;
@@ -16,8 +18,8 @@ public class CarDTO {
     private final String steering;
     private final boolean facelift;
     private final Date productionDate;
-//    private final Color color;
-//    private final Upholstery upholstery;
+    private final Color color;
+    private final Upholstery upholstery;
     private final int powerInKw;
     private final float displacementInLiter;
     private final int doorsCount;
@@ -34,8 +36,8 @@ public class CarDTO {
         this.steering = car.getSteering();
         this.facelift = car.isFacelift();
         this.productionDate = car.getProductionDate();
-//        this.color = car.getColor();
-//        this.upholstery = car.getUpholstery();
+        this.color = car.getColor();
+        this.upholstery = car.getUpholstery();
         this.powerInKw = car.getPowerInKw();
         this.displacementInLiter = car.getDisplacementInLiter();
         this.doorsCount = car.getDoorsCount();
@@ -64,13 +66,13 @@ public class CarDTO {
         return productionDate;
     }
 
-//    public Color getColor() {
-//        return color;
-//    }
-//
-//    public Upholstery getUpholstery() {
-//        return upholstery;
-//    }
+   public Color getColor() {
+       return color;
+   }
+
+   public Upholstery getUpholstery() {
+       return upholstery;
+   }
 
     public int getPowerInKw() {
         return powerInKw;
