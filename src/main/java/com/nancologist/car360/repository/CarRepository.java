@@ -14,7 +14,7 @@ public interface CarRepository extends JpaRepository<Car, Long> {
             c.manufacturer,
             c.bodyStyleCode,
             c.model,
-            c.colorCode,
+            c.color.code,
             c.productionDate) FROM Car c ORDER BY c.productionDate DESC
     """)
     List<CarInfoDTO> getAllCarInfo();
