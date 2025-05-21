@@ -1,6 +1,6 @@
 package com.nancologist.car360.service;
 
-import com.nancologist.car360.dto.CarDTO;
+import com.nancologist.car360.dto.CarDto;
 import com.nancologist.car360.model.Car;
 import com.nancologist.car360.model.Equipment;
 import com.nancologist.car360.repository.CarRepository;
@@ -22,9 +22,14 @@ public class CarService {
         this.equipmentRepository = eqRepo;
     }
 
-    public CarDTO getCarById(Long id) {
+    public CarDto getCarById(Long id) {
         Car car = this.carRepository.getReferenceById(id);
         List<Equipment> carEquipments = this.equipmentRepository.findByCodeIn(car.getEquipmentCodes());
-        return new CarDTO(car, carEquipments);
+        return new CarDto(car, carEquipments);
+    }
+
+    public byte[] getCarColorImage(Long carId) {
+        Car car = this.carRepository.getReferenceById(carId);
+        return car.getColor().getImageBytes();
     }
 }
