@@ -18,6 +18,7 @@ public class ColorImageWriter {
                  PreparedStatement importQueryPS = connection.prepareStatement(importQuery)
             ) {
                 File imgDir = new File(IMGS_PATH);
+                int updateCount = 0;
                 for (File file: Objects.requireNonNull(imgDir.listFiles())) {
                     if (file.isFile()) {
                         String imagePath = file.getAbsolutePath();
@@ -30,13 +31,12 @@ public class ColorImageWriter {
                             int largeObjectId = result.getInt("lo_import");
                             updateQueryPS.setInt(1, largeObjectId);
                             updateQueryPS.setString(2, colorCode.toUpperCase());
-                            int updateCount = updateQueryPS.executeUpdate();
-                            System.out.println(updateCount + " rows have been updated!");
+                            updateCount += updateQueryPS.executeUpdate();
                         }
-
                         String unlinkQuery = "SELECT lo_unlink(?)"; // For clean up the database // Todo: implement this.
                     }
                 }
+                System.out.println(updateCount + " rows have been updated!");
             }
             connection.close();
         } catch (SQLException e) {
