@@ -24,7 +24,7 @@ public class ColorImageWriter {
                         String imagePath = file.getAbsolutePath();
                         importQueryPS.setString(1, imagePath);
 
-                        String colorCode = Arrays.stream(file.getName().split("-")).map(item -> item.split("\\.")[0]).reduce((a, b) -> b).orElseThrow(() -> new IllegalStateException("Color ID not found"));
+                        String colorCode = Arrays.stream(file.getName().split("-")).map(item -> item.split("\\.")[0]).reduce((a, b) -> b).orElseThrow(() -> new IllegalStateException("Color code not found"));
 
                         ResultSet result = importQueryPS.executeQuery();
                         if (result.next()) {
