@@ -10,6 +10,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.HashMap;
+import java.util.Map;
+
 @RestController()
 @RequestMapping("/api/login")
 public class LoginController {
@@ -21,7 +24,8 @@ public class LoginController {
             res.setMessage("Login successful!");
             return new ResponseEntity<>(res, HttpStatus.OK);
         }
-        res.setMessage("Login failed!");
-        return new ResponseEntity<>(res, HttpStatus.UNAUTHORIZED);
+        Map<String, String> errRes = new HashMap<>();
+        errRes.put("message", "Login failed!!!");
+        return new ResponseEntity<>(errRes, HttpStatus.UNAUTHORIZED);
     }
 }
