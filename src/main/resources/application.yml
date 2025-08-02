@@ -19,3 +19,7 @@ spring:
         hibernate:
           SQL: DEBUG
     show-sql: true # Optional: Logs SQL queries
+
+  output:
+    ansi:
+      enabled: always # Get colorful output in Terminal!
