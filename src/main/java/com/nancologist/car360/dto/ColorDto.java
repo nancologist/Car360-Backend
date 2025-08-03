@@ -1,7 +1,9 @@
 package com.nancologist.car360.dto;
 
 import com.nancologist.car360.model.Color;
+import lombok.Getter;
 
+@Getter
 public class ColorDto {
     private final Long id;
     private final String code;
@@ -15,17 +17,4 @@ public class ColorDto {
         this.manufacturer = color.getManufacturer();
     }
 
-    public Long getId() {
-        return id;
-    }
-    public String getCode() {
-        return code;
-    }
-    public String getName() {
-        return name;
-    }
-
-    public String getManufacturer() {
-        return manufacturer;
-    }
 }

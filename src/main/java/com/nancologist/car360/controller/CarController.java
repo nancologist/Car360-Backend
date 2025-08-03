@@ -4,7 +4,7 @@ import com.nancologist.car360.dto.CarDto;
 import com.nancologist.car360.dto.CarThumbnailDto;
 import com.nancologist.car360.repository.CarRepository;
 import com.nancologist.car360.service.CarService;
-import org.springframework.beans.factory.annotation.Autowired;
+import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
@@ -16,18 +16,13 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
+@RequiredArgsConstructor
 @RestController
 @RequestMapping("/api/cars")
 public class CarController {
 
     private final CarRepository carRepository;
     private final CarService carService;
-
-    @Autowired
-    public CarController(CarRepository carRepo, CarService carService) {
-        this.carRepository = carRepo;
-        this.carService = carService;
-    }
 
     @GetMapping("/{id}/color-image")
     public ResponseEntity<byte[]> getCarColorImage(@PathVariable("id") Long carId) {
@@ -45,12 +40,12 @@ public class CarController {
     }
 
     @GetMapping("/{id}")
-    public CarDto getCar(@PathVariable("id") Long id) {
-        return carService.getCarById(id);
+    public ResponseEntity<CarDto> getCar(@PathVariable("id") Long id) {
+        return ResponseEntity.ok(carService.getCarById(id));
     }
 
     @GetMapping
-    public List<CarThumbnailDto> getCarThumbnails() {
-        return carRepository.getCarThumbnails();
+    public ResponseEntity<List<CarThumbnailDto>> getCarThumbnails() {
+        return ResponseEntity.ok(carRepository.getCarThumbnails());
     }
 }

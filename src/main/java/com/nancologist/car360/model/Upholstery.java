@@ -1,7 +1,9 @@
 package com.nancologist.car360.model;
 
 import jakarta.persistence.*;
+import lombok.Getter;
 
+@Getter
 @Entity
 @Table(name = "upholsteries")
 public class Upholstery {
@@ -19,19 +21,4 @@ public class Upholstery {
     @Column(name = "name", columnDefinition = "TEXT")
     private String name;
 
-    public Long getId() {
-        return id;
-    }
-
-    public String getCode() {
-        return code;
-    }
-
-    public String getManufacturer() {
-        return manufacturer;
-    }
-
-    public String getName() {
-        return name;
-    }
 }

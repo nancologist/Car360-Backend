@@ -1,10 +1,14 @@
 package com.nancologist.car360.model;
 
 import jakarta.persistence.*;
+import lombok.Getter;
+import lombok.ToString;
 
 import java.util.Date;
 import java.util.List;
 
+@Getter
+@ToString
 @Entity
 @Table(name = "cars")
 public class Car {
@@ -67,90 +71,4 @@ public class Car {
 
     @Column(name = "equipment_codes", columnDefinition = "VARCHAR(64)[]")
     private List<String> equipmentCodes;
-
-    public Long getId() {
-        return id;
-    }
-
-    public String getVin() {
-        return vin;
-    }
-
-    public String getManufacturer() {
-        return manufacturer;
-    }
-
-    public String getModel() {
-        return model;
-    }
-
-    public Date getProductionDate() {
-        return productionDate;
-    }
-
-    public Color getColor() {
-        return color;
-    }
-
-    public Upholstery getUpholstery() {
-        return upholstery;
-    }
-
-    public int getPowerInKw() {
-        return powerInKw;
-    }
-
-    public float getDisplacementInLiter() {
-        return displacementInLiter;
-    }
-
-    public int getDoorsCount() {
-        return doorsCount;
-    }
-
-    public String getTransmission() {
-        return transmission;
-    }
-
-    public String getDrive() {
-        return drive;
-    }
-
-    public List<String> getEquipmentCodes() {
-        return equipmentCodes;
-    }
-
-    public String getBodyStyleCode() {
-        return bodyStyleCode;
-    }
-
-    public String getSteering() {
-        return steering;
-    }
-
-    public boolean isFacelift() {
-        return facelift;
-    }
-
-    @Override
-    public String toString() {
-        return "Car{" +
-                "id=" + id +
-                ", vin='" + vin + '\'' +
-                ", manufacturer='" + manufacturer + '\'' +
-                ", model='" + model + '\'' +
-                ", bodyStyleCode='" + bodyStyleCode + '\'' +
-                ", steering='" + steering + '\'' +
-                ", facelift=" + facelift +
-                ", productionDate=" + productionDate +
-                ", color='" + color.toString() + '\'' +
-                ", upholstery='" + upholstery.toString() + '\'' +
-                ", powerInKw=" + powerInKw +
-                ", displacementInLiter=" + displacementInLiter +
-                ", doorsCount=" + doorsCount +
-                ", transmission='" + transmission + '\'' +
-                ", drive='" + drive + '\'' +
-                ", equipmentCodes=" + equipmentCodes +
-                '}';
-    }
 }

@@ -1,7 +1,9 @@
 package com.nancologist.car360.model;
 
 import jakarta.persistence.*;
+import lombok.Getter;
 
+@Getter
 @Entity
 @Table(name = "colors")
 public class Color {
@@ -35,23 +37,4 @@ public class Color {
     @Column(name = "image", columnDefinition = "BYTEA")
     private byte[] imageBytes;
 
-    public Long getId() {
-        return id;
-    }
-
-    public String getCode() {
-        return code;
-    }
-
-    public String getManufacturer() {
-        return manufacturer;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public byte[] getImageBytes() {
-        return imageBytes;
-    }
 }

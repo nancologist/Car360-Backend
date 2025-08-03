@@ -1,8 +1,11 @@
 package com.nancologist.car360.dto;
 
+import lombok.Getter;
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+@Getter
 public class CarThumbnailDto {
     private final Long carId;
     private final String name;
@@ -21,20 +24,8 @@ public class CarThumbnailDto {
         this.color = color;
     }
 
-    public Long getCarId() {
-        return carId;
-    }
-
-    public String getName() {
-        return name;
-    }
-
     public String getProductionDate() {
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
         return sdf.format(productionDate);
-    }
-
-    public String getColor() {
-        return color;
     }
 }
