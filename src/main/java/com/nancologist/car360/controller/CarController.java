@@ -16,6 +16,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
+// Todo: add global exception handler (for error responses)
+
 @RequiredArgsConstructor
 @RestController
 @RequestMapping("/api/cars")

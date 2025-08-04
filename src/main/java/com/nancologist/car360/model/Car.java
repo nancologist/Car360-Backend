@@ -7,6 +7,8 @@ import lombok.ToString;
 import java.util.Date;
 import java.util.List;
 
+// TODO: Refactor - if @Column(s) are unnecessary - remove them in all entities as much as possible
+
 @Getter
 @ToString
 @Entity

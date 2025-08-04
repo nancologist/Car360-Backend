@@ -1,6 +1,14 @@
+logging:
+  level:
+    com.nancologist.car360: TRACE
+#    root: TRACE
+
 spring:
   application:
     name: car360
+
+  security:
+    jwtSecret: AVeryStrongKeyToGenerateJwtTokensss2313138989011
 
   datasource:
     url: jdbc:postgresql://localhost:5432/springular
