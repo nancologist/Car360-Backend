@@ -1,0 +1,246 @@
+databaseChangeLog:
+- changeSet:
+    id: 1754478658367-1
+    author: morteza (generated)
+    changes:
+    - createTable:
+        columns:
+        - column:
+            name: displacement_in_liter
+            type: FLOAT4
+        - column:
+            name: doors_count
+            type: SMALLINT
+        - column:
+            name: facelift
+            type: BOOLEAN
+        - column:
+            name: power_in_kw
+            type: SMALLINT
+        - column:
+            autoIncrement: true
+            constraints:
+              nullable: false
+              primaryKey: true
+              primaryKeyName: cars_pkey
+            name: id
+            type: BIGINT
+        - column:
+            name: production_date
+            type: date
+        - column:
+            name: body_style_code
+            type: VARCHAR(64)
+        - column:
+            name: color_code
+            type: VARCHAR(10)
+        - column:
+            name: drive
+            type: VARCHAR(64)
+        - column:
+            name: manufacturer
+            type: VARCHAR(255)
+        - column:
+            name: model
+            type: VARCHAR(255)
+        - column:
+            name: steering
+            type: VARCHAR(3)
+        - column:
+            name: transmission
+            type: VARCHAR(64)
+        - column:
+            name: upholstery_code
+            type: VARCHAR(10)
+        - column:
+            name: vin
+            type: VARCHAR(255)
+        - column:
+            name: equipment_codes
+            type: VARCHAR[]
+        tableName: cars
+- changeSet:
+    id: 1754478658367-2
+    author: morteza (generated)
+    changes:
+    - createTable:
+        columns:
+        - column:
+            autoIncrement: true
+            constraints:
+              nullable: false
+              primaryKey: true
+              primaryKeyName: colors_pkey
+            name: id
+            type: BIGINT
+        - column:
+            name: code
+            type: VARCHAR(10)
+        - column:
+            name: manufacturer
+            type: VARCHAR(255)
+        - column:
+            name: name
+            type: TEXT
+        - column:
+            name: image
+            type: BYTEA
+        tableName: colors
+- changeSet:
+    id: 1754478658367-3
+    author: morteza (generated)
+    changes:
+    - createTable:
+        columns:
+        - column:
+            autoIncrement: true
+            constraints:
+              nullable: false
+              primaryKey: true
+              primaryKeyName: users_pkey
+            name: id
+            type: BIGINT
+        - column:
+            constraints:
+              nullable: false
+            name: email
+            type: VARCHAR(255)
+        - column:
+            constraints:
+              nullable: false
+            name: password
+            type: VARCHAR(255)
+        - column:
+            constraints:
+              nullable: false
+            name: username
+            type: VARCHAR(255)
+        tableName: users
+- changeSet:
+    id: 1754478658367-4
+    author: morteza (generated)
+    changes:
+    - createTable:
+        columns:
+        - column:
+            autoIncrement: true
+            constraints:
+              nullable: false
+              primaryKey: true
+              primaryKeyName: upholsteries_pkey
+            name: id
+            type: BIGINT
+        - column:
+            name: code
+            type: VARCHAR(10)
+        - column:
+            name: manufacturer
+            type: VARCHAR(255)
+        - column:
+            name: name
+            type: TEXT
+        tableName: upholsteries
+- changeSet:
+    id: 1754478658367-5
+    author: morteza (generated)
+    changes:
+    - addUniqueConstraint:
+        columnNames: vin
+        constraintName: cars_vin_key
+        tableName: cars
+- changeSet:
+    id: 1754478658367-6
+    author: morteza (generated)
+    changes:
+    - addUniqueConstraint:
+        columnNames: code
+        constraintName: colors_code_key
+        tableName: colors
+- changeSet:
+    id: 1754478658367-7
+    author: morteza (generated)
+    changes:
+    - addUniqueConstraint:
+        columnNames: email
+        constraintName: uk6dotkott2kjsp8vw4d0m25fb7
+        tableName: users
+- changeSet:
+    id: 1754478658367-8
+    author: morteza (generated)
+    changes:
+    - addUniqueConstraint:
+        columnNames: username
+        constraintName: ukr43af9ap4edm43mmtq01oddj6
+        tableName: users
+- changeSet:
+    id: 1754478658367-9
+    author: morteza (generated)
+    changes:
+    - addUniqueConstraint:
+        columnNames: code
+        constraintName: upholsteries_code_key
+        tableName: upholsteries
+- changeSet:
+    id: 1754478658367-10
+    author: morteza (generated)
+    changes:
+    - createTable:
+        columns:
+        - column:
+            autoIncrement: true
+            constraints:
+              nullable: false
+              primaryKey: true
+              primaryKeyName: equipments_pkey
+            name: id
+            type: BIGINT
+        - column:
+            constraints:
+              nullable: false
+            name: code
+            type: VARCHAR(255)
+        - column:
+            constraints:
+              nullable: false
+            name: description
+            type: TEXT
+        - column:
+            name: description_de
+            type: TEXT
+        - column:
+            constraints:
+              nullable: false
+            name: manufacturer
+            type: VARCHAR(255)
+        tableName: equipments
+- changeSet:
+    id: 1754478658367-11
+    author: morteza (generated)
+    changes:
+    - addForeignKeyConstraint:
+        baseColumnNames: color_code
+        baseTableName: cars
+        constraintName: fkb7p43bp4npjj9640k3d7ex48d
+        deferrable: false
+        initiallyDeferred: false
+        onDelete: NO ACTION
+        onUpdate: NO ACTION
+        referencedColumnNames: code
+        referencedTableName: colors
+        validate: true
+- changeSet:
+    id: 1754478658367-12
+    author: morteza (generated)
+    changes:
+    - addForeignKeyConstraint:
+        baseColumnNames: upholstery_code
+        baseTableName: cars
+        constraintName: fkrar6pwvv562u27nkc5sqf06my
+        deferrable: false
+        initiallyDeferred: false
+        onDelete: NO ACTION
+        onUpdate: NO ACTION
+        referencedColumnNames: code
+        referencedTableName: upholsteries
+        validate: true
+

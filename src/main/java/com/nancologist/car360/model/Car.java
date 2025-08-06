@@ -54,16 +54,16 @@ public class Car {
 
     // Engine Specifications:
 
-    @Column(name = "power_in_kw", columnDefinition = "SMALLINT")
-    private int powerInKw;
+    @Column(name = "power_in_kw")
+    private short powerInKw;
 
     @Column(name = "displacement_in_liter", columnDefinition = "REAL")
     private float displacementInLiter;
 
     // Todo: add fuel, cylinders, cylinders form later...
 
-    @Column(name = "doors_count", columnDefinition = "SMALLINT")
-    private int doorsCount;
+    @Column(name = "doors_count")
+    private short doorsCount;
 
     @Column(name = "transmission", columnDefinition = "VARCHAR(64)")
     private String transmission;

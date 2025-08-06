@@ -4,6 +4,12 @@ logging:
 #    root: TRACE
 
 spring:
+
+  liquibase:
+    change-log: classpath:db/changelog/db.changelog-master.yaml
+    default-schema: car360
+    enabled: true
+
   application:
     name: car360
 
@@ -22,7 +28,7 @@ spring:
         default_schema: car360
         format_sql: true # Optional: Formats SQL for better readability
     hibernate:
-      ddl-auto: update
+      ddl-auto: validate
       org:
         hibernate:
           SQL: DEBUG
