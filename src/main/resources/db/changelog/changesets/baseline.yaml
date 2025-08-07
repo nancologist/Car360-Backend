@@ -57,7 +57,8 @@ databaseChangeLog:
             type: VARCHAR(255)
         - column:
             name: equipment_codes
-            type: VARCHAR[]
+            type: VARCHAR[] # (Postgres supports this but not H2)
+#            type: VARCHAR ARRAY
         tableName: cars
 - changeSet:
     id: 1754478658367-2

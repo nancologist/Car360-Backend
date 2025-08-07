@@ -30,7 +30,9 @@ class UpholsteryImportObject {
 public class UpholsteryDataTransformer {
     private static final String JDBC_URL = "jdbc:postgresql://localhost:5432/springular?currentSchema=car360";
     static final private Path FILE_PATH = Paths.get("src/main/resources/data/orig/550iAT_F11_LCI_HR91.txt");
-    static final private Pattern upholsteryPattern = Pattern.compile("(Upholstery|Polsterung|Stoldynor)\\s+(.+)\\((\\w+)\\)");
+    static final private Pattern upholsteryPattern = Pattern.compile(
+            "(Upholstery|Polsterung|Stoldynor)\\s+(.+)\\((\\w+)\\)"
+    );
 
     public static void main(String[] args) throws IOException {
         List<UpholsteryImportObject> upholsteries = readFile();
@@ -41,11 +43,12 @@ public class UpholsteryDataTransformer {
         try (Stream<String> lines = Files.lines(FILE_PATH)) {
             List<UpholsteryImportObject> upholsteries = new ArrayList<>();
 
-            lines.forEach( (line) -> {
+            lines.forEach((line) -> {
                 Matcher upholsteryMatcher = upholsteryPattern.matcher(line);
                 if (upholsteryMatcher.find()) {
                     String upholsteryCode = upholsteryMatcher.group(3).trim();
-                    boolean codeAlreadyExists = upholsteries.stream().anyMatch(item -> item.code.equals(upholsteryCode));
+                    boolean codeAlreadyExists = upholsteries.stream().anyMatch(
+                            item -> item.code.equals(upholsteryCode));
                     if (!codeAlreadyExists) {
                         UpholsteryImportObject upholstery = new UpholsteryImportObject(
                                 "BMW",

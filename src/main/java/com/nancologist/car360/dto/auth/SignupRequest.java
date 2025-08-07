@@ -16,7 +16,8 @@ public class SignupRequest {
 
     @NotBlank
     @Email(message = "Email should be valid")
-    // Add @Pattern, because @Email does not catch john@example which is possible in local networks but very rare for public use
+    // Add @Pattern, because @Email does not catch john@example which is possible in local networks but very rare for
+    // public use
     @Pattern(
             regexp = "^[A-Za-z0-9+_.-]+@[A-Za-z0-9.-]+\\.[A-Za-z]{2,6}$",
             message = "Email should be valid"

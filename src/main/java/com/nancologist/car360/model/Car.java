@@ -71,6 +71,6 @@ public class Car {
     @Column(name = "drive", columnDefinition = "VARCHAR(64)")
     private String drive;
 
-    @Column(name = "equipment_codes", columnDefinition = "VARCHAR(64)[]")
+    @Column(name = "equipment_codes")
     private List<String> equipmentCodes;
 }

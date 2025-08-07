@@ -48,4 +48,4 @@ class CarRepositoryImpl implements CarRepositoryCustom {
     }
 }
 
-public interface CarRepository extends JpaRepository<Car, Long>, CarRepositoryCustom {}
+public interface CarRepository extends JpaRepository<Car, Long>, CarRepositoryCustom { }

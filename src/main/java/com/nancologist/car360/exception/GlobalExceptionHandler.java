@@ -13,7 +13,8 @@ import java.util.Map;
 @RestControllerAdvice
 public class GlobalExceptionHandler {
 
-    // Without this handler the 400s (bad requests), e.g. the failed validation on requests, falls into the 403s (forbidden)
+    // Without this handler the 400s (bad requests), e.g. the failed validation on requests, falls into the 403s
+    // (forbidden)
     @ExceptionHandler(MethodArgumentNotValidException.class)
     public ResponseEntity<?> handleValidationErrors(MethodArgumentNotValidException ex) {
         Map<String, String> errors = new HashMap<>();

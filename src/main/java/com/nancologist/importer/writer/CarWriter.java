@@ -18,40 +18,33 @@ public class CarWriter {
     public static void main(String[] args) throws IOException {
         List<Car> cars = getCars();
         try {
-            // TODO: Put the username and password into env. vars. and create env vars template and ignore the env var file
+            // TODO: Put the username and password into env. vars.
+            //  and create env vars template and ignore the env var file
             Connection connection = DriverManager.getConnection(JDBC_URL, "admin", "admin");
 
             String checkQuery = "SELECT COUNT(*) FROM cars";
-            ResultSet resultSet = connection.createStatement().executeQuery(checkQuery);
-            // if (resultSet.next()) {
-            //     int count = resultSet.getInt(1);
-            //     if (count > 0) {
-            //         System.out.println("Table already contains some data COUNT=" + count);
-            //         System.out.println("Import aborted.");
-            //         return;
-            //     }
-            // }
+            connection.createStatement().executeQuery(checkQuery);
 
             connection.setAutoCommit(false);
             String insertQuery = """
-                    	INSERT INTO car360.cars(
-                                color_code,
-                                displacement_in_liter,
-                                doors_count,
-                                drive,
-                                equipment_codes,
-                                manufacturer,
-                                model,
-                                power_in_kw,
-                                production_date,
-                                transmission,
-                                upholstery_code,
-                                vin,
-                    	        body_style_code,
-                                facelift,
-                                steering
+                        INSERT INTO car360.cars(
+                            color_code,
+                            displacement_in_liter,
+                            doors_count,
+                            drive,
+                            equipment_codes,
+                            manufacturer,
+                            model,
+                            power_in_kw,
+                            production_date,
+                            transmission,
+                            upholstery_code,
+                            vin,
+                            body_style_code,
+                            facelift,
+                            steering
                             )
-                            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     """;
             try (PreparedStatement preparedStatement = connection.prepareStatement(insertQuery)) {
                 for (Car car : cars) {
@@ -59,11 +52,14 @@ public class CarWriter {
                     preparedStatement.setFloat(2, car.getDisplacementInLiter());
                     preparedStatement.setInt(3, car.getDoorsCount());
                     preparedStatement.setString(4, car.getDrive());
-                    preparedStatement.setArray(5, connection.createArrayOf("VARCHAR", car.getEquipmentCodes().toArray()));
+                    preparedStatement.setArray(
+                            5,
+                            connection.createArrayOf("VARCHAR", car.getEquipmentCodes().toArray())
+                    );
                     preparedStatement.setString(6, car.getManufacturer());
                     preparedStatement.setString(7, car.getModel());
                     preparedStatement.setInt(8, car.getPowerInKw());
-                    preparedStatement.setDate(9, new java.sql.Date(car.getProductionDate().getTime()));
+                    preparedStatement.setDate(9, new Date(car.getProductionDate().getTime()));
                     preparedStatement.setString(10, car.getTransmission());
                     // preparedStatement.setString(11, car.getUpholsteryCode());
                     preparedStatement.setString(12, car.getVin());
@@ -88,7 +84,8 @@ public class CarWriter {
     private static List<Car> getCars() throws IOException {
         Gson gson = new Gson();
         try (FileReader reader = new FileReader(FILE_PATH)) {
-            Type listType = new TypeToken<List<Car>>() {}.getType();
+            Type listType = new TypeToken<List<Car>>() {
+            }.getType();
             return gson.fromJson(reader, listType);
         }
     }

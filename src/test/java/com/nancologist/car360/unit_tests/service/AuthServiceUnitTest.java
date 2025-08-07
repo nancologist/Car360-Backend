@@ -21,7 +21,7 @@ import static org.mockito.Mockito.*;
 
 @ExtendWith(MockitoExtension.class)
 @TestPropertySource(properties = "spring.security.jwtSecret=test_secret_123")
-public class AuthServiceTest {
+public class AuthServiceUnitTest {
 
     private AuthService authService;
 

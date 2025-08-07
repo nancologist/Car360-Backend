@@ -33,7 +33,8 @@ public class EquipmentWriter {
     public static void main(String[] args) throws IOException {
         List<BmwEquipment> equipments = getEquipments();
         try {
-            // TODO: Put the username and password into env. vars. and create env vars template and ignore the env var file
+            // TODO: Put the username and password into env. vars. and create env vars template and ignore the env
+            //  var file
             Connection connection = DriverManager.getConnection(JDBC_URL, "admin", "admin");
 
             String checkQuery = "SELECT COUNT(*) FROM equipments";
@@ -72,7 +73,8 @@ public class EquipmentWriter {
     private static List<BmwEquipment> getEquipments() throws IOException {
         Gson gson = new Gson();
         try (FileReader reader = new FileReader(FILE_PATH)) {
-            Type listType = new TypeToken<List<BmwEquipment>>() {}.getType();
+            Type listType = new TypeToken<List<BmwEquipment>>() {
+            }.getType();
             return gson.fromJson(reader, listType);
         }
     }
