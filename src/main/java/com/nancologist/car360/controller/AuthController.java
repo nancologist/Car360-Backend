@@ -4,6 +4,7 @@ import com.nancologist.car360.dto.auth.LoginRequest;
 import com.nancologist.car360.dto.auth.LoginResponse;
 import com.nancologist.car360.dto.auth.SignupRequest;
 import com.nancologist.car360.service.AuthService;
+import jakarta.annotation.security.PermitAll;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
@@ -20,12 +21,14 @@ public class AuthController {
 
     private final AuthService authService;
 
+    @PermitAll
     @PostMapping("/login")
     public ResponseEntity<LoginResponse> login(@Valid @RequestBody LoginRequest request) {
         LoginResponse response = authService.login(request);
         return ResponseEntity.ok(response);
     }
 
+    @PermitAll
     @PostMapping("/signup")
     public ResponseEntity<Void> signup(@Valid @RequestBody SignupRequest request) {
         authService.signup(request);
