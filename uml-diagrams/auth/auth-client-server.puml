@@ -1,0 +1,32 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+== Authentication ==
+Client -> Server: POST /api/auth/login\n(username, password)
+Server --> Client: 200 OK\n(JWT + Refresh Token)
+
+Client -> Client: storeTokenInLocalStorageOrCookies()
+
+== Authenticated Requests ==
+Client -> Server: Send JWT in header of\n each non-public request
+Server -> Server: verifyToken()
+
+alt Token valid
+    Server --> Client: 200 OK (requested data)
+else Token expired
+    Server --> Client: 401 Unauthorized
+    == Token Refresh ==
+    Client -> Server: POST /api/auth/refresh\n(Refresh Token)
+    Server -> Server: verifyRefreshToken()
+    alt Refresh valid
+        Server --> Client: 200 OK (new JWT)
+        Client -> Server: Retry original request\nwith new JWT
+        Server --> Client: 200 OK (requested data)
+    else Refresh invalid
+        Server --> Client: 403 Forbidden\n(User must log in again)
+    end
+else Token invalid
+    Server --> Client: 403 Forbidden
+end
+
+@enduml

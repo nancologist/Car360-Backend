@@ -4,7 +4,6 @@ import com.nancologist.car360.dto.CarDto;
 import com.nancologist.car360.dto.CarThumbnailDto;
 import com.nancologist.car360.repository.CarRepository;
 import com.nancologist.car360.service.CarService;
-import jakarta.annotation.security.PermitAll;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
@@ -27,7 +26,6 @@ public class CarController {
     private final CarRepository carRepository;
     private final CarService carService;
 
-    @PermitAll
     @GetMapping("/{id}/color-image")
     public ResponseEntity<byte[]> getCarColorImage(@PathVariable("id") Long carId) {
         byte[] imageBytes = carService.getCarColorImage(carId);
@@ -43,13 +41,11 @@ public class CarController {
         return new ResponseEntity<>(imageBytes, headers, HttpStatus.OK);
     }
 
-    @PermitAll
     @GetMapping("/{id}")
     public ResponseEntity<CarDto> getCar(@PathVariable("id") Long id) {
         return ResponseEntity.ok(carService.getCarById(id));
     }
 
-    @PermitAll
     @GetMapping
     public ResponseEntity<List<CarThumbnailDto>> getCarThumbnails() {
         return ResponseEntity.ok(carRepository.getCarThumbnails());

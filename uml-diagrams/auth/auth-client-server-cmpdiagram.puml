@@ -1,0 +1,43 @@
+@startuml
+'https://plantuml.com/component-diagram
+
+title Spring Boot JWT Authentication - Component Diagram
+
+actor Client
+
+package "Spring Boot Application" {
+
+    [AuthController] <<Controller>>
+    [ProtectedController] <<Controller>>
+    [AuthService] <<Service>>
+    [UserService] <<Service>>
+    [JwtTokenProvider] <<Component>>
+    [JwtAuthFilter] <<Filter>>
+    [UserRepository] <<Repository>>
+
+    database "Database" as DB
+}
+
+' --- Client interactions ---
+Client --> [AuthController] : POST /api/auth/login\n(username, password)
+Client --> [ProtectedController] : Any non-public request\n(with JWT)
+Client --> [AuthController] : POST /api/auth/refresh\n(refresh token)
+
+' --- Controller to Service ---
+[AuthController] --> [AuthService]
+[ProtectedController] --> [JwtAuthFilter] : Intercept request\nverify token
+[JwtAuthFilter] --> [JwtTokenProvider] : validateToken()
+
+' --- Auth Flow ---
+[AuthService] --> [UserService] : loadUserByUsername()
+[UserService] --> [UserRepository] : findByUsername()
+[UserRepository] --> DB : Query user
+
+' --- Token Generation ---
+[AuthService] --> [JwtTokenProvider] : createToken()
+[JwtTokenProvider] --> [AuthService] : JWT
+
+' --- Token Refresh ---
+[AuthService] --> [JwtTokenProvider] : createToken() (new JWT)
+
+@enduml
