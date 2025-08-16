@@ -27,7 +27,7 @@ public class GlobalExceptionHandler {
     @ExceptionHandler(BadCredentialsException.class)
     public ResponseEntity<?> handleBadCredentials() {
         Map<String, String> error = new HashMap<>();
-        error.put("error", "Invalid username or password");
+        error.put("message", "Invalid username or password");
         return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body(error);
     }
 }
