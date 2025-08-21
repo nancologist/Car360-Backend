@@ -1,15 +1,26 @@
 package com.nancologist.car360.dto;
 
+import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Getter;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+import static io.swagger.v3.oas.annotations.media.Schema.RequiredMode.REQUIRED;
+
 @Getter
 public class CarThumbnailDto {
+
+    @Schema(requiredMode = REQUIRED)
     private final Long carId;
+
+    @Schema(requiredMode = REQUIRED)
     private final String name;
+
+    @Schema(requiredMode = REQUIRED)
     private final Date productionDate;
+
+    @Schema(requiredMode = REQUIRED)
     private final String color;
 
     public CarThumbnailDto(Long carId,

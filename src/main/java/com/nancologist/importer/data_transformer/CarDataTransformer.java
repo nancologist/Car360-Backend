@@ -26,7 +26,7 @@ public class CarDataTransformer {
     );
     // Fixme: it does not find equipment codes of cars in english section (count=18), either fix the regex or add
     //  them manually
-    static final private Pattern equipmentCodesPattern = Pattern.compile("^([SP]\\w{4})\\s");
+    static final private Pattern equipmentCodesPattern = Pattern.compile("^([SP]\\w{4})\\b");
 
     public static void main(String[] args) throws IOException {
         List<Object> cars = new ArrayList<>();

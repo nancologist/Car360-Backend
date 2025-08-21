@@ -2,7 +2,7 @@ package com.nancologist.importer.writer;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
-import com.nancologist.car360.model.Car;
+import com.nancologist.importer.CarImportModel;
 
 import java.io.FileReader;
 import java.io.IOException;
@@ -16,14 +16,11 @@ public class CarWriter {
     private static final String FILE_PATH = "src/main/resources/data/result/car-data-ref.json";
 
     public static void main(String[] args) throws IOException {
-        List<Car> cars = getCars();
+        List<CarImportModel> cars = getCars();
         try {
             // TODO: Put the username and password into env. vars.
             //  and create env vars template and ignore the env var file
             Connection connection = DriverManager.getConnection(JDBC_URL, "admin", "admin");
-
-            String checkQuery = "SELECT COUNT(*) FROM cars";
-            connection.createStatement().executeQuery(checkQuery);
 
             connection.setAutoCommit(false);
             String insertQuery = """
@@ -47,8 +44,8 @@ public class CarWriter {
                         VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                     """;
             try (PreparedStatement preparedStatement = connection.prepareStatement(insertQuery)) {
-                for (Car car : cars) {
-                    // preparedStatement.setString(1, car.getColorCode());
+                for (CarImportModel car : cars) {
+                    preparedStatement.setString(1, car.getColorCode());
                     preparedStatement.setFloat(2, car.getDisplacementInLiter());
                     preparedStatement.setInt(3, car.getDoorsCount());
                     preparedStatement.setString(4, car.getDrive());
@@ -61,7 +58,7 @@ public class CarWriter {
                     preparedStatement.setInt(8, car.getPowerInKw());
                     preparedStatement.setDate(9, new Date(car.getProductionDate().getTime()));
                     preparedStatement.setString(10, car.getTransmission());
-                    // preparedStatement.setString(11, car.getUpholsteryCode());
+                    preparedStatement.setString(11, car.getUpholsteryCode());
                     preparedStatement.setString(12, car.getVin());
                     preparedStatement.setString(13, car.getBodyStyleCode());
                     preparedStatement.setBoolean(14, car.isFacelift());
@@ -81,10 +78,10 @@ public class CarWriter {
         }
     }
 
-    private static List<Car> getCars() throws IOException {
+    private static List<CarImportModel> getCars() throws IOException {
         Gson gson = new Gson();
         try (FileReader reader = new FileReader(FILE_PATH)) {
-            Type listType = new TypeToken<List<Car>>() {
+            Type listType = new TypeToken<List<CarImportModel>>() {
             }.getType();
             return gson.fromJson(reader, listType);
         }
