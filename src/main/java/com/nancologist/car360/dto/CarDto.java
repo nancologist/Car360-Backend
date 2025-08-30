@@ -18,7 +18,7 @@ public class CarDto {
     private final Long id;
 
     @Schema(requiredMode = REQUIRED)
-    private final String vin;
+    private final String vinLast4;
 
     @Schema(requiredMode = REQUIRED)
     private final String manufacturer;
@@ -64,7 +64,7 @@ public class CarDto {
 
     public CarDto(Car car, List<Equipment> equipments) {
         this.id = car.getId();
-        this.vin = car.getVin();
+        this.vinLast4 = car.getVin().substring(13); // VIN is 17 characters long
         this.manufacturer = car.getManufacturer();
         this.model = car.getModel();
         this.bodyStyleCode = car.getBodyStyleCode();
