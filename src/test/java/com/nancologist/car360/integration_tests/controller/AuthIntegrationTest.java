@@ -161,6 +161,6 @@ public class AuthIntegrationTest {
                                 .content(objectMapper.writeValueAsString(loginRequest))
                 )
                 .andExpect(status().isUnauthorized())
-                .andExpect(jsonPath("$.error").value("Invalid username or password"));
+                .andExpect(jsonPath("$.message").value("Invalid username or password"));
     }
 }
