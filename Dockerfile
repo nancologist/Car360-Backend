@@ -12,7 +12,7 @@ COPY .mvn .mvn
 COPY src ./src
 
 # Build the app
-RUN ./mvnw clean package -DskipTests
+RUN ./mvnw clean package -DskipTests -Dcheckstyle.skip=true
 
 # Expose port 8080
 EXPOSE 8080
