@@ -1,39 +1,36 @@
 logging:
   level:
-    com.nancologist.car360: TRACE
-#    root: TRACE
+    com.nancologist.car360: ${LOGGING_LEVEL_COM_NANCOLOGIST_CAR360}
+#    root: ${LOGGING_LEVEL_ROOT}
 
 spring:
 
   liquibase:
-    change-log: classpath:db/changelog/db.changelog-master.yaml
-    default-schema: car360
-    enabled: true
+    change-log: ${SPRING_LIQUIBASE_CHANGE_LOG}
+    default-schema: ${SPRING_LIQUIBASE_DEFAULT_SCHEMA}
+    enabled: ${SPRING_LIQUIBASE_ENABLED}
 
   application:
-    name: car360
+    name: ${SPRING_APPLICATION_NAME}
 
   security:
-    jwtSecret: AVeryStrongKeyToGenerateJwtTokensss2313138989011
+    jwtSecret: ${SPRING_SECURITY_JWTSECRET}
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/springular
-    username: admin
-    password: admin
-    driver-class-name: org.postgresql.Driver
+    url: ${SPRING_DATASOURCE_URL}
+    username: ${SPRING_DATASOURCE_USERNAME}
+    password: ${SPRING_DATASOURCE_PASSWORD}
+    driver-class-name: ${SPRING_DATASOURCE_DRIVER_CLASS_NAME}
 
   jpa:
     properties:
       hibernate:
-        default_schema: car360
-        format_sql: true # Optional: Formats SQL for better readability
+        default_schema: ${SPRING_JPA_PROPERTIES_HIBERNATE_DEFAULT_SCHEMA}
+        format_sql: ${SPRING_JPA_PROPERTIES_HIBERNATE_FORMAT_SQL}
     hibernate:
-      ddl-auto: validate
-      org:
-        hibernate:
-          SQL: DEBUG
-    show-sql: true # Optional: Logs SQL queries
+      ddl-auto: ${SPRING_JPA_HIBERNATE_DDL_AUTO}
+    show-sql: ${SPRING_JPA_SHOW_SQL}
 
   output:
     ansi:
-      enabled: always # Get colorful output in Terminal!
+      enabled: ${SPRING_OUTPUT_ANSI_ENABLED}
