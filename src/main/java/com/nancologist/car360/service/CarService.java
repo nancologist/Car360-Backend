@@ -28,9 +28,6 @@ public class CarService {
             cars = carRepository.findAll(Sort.by("productionDate").descending());
         }
 
-        System.out.println("SIZEEE");
-        System.out.println(cars.size());
-
         return cars
                 .stream()
                 .map(car -> new CarThumbnailDto(
