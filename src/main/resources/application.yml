@@ -34,4 +34,4 @@ spring:
 
   output:
     ansi:
-      enabled: ${SPRING_OUTPUT_ANSI_ENABLED}
+      enabled: always
