@@ -11,32 +11,28 @@ spring:
     enabled: ${SPRING_LIQUIBASE_ENABLED}
 
   application:
-    name: ${SPRING_APPLICATION_NAME}
+    name: car360
 
   security:
     jwtSecret: ${SPRING_SECURITY_JWTSECRET}
 
   datasource:
-    url: ${SPRING_DATASOURCE_URL}
-    username: ${SPRING_DATASOURCE_USERNAME}
-    password: ${SPRING_DATASOURCE_PASSWORD}
-    driver-class-name: ${SPRING_DATASOURCE_DRIVER_CLASS_NAME}
+    url: ${DB_URL}
+    username: ${DB_USERNAME}
+    password: ${DB_PASSWORD}
+    driver-class-name: org.postgresql.Driver
       
 
   jpa:
     properties:
       hibernate:
-        default_schema: ${SPRING_JPA_PROPERTIES_HIBERNATE_DEFAULT_SCHEMA}
+        default_schema: car360
         format_sql: ${SPRING_JPA_PROPERTIES_HIBERNATE_FORMAT_SQL}
         dialect: org.hibernate.dialect.PostgreSQLDialect
-        jdbc:
-          url: ${SPRING_DATASOURCE_URL}
-          user: ${SPRING_DATASOURCE_USERNAME}
-          password: ${SPRING_DATASOURCE_PASSWORD}
     hibernate:
       ddl-auto: ${SPRING_JPA_HIBERNATE_DDL_AUTO}
     show-sql: ${SPRING_JPA_SHOW_SQL}
 
   output:
     ansi:
-      enabled: ${SPRING_OUTPUT_ANSI_ENABLED}
+      enabled: always
