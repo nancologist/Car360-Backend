@@ -28,7 +28,12 @@ spring:
         default_schema: car360
         format_sql: ${SPRING_JPA_PROPERTIES_HIBERNATE_FORMAT_SQL}
         dialect: org.hibernate.dialect.PostgreSQLDialect
-        ddl-auto: ${SPRING_JPA_HIBERNATE_DDL_AUTO}
+        jdbc:
+          url: ${DB_URL}
+          user: ${DB_USERNAME}
+          password: ${DB_PASSWORD}
+        hibernate:
+          ddl-auto: ${SPRING_JPA_HIBERNATE_DDL_AUTO}
 
     show-sql: ${SPRING_JPA_SHOW_SQL}
 
