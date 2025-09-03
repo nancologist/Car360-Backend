@@ -9,7 +9,7 @@ COPY mvnw pom.xml ./
 COPY .mvn .mvn
 
 # Copy source code
-COPY src/main/java/com/nancologist/car360 ./src/main/java/com/nancologist/car360
+COPY src/ ./src
 
 # Build the app
 RUN ./mvnw clean package -DskipTests -Dcheckstyle.skip=true
