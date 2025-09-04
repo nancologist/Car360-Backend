@@ -23,4 +23,12 @@ public class EquipmentService {
                 equipment.getDescription()
         )).toList();
     }
+
+    public List<EquipmentDto> findAllEquipments() {
+        return this.equipmentRepository.findAll().stream().map(equipment -> new EquipmentDto(
+                equipment.getId(),
+                equipment.getCode(),
+                equipment.getDescription()
+        )).toList();
+    }
 }

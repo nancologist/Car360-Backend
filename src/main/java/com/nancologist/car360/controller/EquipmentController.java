@@ -21,6 +21,12 @@ public class EquipmentController {
 
     @PermitAll
     @GetMapping()
+    public ResponseEntity<List<EquipmentDto>> getAllEquipments() {
+        return ResponseEntity.ok(equipmentService.findAllEquipments());
+    }
+
+    @PermitAll
+    @GetMapping("/search")
     public ResponseEntity<List<EquipmentDto>> searchEquipments(@RequestParam String search) {
         return ResponseEntity.ok(equipmentService.searchEquipments(search));
     }

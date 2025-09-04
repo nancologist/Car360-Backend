@@ -5,6 +5,7 @@ import lombok.Getter;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import java.util.List;
 
 import static io.swagger.v3.oas.annotations.media.Schema.RequiredMode.REQUIRED;
 
@@ -23,16 +24,21 @@ public class CarThumbnailDto {
     @Schema(requiredMode = REQUIRED)
     private final String color;
 
+    @Schema(requiredMode = REQUIRED)
+    private final List<String> equipmentCodes;
+
     public CarThumbnailDto(Long carId,
                            String manufacturer,
                            String bodyStyleCode,
                            String model,
                            String color,
-                           Date productionDate) {
+                           Date productionDate,
+                           List<String> equipmentCodes) {
         this.carId = carId;
         this.name = String.format("%s - %s %s", manufacturer, bodyStyleCode, model);
         this.productionDate = productionDate;
         this.color = color;
+        this.equipmentCodes = equipmentCodes;
     }
 
     public String getProductionDate() {
