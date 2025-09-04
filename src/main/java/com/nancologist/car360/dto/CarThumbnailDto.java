@@ -1,5 +1,6 @@
 package com.nancologist.car360.dto;
 
+import com.nancologist.car360.model.Color;
 import io.swagger.v3.oas.annotations.media.Schema;
 import lombok.Getter;
 
@@ -22,7 +23,7 @@ public class CarThumbnailDto {
     private final Date productionDate;
 
     @Schema(requiredMode = REQUIRED)
-    private final String color;
+    private final ColorOption color;
 
     @Schema(requiredMode = REQUIRED)
     private final List<String> equipmentCodes;
@@ -31,13 +32,13 @@ public class CarThumbnailDto {
                            String manufacturer,
                            String bodyStyleCode,
                            String model,
-                           String color,
+                           Color color,
                            Date productionDate,
                            List<String> equipmentCodes) {
         this.carId = carId;
         this.name = String.format("%s - %s %s", manufacturer, bodyStyleCode, model);
         this.productionDate = productionDate;
-        this.color = color;
+        this.color = new ColorOption(color.getId(), color.getCode(), color.getName());
         this.equipmentCodes = equipmentCodes;
     }
 
