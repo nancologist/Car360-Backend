@@ -14,7 +14,7 @@ public class UpholsteryService {
     private final UpholsteryRepository upholsteryRepository;
 
     public List<UpholsteryOption> findAllUpholsteries() {
-        return this.upholsteryRepository.findAll().stream().map(upholstery -> new UpholsteryOption(
+        return this.upholsteryRepository.findAllByOrderByName().stream().map(upholstery -> new UpholsteryOption(
                 upholstery.getId(),
                 upholstery.getCode(),
                 upholstery.getName()

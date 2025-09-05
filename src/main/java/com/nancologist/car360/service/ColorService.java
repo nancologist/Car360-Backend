@@ -14,7 +14,7 @@ public class ColorService {
     private final ColorRepository colorRepository;
 
     public List<ColorOption> findAllColors() {
-        return this.colorRepository.findAll().stream().map(color -> new ColorOption(
+        return this.colorRepository.findAllByOrderByName().stream().map(color -> new ColorOption(
                 color.getId(),
                 color.getCode(),
                 color.getName()
