@@ -36,6 +36,7 @@ public class CarService {
                         car.getBodyStyleCode(),
                         car.getModel(),
                         car.getColor(),
+                        car.getUpholstery().getId(),
                         car.getProductionDate(),
                         car.getEquipmentCodes()
                 ))

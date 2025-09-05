@@ -1,6 +1,5 @@
 package com.nancologist.car360.service;
 
-import com.nancologist.car360.dto.ColorDto;
 import com.nancologist.car360.dto.ColorOption;
 import com.nancologist.car360.repository.ColorRepository;
 import lombok.RequiredArgsConstructor;

@@ -26,6 +26,9 @@ public class CarThumbnailDto {
     private final ColorOption color;
 
     @Schema(requiredMode = REQUIRED)
+    private final Long upholsteryId;
+
+    @Schema(requiredMode = REQUIRED)
     private final List<String> equipmentCodes;
 
     public CarThumbnailDto(Long carId,
@@ -33,12 +36,14 @@ public class CarThumbnailDto {
                            String bodyStyleCode,
                            String model,
                            Color color,
+                           long upholsteryId,
                            Date productionDate,
                            List<String> equipmentCodes) {
         this.carId = carId;
         this.name = String.format("%s - %s %s", manufacturer, bodyStyleCode, model);
         this.productionDate = productionDate;
         this.color = new ColorOption(color.getId(), color.getCode(), color.getName());
+        this.upholsteryId = upholsteryId;
         this.equipmentCodes = equipmentCodes;
     }
 
